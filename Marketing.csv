@@ -1,0 +1,901 @@
+﻿ID Client;Prénom;Nom;Email;Date Naissance;Sexe;CSP;Adresse;Code Postal;Commune;NPAI;Points;Segment; Revenu ;Statut Marital;Nombre enfants;Véhicule;Crédit Immobilier;Compte Epargne;Compte Livret A;Age Client;TARGET
+1000124;richard;MASSE;richard.masse@wanadoo.fr;18/01/2000;F;Cadre moyen / Enseignants;66 IMPASSE DES ORANGERS;83 210;LA FARLEDE;Oui;120;Occassionel; 11 043,70 € ;Oui;1;Oui;Oui;Non;Oui;14,92;Non
+1000125;michel;LECOQ;michel.lecoq@clubinternet.fr;29/05/2000;H;Cadre superieur / dirigeant;30 PLACE DE LA LIBERTE;83 210;LA FARLEDE;Oui;91;Occassionel; 24 027,60 € ;Non;0;Non;Oui;Oui;Non;14,56;Oui
+1000126;sebastien;MAZIER;sebastien.mazier@wanadoo.fr;19/09/2000;F;Profession Liberale;LE VILLA NOVA;83 130;LA GARDE;Oui;69;Nouveau; 28 495,10 € ;Oui;0;Non;Oui;Oui;Non;14,25;Non
+1000127;stephen;KAPITANI; ;18/07/2000;H;Cadre moyen / Enseignants; ;83 160;LA VALETTE DU VAR;Non;156;Occassionel; 9 465,21 € ;Non;0;Non;Non;Oui;Non;14,42;Oui
+1000128;jean-pierre;DE CHANTERA;jean-pierre_de chanterac@alice.fr;18/05/2000;F;Cadre superieur / dirigeant;15 ALLEE BEAUSOLEIL;83 160;LA VALETTE DU VAR;Oui;134;Top; 34 852,30 € ;Oui;1;Non;Oui;Non;Oui;14,59;Oui
+1000129;henri;BAQUALA;henri.baquala@neuf.fr;08/06/2000;H;Cadre moyen / Enseignants;2725 CHEMIN LONG;83 260;LA CRAU;Oui;266;Top; 21 268,40 € ;Oui;0;Non;Non;Oui;Oui;14,53;Oui
+1000130;francoise;SCHENK;francoise_schenk@alice.fr;09/10/2000;F;Profession Liberale;LA GOELETTE 11 B AV DU;83 000;TOULON;Oui;0;Fidèle; 50 849,20 € ;Non;1;Non;Oui;Non;Oui;14,19;Oui
+1000131;julien;MAUREL;julien.maurel@wanadoo.fr;09/06/2000;F;Cadre moyen / Enseignants;16 AVENUE DU SOLEIL LEVANT;83 400;HYERES;Oui;12;Occassionel; 18 555,90 € ;Oui;3;Non;Non;Oui;Non;14,53;Non
+1000132; ;PIOT-VERGEA;piot-vergeaux@gmail.com;17/07/2000;F;;AV GAL HENRI JOSE GOURAUD;83 200;TOULON;Oui;256;Fidèle; 52 769,90 € ;Oui;3;Oui;Oui;Oui;Non;14,42;Oui
+1000133;felix;LIENART; ;14/03/2000;F;Cadre superieur / dirigeant;113 ALLEE DU SERPOLET;83 160;LA VALETTE;Oui;259;Top; 11 601,40 € ;Oui;2;Non;Oui;Oui;Oui;14,77;Non
+1000134;guy;GILBERT;guy.gilbert@free.fr;15/02/2000;F;Employés; ;83 160;LA VALETTE DU VAR;Non;167;Occassionel; 29 541,70 € ;Oui;0;Non;Oui;Non;Non;14,84;Non
+1000135;alain;CEZARD;alain.cezard@wanadoo.fr;04/07/2000;F;Cadre moyen / Enseignants;3872 COR M ESCARTEFIGUE;83 200;TOULON;Oui;150;Nouveau; 17 861,00 € ;Oui;2;Non;Oui;Oui;Non;14,46;Non
+1000136;roselyne;PALLARD;roselyne.pallard@wanadoo.fr;14/10/2000;F;Profession Liberale;CH DE LA PELLEGRINE;83 790;PIGNANS;Oui;161;Nouveau; 21 042,00 € ;Oui;1;Non;Non;Oui;Non;14,18;Oui
+1000137;olivier;SOMMER;olivier.sommer@wanadoo.fr;01/07/2000;F;Cadre moyen / Enseignants;6 ALLEE DES DAHALIAS;83 320;CARQUEIRANNE;Oui;191;Occassionel; 26 688,10 € ;Oui;1;Non;Oui;Non;Oui;14,47;Oui
+1000138; ;SASSAN;sassan@gmail.com;20/11/2000;F;Cadre moyen / Enseignants;97 RUE DES TOURTERELLES;83 130;LA GARDE;Oui;103;Top; 269,60 € ;Oui;2;Non;Non;Non;Oui;14,08;Non
+1000139;gaston;BERTOZZI;gaston.bertozzi@clubinternet.fr;10/08/2000;F;Cadre moyen / Enseignants;C COMMERCIAL GRAND VAR;83 130;LA GARDE;Oui;44;Top; 38 080,90 € ;Oui;1;Oui;Oui;Non;Oui;14,36;Non
+1000140;gerard;VANBORRE;gerard.vanborre@clubinternet.fr;30/08/2000; ;Employés;27 RUE CHAMPOLLION;83 200;TOULON;Oui;246;Nouveau; 37 554,10 € ;Oui;2;Oui;Oui;Oui;Oui;14,30;Oui
+1000141;claude;CARRE;claude.carre@free.fr;13/06/2000;F;Cadre moyen / Enseignants;LA CLAUDERIE QUARTIER LA;83 390;PUGET VILLE;Oui;143;Top; 18 184,60 € ;Oui;0;Non;Non;Oui;Oui;14,52;Oui
+1000142;odette;LERAT;odette_lerat@alice.fr;20/04/2000;F;Profession Liberale;800 ROUTE DE PIERREFEU;83 260;LA CRAU;Oui;131;Nouveau; 28 864,90 € ;Oui;0;Non;Oui;Oui;Non;14,66;Non
+1000143;anne-marie;LABOUX;anne-marie.laboux@free.fr;13/02/2000;F;Employés;29 RUE CHAMPLAIN;0;LA CRAU;Oui;208;Fidèle; 48 346,10 € ;Oui;1;Oui;Oui;Non;Non;14,85;Oui
+1000144;jean-pierre;MARQUE;jean-pierre.marque@wanadoo.fr;28/05/2000;F;Cadre moyen / Enseignants;318 CHEMIN DE LA CHAPELLE;83 330;LE CASTELLET;Oui;232;Top; 53 104,30 € ;Oui;0;Oui;Oui;Oui;Non;14,56;Non
+1000145;francoise;HENRY;francoise.henry@wanadoo.fr;28/10/2000;F;Cadre moyen / Enseignants; ;83 130;LA GARDE;Non;51;Top; 19 416,80 € ;Oui;0;Non;Oui;Oui;Non;14,14;Non
+1000146;michel;CAMPANAUD;michel.campanaud@wanadoo.fr;05/01/2000;F;;19 RUE GEORGES SIMENON;83 400;HYERES;Oui;192;Fidèle; 23 638,10 € ;Oui;2;Oui;Oui;Oui;Non;14,95;Non
+1000147;claude;COUILLEAU;claude.couilleau@free.fr;25/12/2000;F;Cadre moyen / Enseignants;104 ALLEE DES MAGNOLIAS;83 100;TOULON;Oui;148;Occassionel; 42 378,20 € ;Oui;1;Non;Oui;Oui;Non;13,98;Oui
+1000148;philippe;CONNELL;philippe.connell@wanadoo.fr;24/06/2000;F;Cadre moyen / Enseignants; ;83 160;LA VALETTE;Non;127;Fidèle; 39 745,30 € ;Oui;0;Oui;Oui;Non;Oui;14,49;Non
+1000149;pierre;LAMIDIEU;pierre.lamidieu@free.fr;28/01/2000;H;Cadre moyen / Enseignants;IMPASSE DES PARPAILLONS;83 136;ROCBARON;Oui;109;Top; 45 189,80 € ;Oui;0;Non;Oui;Non;Non;14,89;Non
+1000150;cecile;PELLE;cecile.pelle@wanadoo.fr;14/04/2000;F;Employés; ;83 160;LA VALETTE DU VAR;Non;220;Top; 37 930,90 € ;Oui;0;Non;Oui;Non;Oui;14,68;Non
+1000151;helene;LAMOUSSIERE;helene.lamoussiere@free.fr;06/12/2000;F;Cadre superieur / dirigeant;AV AMIRAL JEAN PAUL OROSCO;83 160;LA VALETTE DU VAR;Oui;56;Top; 24 042,00 € ;Non;1;Non;Non;Oui;Non;14,03;Oui
+1000152;pierre;ALEMANI;pierre.alemani@free.fr;23/12/2000;F;Employés; ;83 220;LE PRADET;Non;174;Top; 31 207,10 € ;Non;0;Oui;Non;Oui;Oui;13,99;Oui
+1000153;michel;BELLANGER;michel_bellanger@alice.fr;26/08/2000;F;Employés;105 IMPASSE DES ALOUETTES;83 260;LA CRAU;Oui;210;Occassionel; 24 424,30 € ;Oui;0;Non;Oui;Oui;Oui;14,31;Non
+1000154;marc;MORZELLE;marc.morzelle@wanadoo.fr;27/07/2000;H;Ouvriers;23 CHEM DE LA MARQUISANNE;83 220;LE PRADET;Oui;113;Fidèle; 24 607,80 € ;Non;1;Non;Oui;Oui;Oui;14,40;Non
+1000155;vincent;QUESTEL;vincent.questel@wanadoo.fr;03/07/2000;H;Profession Liberale;15 ALLEE DES MAGNOLIAS;83 260;LA CRAU;Oui;173;Occassionel; 43 057,00 € ;Non;1;Oui;Oui;Oui;Non;14,46;Oui
+1000156;jean-marc;MAZAMIE;jean-marc_mazamie@alice.fr;04/04/2000;F;Cadre moyen / Enseignants;936 ROUTE DE TOURRIS;83 160;LA VALETTE;Oui;205;Nouveau; 30 198,50 € ;Oui;0;Oui;Non;Oui;Oui;14,71;Oui
+1000157;henry;GAZIER;henry.gazier@wanadoo.fr;09/07/2000;F;Ouvriers; ;83 190;OLLIOULES;Non;193;Fidèle; 50 186,10 € ;Oui;2;Non;Oui;Oui;Oui;14,44;Oui
+1000158;philippe;GILBERT;philippe.gilbert@free.fr;11/02/2000;H;Employés; ;83 400;HYERES;Non;61;Nouveau; 22 916,10 € ;Oui;0;Non;Non;Oui;Non;14,85;Non
+1000159;daniele;SORIANO;daniele.soriano@free.fr;06/08/2000;F;Employés;1247 ROUTE DU FARON;83 200;TOULON;Oui;65;Fidèle; 9 592,73 € ;Non;0;Non;Oui;Oui;Non;14,37;Oui
+1000160;christophe;VOYATIS;christophe.voyatis@wanadoo.fr;06/01/2000;F;Employés;432 RUE DES MICOUCOULIERS;83 110;SANARY;Oui;58;Top; 34 253,60 € ;Non;3;Oui;Non;Oui;Non;14,95;Non
+1000161;philippe;LANTZ;philippe.lantz@wanadoo.fr;22/12/2000;F;Cadre superieur / dirigeant;27 RUE PAUL CEZANNE;83 130;LA GARDE;Oui;83;Top; 22 792,30 € ;Oui;1;Oui;Oui;Non;Non;13,99;Oui
+1000162;bernard;MAYOT;bernard.mayot@neuf.fr;04/07/2000;F;Profession Liberale; ;83 330;LE BEAUSSET;Non;136;Occassionel; 51 620,80 € ;Non;2;Oui;Oui;Oui;Non;14,46;Oui
+1000163;m-helene;SIMON; ;12/05/2000;H;Profession Liberale;LA FARIGOULETTE IMP FLORY;83 160;LA VALETTE DU VAR;Oui;40;Occassionel; 19 918,90 € ;Oui;3;Non;Oui;Oui;Oui;14,60;Non
+1000164;anne-marie;UCHTO;anne-marie.uchto@clubinternet.fr;29/05/2000;F;Cadre superieur / dirigeant;2037 AVENUE COLONEL PICOT;83 100;TOULON;Oui;166;Occassionel; 29 625,10 € ;Oui;2;Non;Non;Oui;Non;14,56;Non
+1000165;philippe;NIVERT;philippe.nivert@free.fr;08/01/2000;F;Profession Liberale;740CH DU B CANEBAS;83 320;CARQUEIRANNE;Oui;187;Occassionel; 12 549,00 € ;Oui;0;Non;Oui;Oui;Non;14,95;Non
+1000166;pierre;REUTHON;pierre.reuthon@neuf.fr;01/01/2000;F;Cadre moyen / Enseignants; ;83 160;LA VALETTE;Non;46;Occassionel; 51 299,30 € ;Oui;1;Oui;Oui;Non;Non;14,97;Oui
+1000167;guy;SAMIN;guy.samin@neuf.fr;20/09/2000;F;Employés;220 CHEMIN DE PIERRASCAS;83 210;LA FARLEDE;Oui;88;Top; 17 364,80 € ;Oui;2;Oui;Oui;Non;Non;14,25;Oui
+1000168;delphine;KEMPF; ;29/04/2000;F;Employés;110 LOT PARC DE STE CLAIRE;83 160;LA VALETTE DU VAR;Oui;130;Top; 29 866,90 € ;Non;1;Oui;Non;Oui;Non;14,64;Oui
+1000169;flaure;CHARENTON; ;12/09/2000;H;Employés; ;83 130;LA GARDE;Non;105;Top; 47 750,20 € ;Oui;0;Oui;Oui;Oui;Oui;14,27;Non
+1000170;stephane;FRAGNIERE;stephane.fragniere@wanadoo.fr;30/06/2000;H;Cadre moyen / Enseignants;RUE MARCEL VANDELLI;83 220;LE PRADET;Oui;192;Occassionel; 11 281,50 € ;Oui;0;Non;Oui;Oui;Oui;14,47;Non
+1000171;fernand;LEDUCQ; ;26/11/2000;F;Cadre moyen / Enseignants;IMP MAS DE LA BEAUSSIERE;83 210;LA FARLEDE;Oui;17;Top; 34 073,80 € ;Oui;3;Non;Oui;Non;Oui;14,06;Non
+1000172;jean-yves;BURE;jean-yves.bure@wanadoo.fr;11/06/2000;F;Cadre moyen / Enseignants;12 R LT CHRISTIAN LEANDRI;83 100;TOULON;Oui;163;Top; 46 870,40 € ;Oui;0;Non;Oui;Oui;Non;14,52;Non
+1000173;christian;DRIN;christian.drin@wanadoo.fr;07/10/2000;F;Employés;250 CHEMIN DES PUITS;83 136;FORCALQUEIRET;Oui;215;Top; 38 453,70 € ;Non;2;Non;Oui;Oui;Non;14,20;Oui
+1000174;michel;PAOLINI;michel.paolini@free.fr;28/05/2000;F;; ;83 200;LE REVEST;Non;241;Top; 7 756,36 € ;Non;0;Non;Non;Non;Non;14,56;Oui
+1000175;gerard;ATLAN;gerard.atlan@free.fr;25/10/2000;F;Cadre moyen / Enseignants; ;83 160;LA VALETTE DU VAR;Non;250;Top; 28 413,80 € ;Oui;0;Non;Non;Oui;Non;14,15;Non
+1000176;fabienne;GUIGUES;fabienne.guigues@wanadoo.fr;28/05/2000;F;Employés;ALLEE DES MIMOSAS;83 160;LA VALETTE;Oui;219;Nouveau; 47 198,60 € ;Oui;2;Non;Oui;Oui;Non;14,56;Oui
+1000177;marc;DUBOIS;marc_dubois@alice.fr;23/07/2000;F;Profession Liberale;69 AVENUE DU POINT DU JOU;69 005;LYON;Oui;52;Top; 20 866,30 € ;Oui;0;Oui;Oui;Oui;Non;14,41;Non
+1000178;jean-paul;CABY; ;05/04/2000;F;Employés;229 AV TREMOLIERES;83 160;LA VALETTE;Oui;87;Occassionel; 33 204,30 € ;Non;1;Non;Non;Non;Oui;14,70;Oui
+1000179;marie-jose;CHIPAUX;marie-jose.chipaux@free.fr;24/08/2000;H;Cadre moyen / Enseignants; ;83 130;LA GARDE;Non;199;Top; 24 823,50 € ;Non;2;Non;Non;Oui;Non;14,32;Non
+1000180;roland;GINESTE; ;24/11/2000;F;Cadre moyen / Enseignants;LE MARCO POLO C2;83 160;LA VALETTE;Oui;53;Nouveau; 17 986,80 € ;Oui;0;Non;Non;Oui;Oui;14,07;Oui
+1000181;gerard;GALLIOU;gerard_galliou@alice.fr;13/07/2000;H;Employés;LES RESIDENCE DU LEVANT;83 400;HYERES;Oui;150;Top; 9 909,82 € ;Oui;3;Non;Non;Oui;Non;14,43;Non
+1000182;stephane;DE VALONNE;stephane.de valonne@wanadoo.fr;04/05/2000;H;Autres; ;83 160;LA VALETTE DU VAR;Non;112;Occassionel; 26 542,80 € ;Non;0;Oui;Oui;Oui;Non;14,63;Oui
+1000183;francois;TARDY;francois_tardy@alice.fr;06/09/2000;F;Cadre superieur / dirigeant;4 RUE DUMONT D URVILLE;83 000;TOULON;Oui;116;Top; 32 583,50 € ;Oui;2;Oui;Oui;Oui;Non;14,28;Non
+1000184;francois;PICARD; ;22/08/2000;F;Cadre moyen / Enseignants;353 BOULEVARD DES ECOLES;83 140;SIX FOURS LES PLAGES;Oui;210;Top; 14 606,60 € ;Oui;1;Non;Non;Oui;Non;14,32;Non
+1000185;guy;IWENS;guy.iwens@free.fr;06/02/2000;F;Cadre moyen / Enseignants;579 CH DE ST AUGUSTIN;83 260;LA CRAU;Oui;130;Occassionel; 34 836,80 € ;Oui;1;Oui;Oui;Oui;Non;14,87;Oui
+1000186;elise;VALLET;elise.vallet@free.fr;22/04/2000;F;Cadre superieur / dirigeant; ;83 160;LA VALETTE DU VAR;Non;174;Occassionel; 26 920,80 € ;Oui;0;Non;Non;Oui;Non;14,66;Non
+1000187;vincent;ALIBERT; ;25/07/2000;H;Cadre moyen / Enseignants;10 RUE NEPTUNE;83 130;LA GARDE;Oui;128;Top; 38 248,30 € ;Non;3;Oui;Non;Oui;Oui;14,40;Non
+1000188;jean-luc;PRETELAT;jean-luc.pretelat@neuf.fr;14/01/2000;F;Cadre superieur / dirigeant;8 RUE DU PRESIDENT WILSON;83 590;GONFARON;Oui;153;Top; 15 689,10 € ;Non;0;Non;Non;Oui;Non;14,93;Non
+1000189;christine;PENALVER;christine.penalver@free.fr;09/02/2000;H;Cadre superieur / dirigeant; ;83 260;LA CRAU;Non;28;Top; 30 157,70 € ;Non;1;Oui;Non;Non;Non;14,86;Oui
+1000190;martin;CHEMARIN; ;24/02/2000;F;Profession Liberale;RES LES OLIVIERS C2;83 210;LA FARLEDE;Oui;183;Top; 14 642,20 € ;Non;0;Oui;Non;Oui;Non;14,82;Oui
+1000191;thierry;SERVANT;thierry.servant@neuf.fr;15/05/2000;F;Profession Liberale; ;83 160;LA VALETTE DU VAR;Non;12;Top; 15 933,30 € ;Oui;0;Non;Oui;Non;Non;14,60;Non
+1000192;gerard;MORLET;gerard.morlet@wanadoo.fr;11/01/2000;F;Cadre superieur / dirigeant;5 RUE DUQUESNE;83 000;TOULON;Oui;162;Top; 44 288,30 € ;Oui;0;Non;Oui;Oui;Non;14,94;Non
+1000193;georges;MEYER;georges.meyer@wanadoo.fr;13/08/2000;F;Cadre moyen / Enseignants; ;83 130;LA GARDE;Non;57;Occassionel; 22 197,10 € ;Non;0;Oui;Non;Oui;Non;14,35;Oui
+1000194;michel;WILLMANN;michel.willmann@wanadoo.fr;14/02/2000;F;Employés;590 CHEMIN DES LAUGIERS;83 210;SOLLIES PONT;Oui;224;Occassionel; 38 248,30 € ;Oui;3;Oui;Oui;Non;Non;14,84;Non
+1000195;michel;COLIN; ;09/11/2000;F;Cadre moyen / Enseignants;7 PLACE DU MARCHE;83 390;PUGET VILLE;Oui;14;Occassionel; 25 699,40 € ;Oui;2;Oui;Oui;Non;Non;14,11;Oui
+1000196;christine;CARADEC;christine.caradec@free.fr;12/04/2000; ;Cadre moyen / Enseignants; ;83 160;LA VALETTE DU VAR;Non;132;Occassionel; 21 612,60 € ;Oui;0;Non;Oui;Oui;Oui;14,69;Non
+1000197;patrick;CAVAIGNAC;patrick.cavaignac@wanadoo.fr;28/01/2000;F;Cadre superieur / dirigeant;LOT ST CLAIRE 64 ALLEE;83 210;SOLLIES PONT;Oui;76;Top; 48 950,90 € ;Oui;0;Oui;Oui;Oui;Oui;14,89;Non
+1000198;bernard;IMBERT; ;13/11/2000;F;Profession Liberale;LA PINEDE 508 CHM DE;83 200;TOULON;Oui;138;Top; 41 438,00 € ;Non;1;Non;Oui;Non;Non;14,10;Oui
+1000199;jerome;MARTIN;jerome.martin@wanadoo.fr;08/11/2000;H;Autres; ;83 500;TOULON;Non;55;Top; 11 411,00 € ;Oui;1;Oui;Non;Oui;Non;14,11;Non
+1000200;evelyne;HERIQUE;evelyne.herique@clubinternet.fr;25/09/2000;F;Employés;984 CH DE LA FONT DES FABE;83 210;LA FARLEDE;Oui;116;Top; 43 940,60 € ;Oui;0;Oui;Oui;Oui;Non;14,23;Non
+1000201;daniel;RINTAUD;daniel.rintaud@wanadoo.fr;11/10/2000;F;Cadre superieur / dirigeant; ;83 130;LA GARDE;Non;52;Occassionel; 17 239,50 € ;Non;1;Oui;Non;Oui;Non;14,19;Oui
+1000202;sylvie;VAILLANT;sylvie.vaillant@free.fr;26/08/2000;F;Cadre moyen / Enseignants; ;83 210;LA FARLEDE;Non;112;Fidèle; 30 488,70 € ;Oui;0;Non;Oui;Oui;Non;14,31;Non
+1000203;jacques;CRITON;jacques_criton@alice.fr;13/02/2000;F;Employés;88 ALLEE DES ACACIAS;83 260;LA CRAU;Oui;184;Occassionel; 29 866,30 € ;Oui;3;Non;Oui;Non;Non;14,85;Non
+1000204;jean-pierre;DUBERNET; ;06/10/2000;F;Employés;246 RUE JOSEPH LANTRUA;83 220;LE PRADET;Oui;175;Top; 32 184,40 € ;Oui;2;Oui;Non;Non;Non;14,20;Oui
+1000205;chantal;WACKEMHEIM;chantal.wackemheim@neuf.fr;07/04/2000;H;Employés; ;83 200;LE REVEST LES EAUX;Non;109;Top; 17 308,70 € ;Oui;1;Oui;Non;Oui;Oui;14,70;Oui
+1000206;richard;BOUSIGES; ;17/10/2000;F;Ouvriers;CHEMIN DU ROBERTI;83 160;LA VALETTE DU VAR;Oui;122;Fidèle; 27 863,90 € ;Non;2;Non;Oui;Oui;Oui;14,17;Non
+1000207;gerard;DOMENGET;gerard_domenget@alice.fr;19/03/2000;F;Cadre moyen / Enseignants;90 LES SOLAIDES;83 250;LA  LONDE;Oui;259;Occassionel; 28 920,60 € ;Oui;0;Non;Oui;Non;Oui;14,75;Non
+1000208;laurent;FLOCH;laurent.floch@clubinternet.fr;07/05/2000;F;Cadre moyen / Enseignants;10 RUE PERESQUE;83 210;BELGENTIER;Oui;62;Occassionel; 58 367,30 € ;Oui;1;Oui;Oui;Oui;Non;14,62;Oui
+1000209;roger;MORINI;roger.morini@free.fr;21/09/2000;H;Employés;LES TROIS CYPRES;83 630;AIGUINES;Oui;168;Occassionel; 16 849,30 € ;Non;0;Oui;Oui;Oui;Oui;14,24;Non
+1000210;bruno;BONNET-GALZ;bruno.bonnet-galzy@free.fr;12/08/2000;F;Cadre moyen / Enseignants; ;83 160;LA VALETTE;Non;90;Fidèle; 28 138,50 € ;Oui;0;Non;Non;Oui;Oui;14,35;Oui
+1000211;pascal;COLMAGRO;pascal.colmagro@wanadoo.fr;08/08/2000;H;Employés;51 ALLEE DES HIBISCUS;83 220;LE PRADET;Oui;291;Top; 23 038,20 € ;Oui;0;Oui;Oui;Non;Non;14,36;Non
+1000212;pierre;KERISIT;pierre_kerisit@alice.fr;25/10/2000;F;Employés;CHEMIN DU CROS DE ST JEAN;83 136;FORCALQUEIRET;Oui;81;Occassionel; 11 736,90 € ;Non;2;Oui;Oui;Oui;Oui;14,15;Non
+1000213;gerard;BERTIN; ;20/06/2000;F;Employés;QUARTIER BARBARIE;83 580;GASSIN;Oui;139;Top; 16 479,50 € ;Oui;0;Oui;Non;Non;Oui;14,50;Oui
+1000214; ;COBO;cobo@gmail.com;30/01/2000;H;Cadre superieur / dirigeant; ;83 000;TOULON;Non;179;Top; 31 415,70 € ;Non;1;Oui;Oui;Non;Oui;14,89;Oui
+1000215;daniel;MERIAU;daniel.meriau@free.fr;24/01/2000;F;Employés;123 ALLEE MARCEL RICHARD;83 230;BORMES LES MIMOSAS;Oui;96;Nouveau; 12 117,30 € ;Oui;1;Non;Non;Oui;Non;14,90;Non
+1000216;p.;MORIN;p..morin@wanadoo.fr;29/01/2000;H;Cadre superieur / dirigeant;52 MAS CROS DE LESTAN;83 136;MEOUNE;Oui;220;Top; 15 417,10 € ;Oui;1;Oui;Non;Oui;Non;14,89;Non
+1000217;thierry;POUZET;thierry.pouzet@free.fr;25/09/2000;H;Cadre superieur / dirigeant;AVENUE GENERAL WEYGAND;83 220;LE PRADET;Oui;43;Top; 29 414,60 € ;Oui;1;Non;Oui;Non;Oui;14,23;Oui
+1000218;eric;DELABEILLE; ;08/02/2000;H;Employés;264 AV DES ROMARINS;83 250;LA LONDE;Oui;162;Top; 44 682,10 € ;Oui;0;Oui;Oui;Oui;Non;14,86;Non
+1000219;jean-pierre;LASCOUX; ;01/10/2000;F;Cadre moyen / Enseignants;30 MONTEE DE COSTEBELLE;83 400;HYERES;Oui;87;Fidèle; 36 281,00 € ;Oui;0;Oui;Oui;Oui;Non;14,21;Non
+1000220;claude;MAESTRACCI;claude.maestracci@wanadoo.fr;22/09/2000;F;Employés;50 CHEMIN DES ARAMONS;83 260;LA CRAU;Oui;212;Occassionel; 33 302,80 € ;Non;0;Oui;Non;Oui;Oui;14,24;Oui
+1000221;gerard;JARRET;gerard_jarret@alice.fr;01/02/2000;F;Ouvriers;LES JARDINS DE MONT FLEUR;8 310;TOULON;Oui;30;Fidèle; 15 797,10 € ;Oui;0;Non;Oui;Oui;Non;14,88;Oui
+1000222; ;MERCK;merck@gmail.com;12/02/2000;H;Profession Liberale;LES ROCHES BLEUES;83 220;LE PRADET;Oui;203;Fidèle; 31 864,80 € ;Oui;0;Oui;Oui;Oui;Non;14,85;Non
+1000223;gilles;PINOCHE;gilles.pinoche@wanadoo.fr;05/12/2000;H;Cadre superieur / dirigeant;ALLEE DU SERPOLET;83 160;LA VALETTE DU VAR;Oui;215;Occassionel; 43 719,50 € ;Oui;0;Non;Oui;Oui;Non;14,04;Non
+1000224;marceau;BAUDEY;marceau.baudey@free.fr;09/01/2000;F;Cadre superieur / dirigeant;528 CH DE LA P BLANCHE;83 210;LA FARLEDE;Oui;155;Occassionel; 30 799,50 € ;Oui;2;Non;Non;Oui;Non;14,94;Oui
+1000225;celine;FEVRE;celine.fevre@free.fr;15/03/2000;H;Cadre superieur / dirigeant;85 RUE PIERRE LETUAIRE;83 220;LE PRADET;Oui;213;Fidèle; 48 971,60 € ;Oui;3;Oui;Oui;Non;Non;14,76;Oui
+1000226;dominique;GALLOIS;dominique.gallois@free.fr;02/07/2000;F;Ouvriers;1 LOT ATLAN ROUTE DES VIE;83 400;HYERES;Oui;31;Fidèle; 34 061,40 € ;Non;0;Oui;Oui;Oui;Non;14,46;Oui
+1000227;michele;LAUDIER;michele.laudier@wanadoo.fr;02/04/2000;H;Cadre superieur / dirigeant;AV GENERAL CHAB AUD;83 160;LA VALETTE DU VAR;Oui;134;Top; 28 938,60 € ;Oui;3;Oui;Non;Non;Non;14,71;Non
+1000228;jean-jacques;SERSOT;jean-jacques_sersot@alice.fr;06/07/2000;H;Cadre superieur / dirigeant;176 CHEMIN DE LA GUARNIER;83 210;LA FARLEDE;Oui;122;Occassionel; 38 540,00 € ;Non;0;Oui;Oui;Non;Oui;14,45;Non
+1000229;pascal;PERIC; ;12/11/2000;F;Cadre moyen / Enseignants;22 AVENUE DE LA GARE;83 260;LA CRAU;Oui;166;Top; 27 045,10 € ;Non;0;Non;Non;Oui;Non;14,10;Oui
+1000230;christophe;RISS;christophe.riss@neuf.fr;20/06/2000;F;Employés;LA ROUMIOUVE;83 210;SOLLIES VILLE;Oui;199;Fidèle; 51 284,30 € ;Non;0;Oui;Oui;Oui;Oui;14,50;Non
+1000231; ;BONNIN;bonnin@gmail.com;01/09/2000;H;Cadre moyen / Enseignants;LES NAIADES VILLA 247;83 130;LA GARDE;Oui;38;Top; 16 352,20 € ;Non;0;Non;Oui;Oui;Oui;14,30;Non
+1000232; ;DERENNES;derennes@gmail.com;10/03/2000; ;Cadre moyen / Enseignants; ;83 320;CARQUEIRANNE;Non;137;Top; 11 866,40 € ;Oui;0;Oui;Oui;Oui;Non;14,78;Non
+1000233;alain;DURAND;alain.durand@neuf.fr;28/06/1971;F;Cadre moyen / Enseignants;CH DE LA CARRADE;83 240;CAVALAIRE SUR MER;Oui;196;Occassionel; 45 342,50 € ;Oui;0;Oui;Oui;Non;Non;43,48;Oui
+1000234;michel;PEREIRA;michel.pereira@clubinternet.fr;24/04/1970; ;Cadre superieur / dirigeant;66 RUE DE LA LIBERATION;83 390;PUGET VILLE;Oui;55;Top; 6 294,21 € ;Non;0;Non;Oui;Oui;Oui;44,65;Non
+1000235;francois;CLARY;francois.clary@wanadoo.fr;15/02/1966;F;Employés; ;83 200;TOULON;Non;73;Occassionel; 25 127,70 € ;Oui;0;Oui;Non;Non;Non;48,84;Non
+1000236;jean-pierre;MEUNIER;jean-pierre.meunier@neuf.fr;25/08/1961;H;Cadre moyen / Enseignants;4 RUE DU REMPART;83 400;HYERES;Oui;50;Nouveau; 51 879,30 € ;Oui;2;Oui;Oui;Non;Oui;53,32;Oui
+1000237;serge;NORMAND;serge.normand@clubinternet.fr;02/01/1944; ;Cadre moyen / Enseignants;4 RUE DES ACACIAS;83 210;LA FARLEDE;Oui;163;Occassionel; 12 644,90 € ;Oui;2;Oui;Non;Oui;Oui;70,96;Non
+1000238;valerie;LEBLANC; ;20/04/1974;F;Employés;LE SIRIUS BAT C;83 130;LA GARDE;Oui;97;Occassionel; 21 984,40 € ;Non;3;Non;Oui;Non;Non;40,67;Non
+1000239;martine;RICHEREAU; ;18/05/1960;F;Profession Liberale;RES HTES PLAG DE CAVALIERE;83 980;LE LAVANDOU;Oui;159;Fidèle; 29 093,10 € ;Non;2;Oui;Oui;Oui;Non;54,59;Non
+1000240;simon;DECAZES; ;23/06/1960;H;Cadre moyen / Enseignants;450 RUE DOCTEUR COULET;83 220;LE PRADET;Oui;235;Occassionel; 23 528,40 € ;Oui;1;Non;Oui;Oui;Oui;54,49;Oui
+1000241;francois;LOISEAU;francois.loiseau@wanadoo.fr;02/06/1960;F;Cadre moyen / Enseignants;LIEU DIT LA FARDELE;83 136;ROCBARON;Oui;272;Occassionel; 9 516,91 € ;Non;3;Oui;Oui;Oui;Non;54,55;Non
+1000242;chantal;BITCHAK;chantal_bitchak@alice.fr;29/09/1945;F;Cadre moyen / Enseignants;132 RUE DES RAPUGUES;83 230;BORMES LES MIMOSAS;Oui;147;Top; 44 658,60 € ;Non;2;Oui;Oui;Oui;Non;69,22;Oui
+1000243;marcel;RICARD;marcel.ricard@wanadoo.fr;07/05/1944;F;Employés;AVE DU PIN DE GAL;83 220;LE PRADET;Oui;93;Fidèle; 32 762,50 € ;Non;0;Non;Oui;Oui;Oui;70,62;Non
+1000244;gerard;CHENU; ;13/08/1956; ;Cadre superieur / dirigeant;1553 ROUTE D HYERES;83 260;LA CRAU;Oui;79;Fidèle; 16 403,80 € ;Oui;0;Oui;Oui;Non;Non;58,35;Non
+1000245;roland;FONTAINE;roland.fontaine@wanadoo.fr;13/07/1966;H;Autres;514 BD LATTRE DE TASSIGNY;83 150;BANDOL;Oui;178;Top; 21 184,70 € ;Oui;1;Oui;Oui;Oui;Non;48,44;Oui
+1000246;jean;RAKOTOMANGA;jean.rakotomanga@free.fr;27/12/1970;F;Cadre moyen / Enseignants; ;83 160;LA VALETTE DU VAR;Oui;196;Top; 49 917,30 € ;Oui;0;Oui;Oui;Oui;Oui;43,98;Non
+1000247;therese;MONTAGNON;therese.montagnon@free.fr;18/04/1961;F;Employés;93 CH DU PETIT LAC;83 480;PUGET SUR ARGENT;Oui;206;Occassionel; 21 623,80 € ;Oui;0;Non;Oui;Non;Oui;53,67;Non
+1000248;guy;TOMAS; ;26/09/1973;F;Cadre moyen / Enseignants; ;83 400;HYERES;Non;137;Fidèle; 16 625,90 € ;Oui;1;Non;Non;Oui;Non;41,23;Oui
+1000249;herve;OSOUF;herve.osouf@free.fr;19/08/1969;H;Cadre moyen / Enseignants;6BIS RUE DE LA THESE;83 390;TOULON;Oui;148;Occassionel; 14 014,50 € ;Oui;3;Non;Oui;Non;Non;45,33;Non
+1000250;daniel;POURREAU; ;03/09/1950;F;Cadre moyen / Enseignants;BT 6 RES LA COUPIANE;83 160;LA VALETTE;Oui;53;Top; 20 409,30 € ;Oui;2;Non;Oui;Non;Non;64,29;Oui
+1000251;marlene;BLANCHET;marlene_blanchet@alice.fr;10/09/1943;H;Employés;10 RUE MEGE;83 220;LE PRADET;Oui;228;Top; 31 671,30 € ;Oui;1;Oui;Oui;Non;Oui;71,27;Oui
+1000252;dominique;DAUGAN;dominique.daugan@free.fr;18/01/1953;F;Cadre moyen / Enseignants;LES ROCHES BLEUES;83 220;LE PRADET;Oui;66;Occassionel; 17 149,20 € ;Non;1;Oui;Oui;Oui;Non;61,92;Oui
+1000253; ;SARPY;sarpy@gmail.com;28/05/1965;F;Cadre superieur / dirigeant; ;83 000;TOULON;Non;239;Occassionel; 27 756,30 € ;Oui;0;Oui;Oui;Non;Oui;49,56;Oui
+1000254;didier;DAUPHANT;didier.dauphant@free.fr;24/12/1974;F;Cadre moyen / Enseignants;386 CORNICHE DU RAYOLET;83 140;SIX FOURS LES PLAGES;Oui;102;Top; 40 949,90 € ;Non;0;Non;Oui;Oui;Non;39,99;Oui
+1000255;jean;LAVAUD;jean_lavaud@alice.fr;06/05/1941;F;Cadre moyen / Enseignants; ;83 160;LA VALETTE;Non;113;Fidèle; 43 743,20 € ;Oui;3;Non;Oui;Oui;Non;73,62;Non
+1000256;claude;CHARCOUCHET;claude_charcouchet@alice.fr;11/05/1965;H;Cadre moyen / Enseignants; ;83 160;LA VALETTE;Non;62;Top; 38 459,90 € ;Oui;0;Non;Non;Non;Oui;49,61;Oui
+1000257;francoise;NOGUE;francoise.nogue@free.fr;13/04/1934;H;Cadre moyen / Enseignants;LE BOUFFRE;83 390;PUGET VILLE;Oui;145;Top; 33 886,40 € ;Non;0;Oui;Oui;Non;Non;80,68;Oui
+1000258;hugo;FUTEUL-GARR;hugo.futeul-garret@neuf.fr;22/12/1953;F;Cadre superieur / dirigeant;229 RUE VICTOR HUGO;83 130;LA GARDE;Oui;83;Top; 16 662,50 € ;Oui;1;Non;Oui;Oui;Non;60,99;Oui
+1000259;yves;CASTRES-SAI; ;19/02/1938;H;Cadre moyen / Enseignants; ;83 160;LA VALETTE;Non;62;Occassionel; 20 262,60 € ;Non;0;Non;Oui;Non;Non;76,83;Oui
+1000260;stephane;GRIFFON; ;23/10/1975;F;Cadre moyen / Enseignants;ATLANTIC BT B 134 RUE;83 000;TOULONDE;Oui;53;Occassionel; 33 615,40 € ;Oui;1;Non;Oui;Non;Oui;39,16;Oui
+1000261;joseph;COUDRAY;joseph.coudray@free.fr;25/11/1946;H;Employés;104 RUE FREDERIC MIREUR;83 000;TOULON;Oui;137;Occassionel; 227,10 € ;Non;3;Non;Non;Oui;Non;68,07;Non
+1000262;rene;MILLARD;rene.millard@neuf.fr;03/12/1952;H;Cadre superieur / dirigeant;IMP BAILLE;83 100;TOULON;Oui;85;Top; 28 981,10 € ;Oui;3;Oui;Oui;Oui;Oui;62,04;Non
+1000263;jacques;STIEN;jacques.stien@free.fr;10/08/1967;H;Employés;36 ALLEE DES NARCISSES;83 320;CARQUEIRANNE;Oui;158;Top; 12 163,90 € ;Oui;2;Oui;Non;Oui;Non;47,36;Oui
+1000264;regis;SONE;regis.sone@free.fr;20/01/1954;H;Profession Liberale;1041 CHEMIN DU COLLET LONG;83 260;LA CRAU;Oui;142;Occassionel; 17 247,70 € ;Oui;2;Oui;Oui;Oui;Non;60,91;Non
+1000265;alain;PARISSE; ;19/01/1975;H;Cadre superieur / dirigeant;774 AV DE LA MALOGINESTE;83 140;SIX FOURS LES PLAGES;Oui;192;Nouveau; 12 683,60 € ;Non;3;Non;Oui;Oui;Oui;39,92;Non
+1000266;pierre;MAISONNEUVE;pierre.maisonneuve@wanadoo.fr;04/07/1966;F;Employés;814 BD STE GENEVIEVE;83 130;LA GARDE;Oui;17;Occassionel; 16 291,00 € ;Oui;0;Oui;Oui;Non;Oui;48,46;Non
+1000267;francois;BRECKLER;francois.breckler@clubinternet.fr;26/05/1953;H;Employés;58 ALLEES DES LILAS;83 260;LA CRAU;Oui;144;Nouveau; 18 707,30 € ;Oui;0;Oui;Oui;Oui;Oui;61,57;Oui
+1000268;alain;SMEYERS;alain.smeyers@free.fr;22/02/1934;F;Cadre moyen / Enseignants;LA VALERANNE;83 320;CARQUEIRANNE;Oui;136;Top; 19 326,90 € ;Oui;1;Non;Non;Oui;Non;80,82;Oui
+1000269; ;HERSENT;hersent@gmail.com;26/12/1966;F;Employés; ;83 390;CUERS;Non;209;Top; 14 511,80 € ;Non;2;Non;Oui;Non;Oui;47,98;Non
+1000270;yves;FABRE;yves.fabre@neuf.fr;16/02/1980;F;Employés;RESIDENCE LA MOUTONE PLAC;83 260;LA CRAU;Oui;179;Occassionel; 10 672,00 € ;Non;1;Non;Oui;Oui;Oui;34,84;Non
+1000271;carole;BUTHION; ;27/12/1954;F;Cadre moyen / Enseignants;16 AV AUGUSTE BLANQUI;83 200;TOULON;Oui;141;Top; 25 830,50 € ;Oui;2;Non;Non;Oui;Non;59,98;Non
+1000272;josette;SOLLIEC;josette.solliec@wanadoo.fr;22/10/1937;H;Employés;856 CHEMIN DU MILIEU;83 210;LA FARLEDE;Oui;76;Fidèle; 43 499,50 € ;Oui;1;Oui;Oui;Oui;Non;77,16;Non
+1000273;thierry;GIRARD;thierry.girard@wanadoo.fr;18/11/1947;F;Cadre superieur / dirigeant;LES SIRENES A1;83 130;LA GARDE;Oui;67;Nouveau; 59 175,10 € ;Oui;1;Non;Oui;Oui;Non;67,09;Oui
+1000274;alain;LE BOZEC;alain_le bozec@alice.fr;11/01/1961; ;Cadre moyen / Enseignants;120 CHEMIN DE LOMBARD;83 140;SIX FOURS LES PLAGES;Oui;234;Top; 27 642,90 € ;Non;1;Oui;Non;Non;Non;53,94;Oui
+1000275;gilbert;ARNOULD; ;26/01/1944;F;Cadre moyen / Enseignants;RES THAITI PARC;83 980;LE LAVANDOU;Oui;54;Top; 367,50 € ;Non;1;Non;Oui;Oui;Non;70,90;Oui
+1000276;bernard;BARTH;bernard.barth@free.fr;23/10/1956;F;Cadre superieur / dirigeant;120 LOT LES ESTIVALES;83 220;LE PRADET;Oui;151;Top; 29 714,40 € ;Oui;0;Oui;Non;Oui;Oui;58,15;Oui
+1000277;claude;DELAGE;claude.delage@wanadoo.fr;12/10/1941;H;Autres; ;83 400;HYERES;Non;151;Occassionel; 13 950,40 € ;Non;1;Oui;Oui;Oui;Oui;73,19;Non
+1000278;j-philippe;STEPHANIE;j-philippe.stephanie@wanadoo.fr;16/12/1982; ;Cadre moyen / Enseignants;VCHE DE SAINTE MUSSE;83 100;TOULON;Oui;204;Top; 172,60 € ;Oui;0;Non;Non;Oui;Non;32,01;Non
+1000279;francois;ROUILLE;francois.rouille@neuf.fr;05/02/1955;H;Cadre moyen / Enseignants;3 RUE STE URSULE;83 170;BRIGNOLES;Oui;116;Top; 37 850,60 € ;Non;1;Non;Oui;Oui;Non;59,87;Oui
+1000280;philippe;BUTIN;philippe.butin@free.fr;15/07/1947;H;Autres;4 205 BD DU DR BOURGAREL;83 130;LA GARDE;Oui;41;Fidèle; 57 176,40 € ;Non;2;Non;Oui;Oui;Non;67,43;Oui
+1000281;alain;GOURY; ;03/02/1937;H;Cadre moyen / Enseignants;8 BOULEVARD DE CEINTURE;83 420;LA CROIX VALMER;Oui;133;Top; 38 784,00 € ;Oui;0;Non;Oui;Oui;Non;77,87;Non
+1000282;j-louis;DIOT;j-louis.diot@neuf.fr;19/02/1953;F;Profession Liberale;56 AVENUE FOCH;83 590;GONFARON;Oui;57;Top; 10 191,80 € ;Oui;0;Non;Oui;Oui;Oui;61,83;Oui
+1000283;bernard;LAURY;bernard.laury@neuf.fr;27/09/1971;H;Cadre superieur / dirigeant;101 AV DE LA LIBERATION;83 390;PUGET;Oui;79;Top; 21 821,40 € ;Oui;1;Oui;Oui;Non;Oui;43,23;Oui
+1000284;j-jacques;BLANCHARD; ;04/09/1979;H;Cadre moyen / Enseignants; ;83 160;LA VALETTE DU VAR;Non;114;Fidèle; 37 389,00 € ;Oui;2;Non;Oui;Oui;Non;35,29;Oui
+1000285;claudine;DAVIN;claudine.davin@free.fr;29/06/1955;F;Profession Liberale;LE BERLIOZ TOUR 1;83 130;LA GARDE;Oui;127;Top; 14 627,90 € ;Oui;2;Oui;Oui;Oui;Non;59,47;Non
+1000286;mathilde;DHELLEMMES; ;25/04/1959; ;Cadre moyen / Enseignants;6 RUE EMILE PAUL;83 400;HYERES;Oui;172;Nouveau; 48 770,50 € ;Oui;1;Oui;Oui;Non;Oui;55,65;Oui
+1000287;rachel;KRIEF;rachel_krief@alice.fr;11/10/1945;H;Cadre moyen / Enseignants;BOULEVARD DES LAVANDES;83 270;ST CYR SUR MER;Oui;227;Fidèle; 21 096,20 € ;Oui;1;Oui;Oui;Oui;Non;69,19;Oui
+1000288;didier;RIEDER;didier.rieder@free.fr;18/12/1952;F;Employés; ;83 320;CARCAIRANE;Non;207;Top; 36 256,90 € ;Non;0;Non;Non;Oui;Oui;62,00;Oui
+1000289;danielle;THOUVENIN;danielle.thouvenin@wanadoo.fr;17/12/1971;H;Cadre moyen / Enseignants;290 CHEMIN DES BEAUMES;83 740;LA CADIERE D AZUR;Oui;74;Top; 15 281,80 € ;Non;0;Oui;Non;Non;Oui;43,01;Oui
+1000290;mamadou;RIVIERE; ;01/12/1959; ;Cadre moyen / Enseignants;93 IMP COSTE;83 130;LA GARDE;Oui;50;Nouveau; 9 316,98 € ;Oui;2;Oui;Oui;Oui;Non;55,05;Non
+1000291;pierre;DESPLANQUES;pierre.desplanques@clubinternet.fr;04/09/1966;F;Employés; ;83 100;TOULON;Non;36;Fidèle; 20 736,20 € ;Oui;1;Oui;Oui;Oui;Non;48,29;Oui
+1000292; ;PASQUERO;pasquero@gmail.com;12/09/1973;H;Cadre moyen / Enseignants; ;83 320;CARQUEIRANNE;Non;84;Occassionel; 52 662,50 € ;Oui;1;Oui;Oui;Oui;Oui;41,27;Oui
+1000293; ;COHEN;cohen@gmail.com;01/10/1948;H;Cadre moyen / Enseignants;135 LOT PARC DE STE CLAIRE;83 160;LA VALETTE DU VAR;Oui;121;Top; 8 020,19 € ;Oui;1;Oui;Non;Oui;Non;66,21;Non
+1000294;michel;LEGUEHENNEC;michel.leguehennec@neuf.fr;06/10/1963;F;Cadre superieur / dirigeant;CHEMIN DES CARRIERES;83 200;TOULON;Oui;227;Nouveau; 32 245,40 € ;Oui;3;Non;Non;Non;Non;51,20;Non
+1000295;laurent;PAPONNEAU;laurent.paponneau@free.fr;04/10/1950;F;Profession Liberale;CHEMIN DU PINET;83 990;ST TROPEZ;Oui;134;Top; 41 107,20 € ;Oui;2;Oui;Oui;Oui;Non;64,21;Non
+1000296;michel;DAUMEZON;michel.daumezon@free.fr;17/01/1951;F;Profession Liberale;47 MONTEE DE LA CITADELLE;83 140;LE BRUSC;Oui;47;Nouveau; 39 358,30 € ;Oui;0;Oui;Non;Non;Oui;63,92;Non
+1000297;concetta;BOURGOIS;concetta.bourgois@free.fr;20/05/1961;F;Employés;70 RUE MARC DELAGE;83 130;LA GARDE;Oui;147;Top; 36 095,90 € ;Oui;3;Oui;Oui;Oui;Non;53,58;Non
+1000298;francis;GIBAUD;francis.gibaud@free.fr;03/02/1948;F;Cadre moyen / Enseignants;25 AV ORCADE;83 390;CUERS;Oui;180;Occassionel; 7 723,93 € ;Oui;2;Oui;Oui;Oui;Non;66,87;Non
+1000299;nicolas;BOUCHON;nicolas.bouchon@neuf.fr;04/05/1942;F;Employés; ;83 210;BELGENTIER;Non;45;Fidèle; 18 565,80 € ;Oui;1;Oui;Oui;Oui;Oui;72,63;Oui
+1000300;jean-luc;AUBIN;jean-luc.aubin@wanadoo.fr;14/10/1959;F;Employés;360 CHEMIN DES MOUETTES;83 220;LE PRADET;Oui;99;Fidèle; 25 132,90 € ;Oui;0;Non;Non;Oui;Non;55,18;Non
+1000301;alain;BROCHARD;alain_brochard@alice.fr;13/10/1940;F;Employés;73 LOT ST MICHEL;83 390;PIERREFEU;Oui;228;Nouveau; 31 290,60 € ;Oui;0;Non;Oui;Oui;Non;74,18;Non
+1000302;pierre;LE BRAS; ;26/01/1975;F;Employés;9 RUE AUGUSTE ROUX;83 390;PIERREFEU DU VAR;Oui;205;Nouveau; 24 858,40 € ;Oui;0;Non;Non;Oui;Oui;39,90;Oui
+1000303;gabriel;ACKERMANN;gabriel_ackermann@alice.fr;18/09/1965;F;Cadre moyen / Enseignants; ;83 980;LE LAVANDOU;Non;208;Top; 16 398,80 € ;Non;1;Non;Oui;Oui;Non;49,25;Oui
+1000304;jean-louis;GAZAGNE;jean-louis_gazagne@alice.fr;30/01/1933;F;Cadre superieur / dirigeant;LA GOUELTE AV DU PORT;83 000;TOULON;Oui;226;Nouveau; 23 287,90 € ;Non;0;Non;Non;Oui;Oui;81,88;Oui
+1000305;francis;BOUVY;francis.bouvy@clubinternet.fr;30/01/1980;H;Cadre moyen / Enseignants;14 RUE DE L EGALITE;83 210;SOLLIES VILLE;Oui;61;Fidèle; 50 897,60 € ;Oui;0;Non;Oui;Oui;Non;34,89;Non
+1000306;hubert;LIEUTIER;hubert.lieutier@wanadoo.fr;06/11/1976;F;Employés;22 AVENUE ALEXIS GODILLOT;83 400;HYERES;Oui;7;Top; 22 446,50 € ;Non;1;Non;Non;Oui;Oui;38,12;Oui
+1000307;jean;DIN; ;17/11/1971;F;Cadre superieur / dirigeant;7 IMPASSE DU ROLLE;83 260;LA CRAU;Oui;147;Nouveau; 23 092,10 € ;Oui;0;Oui;Non;Oui;Oui;43,09;Oui
+1000308;roland;ENOUT;roland.enout@wanadoo.fr;30/11/1962;H;Cadre moyen / Enseignants;7 ALLEE DES OMBELLES;83 210;LA FARLEDE;Oui;183;Occassionel; 24 867,60 € ;Oui;0;Oui;Oui;Non;Non;52,05;Non
+1000309;pascal;LHERMEROULT;pascal.lhermeroult@neuf.fr;12/10/1951;F;Employés;38 R PERIMON TROUCHET;83 220;LE PRADET;Oui;106;Occassionel; 22 234,70 € ;Oui;0;Non;Non;Oui;Oui;63,19;Non
+1000310;marie-odile;WALBECQUE;marie-odile.walbecque@clubinternet.fr;26/09/1950;H;Employés;230 MONTEE DES MICOCOULIE;83 260;LA CRAU;Oui;251;Top; 17 371,10 € ;Oui;2;Oui;Oui;Oui;Non;64,23;Non
+1000311;andre;DUMEZ;andre.dumez@clubinternet.fr;23/10/1971;F;Profession Liberale;B 27 LE VIGUIER;83 270;ST CYR SUR MER;Oui;69;Occassionel; 29 574,00 € ;Oui;0;Oui;Oui;Oui;Non;43,16;Non
+1000312;michel;COCHAND;michel.cochand@wanadoo.fr;20/07/1949; ;Cadre moyen / Enseignants;1243 A ROUTE DE MARAVAL;83 260;LA CRAU;Oui;150;Top; 17 944,20 € ;Non;1;Oui;Oui;Oui;Oui;65,42;Oui
+1000313;philippe;LUCAS;philippe.lucas@wanadoo.fr;11/10/1963;F;Cadre superieur / dirigeant;186 AV DE FORBIN LA;83 100;TOULON;Oui;97;Fidèle; 33 665,50 € ;Non;3;Oui;Non;Oui;Non;51,19;Non
+1000314;andre;NOUZILLE; ;15/05/1959;F;Profession Liberale; ;83 330;LE BEAUSSET;Non;159;Top; 36 166,20 € ;Oui;0;Non;Non;Non;Non;55,60;Non
+1000315;bruno;MARCOU;bruno_marcou@alice.fr;11/06/1964;F;Employés;44 AV DU LT JEAN TOUCAS;83 260;LA CRAU;Oui;83;Nouveau; 27 712,90 € ;Non;2;Non;Oui;Oui;Non;50,52;Oui
+1000316;gerard;CHAILLEY;gerard.chailley@wanadoo.fr;20/01/1960;H;Cadre moyen / Enseignants; ;83 260;LA CRAU;Non;249;Occassionel; 224,70 € ;Oui;2;Oui;Oui;Oui;Non;54,91;Non
+1000317;michel;RAINAUT;michel.rainaut@clubinternet.fr;23/10/1971;F;Cadre moyen / Enseignants;2002 CHEM SEYNE A BASTIAN;83 500;LA SEYNE SUR MER;Oui;207;Top; 28 469,90 € ;Oui;0;Oui;Oui;Oui;Non;43,16;Non
+1000318;yves;BEIGBEDER;yves.beigbeder@wanadoo.fr;03/07/1969;H;Employés;57 IMPASSE DES ROSSIGNOLS;83 130;LA GARDE;Oui;123;Occassionel; 30 488,00 € ;Oui;0;Non;Oui;Oui;Oui;45,46;Non
+1000319;yves;LESZKOWICZ;yves.leszkowicz@free.fr;07/12/1955;H;Cadre superieur / dirigeant; ;83 210;SOLLIS TOUCAS;Non;216;Occassionel; 19 160,30 € ;Oui;1;Oui;Oui;Oui;Non;59,03;Oui
+1000320;marcel;CORON;marcel.coron@free.fr;03/05/1974;F;Cadre superieur / dirigeant;18 RUE DELPECHE;83 000;TOULON;Oui;10;Top; 18 364,90 € ;Oui;1;Non;Non;Oui;Non;40,63;Oui
+1000321;christine;HOCHER;christine.hocher@wanadoo.fr;18/10/1953;F;Employés;LA GALINE;83 310;COGOLIN;Oui;51;Occassionel; 31 273,80 € ;Non;1;Oui;Oui;Non;Non;61,17;Oui
+1000322;jean-claude;GIROD;jean-claude.girod@free.fr;04/03/1973;F;Cadre moyen / Enseignants;3250 CHEMIN LONG;83 260;LA CRAU;Oui;245;Fidèle; 49 673,60 € ;Oui;0;Non;Oui;Oui;Non;41,79;Non
+1000323;jean-jacques;ESSIOUX;jean-jacques.essioux@free.fr;08/04/1951;F;Cadre superieur / dirigeant; ;83 210;SOLIES PONT;Non;221;Nouveau; 12 623,40 € ;Oui;1;Oui;Oui;Oui;Non;63,70;Non
+1000324;michel;JIMENES;michel.jimenes@wanadoo.fr;10/06/1934;F;Profession Liberale;L HACIENDA CH DE L OZONE;83 160;LA VALETTE DU VAR;Oui;97;Top; 23 818,60 € ;Oui;0;Non;Non;Non;Non;80,53;Non
+1000325; ;CHANTEPIE;chantepie@gmail.com;08/06/1958;F;Cadre moyen / Enseignants;946 BLV D F ESCUDIER;83 000;TOULON;Oui;133;Top; 31 473,90 € ;Non;2;Non;Oui;Oui;Oui;56,53;Oui
+1000326;yves;PAUFIQUE;yves.paufique@neuf.fr;21/07/1939;F;Cadre moyen / Enseignants;LE PIN DE GALLE;83 220;LE PRADET;Oui;71;Occassionel; 20 268,00 € ;Oui;0;Non;Oui;Oui;Non;75,41;Non
+1000327;martin;MICHALSKI; ;06/09/1951;F;Cadre superieur / dirigeant;CH DU LANCON CAM CHAMBON;83 110;SANARY SUR MER;Oui;76;Nouveau; 51 417,00 € ;Oui;2;Non;Oui;Oui;Non;63,29;Oui
+1000328;jean-claude;HOCHART; ;13/11/1967;F;Cadre moyen / Enseignants;290 RUE JULES VALLES;83 130;LA GARDE;Oui;182;Fidèle; 30 971,80 € ;Oui;3;Oui;Oui;Oui;Oui;47,10;Non
+1000329;xavier;JOLI; ;26/11/1965;F;Cadre moyen / Enseignants;2 225 AV F ROOSEVELT;83 130;LA GARDE;Oui;119;Top; 47 025,00 € ;Non;2;Oui;Oui;Oui;Oui;49,06;Non
+1000330;gilles;BARDOUX;gilles.bardoux@free.fr;12/03/1959;F;Employés;LOT LA FORGE RUE;83 250;LA LONDE;Oui;72;Top; 9 672,25 € ;Oui;0;Oui;Oui;Oui;Non;55,77;Non
+1000331;herve;VIGNOLLES;herve.vignolles@neuf.fr;20/05/1945;F;Profession Liberale;LA RUOL;83 390;PUGET VILLE;Oui;227;Occassionel; 15 976,30 € ;Oui;0;Oui;Oui;Non;Non;69,58;Oui
+1000332;alain;LEPICARD;alain.lepicard@wanadoo.fr;07/05/1949;F;Cadre moyen / Enseignants; ;83 957;LA GARDE CEDEX;Non;223;Top; 14 711,80 € ;Oui;0;Non;Oui;Non;Oui;65,62;Non
+1000333;gerald;JOUVENET;gerald.jouvenet@clubinternet.fr;22/07/1979;F;Employés;320 CHEMIN DE SAINT BENOIT;83 260;LA CRAU;Oui;167;Occassionel; 26 671,60 € ;Non;0;Oui;Non;Oui;Oui;35,41;Oui
+1000334;josette;AUREZ; ;07/05/1938;F;Cadre superieur / dirigeant;257 RUE PIAULT;83 130;LA GARDE;Oui;114;Top; 14 642,20 € ;Non;0;Oui;Non;Oui;Non;76,62;Oui
+1000335;philippe;ROBERT;philippe.robert@wanadoo.fr;05/04/1954;F;Cadre moyen / Enseignants;1 IMP CARTIER;83 260;LA CRAU;Oui;236;Top; 15 933,30 € ;Oui;0;Non;Oui;Non;Non;60,71;Non
+1000336;gerard;MARTIN; ;22/10/1951;F;Employés;4 IMPASSE CLAUDE BERNARD;83 260;LA CRAU;Oui;82;Top; 44 288,30 € ;Oui;0;Non;Oui;Oui;Non;63,16;Non
+1000337;marc;DUCHER; ;21/12/1953;H;Cadre moyen / Enseignants;166 IMPASSE DU MARRONNIER;83 260;LA CRAU;Oui;48;Occassionel; 22 197,10 € ;Non;0;Oui;Non;Oui;Non;60,99;Oui
+1000338;dominique;RUPPLI;dominique.ruppli@clubinternet.fr;05/10/1945;H;Cadre superieur / dirigeant; ;83 000;TOULON;Non;114;Occassionel; 38 248,30 € ;Oui;3;Oui;Oui;Non;Non;69,20;Non
+1000339;jean;CAILLAT; ;03/01/1971;H;Cadre superieur / dirigeant;ROUTE DE FLASSANS;83 790;PIGNANS;Oui;183;Top; 22 053,20 € ;Oui;2;Oui;Oui;Non;Oui;43,96;Non
+1000340; ;CHOMAUD;chomaud@gmail.com;03/09/1959;F;Cadre moyen / Enseignants;198 ANC CHE DE LA VALETTE;83 200;TOULON;Oui;93;Nouveau; 25 468,50 € ;Non;0;Oui;Non;Non;Oui;55,29;Oui
+1000341;rami;LAPERROUZE; ;14/11/1962;F;Employés;248 AV DE ROWEIL;83 400;HYERES;Oui;160;Occassionel; 23 485,90 € ;Oui;3;Oui;Non;Non;Oui;52,10;Non
+1000342;bernard;HANNEQUIN;bernard.hannequin@free.fr;11/10/1986;H;Cadre moyen / Enseignants;9 VILLA DU PETIT GRES;83 400;HYERES;Oui;121;Fidèle; 25 768,60 € ;Oui;0;Oui;Oui;Non;Non;28,19;Non
+1000343;jean-michel;SEITE;jean-michel.seite@wanadoo.fr;03/09/1977;F;Employés;LES HAUTS DES PLANTIERS;83 390;PIERREFEU;Oui;185;Top; 34 182,20 € ;Oui;2;Non;Oui;Oui;Non;37,29;Oui
+1000344;nathalie;PUZOZ;nathalie.puzoz@wanadoo.fr;16/03/1962;F;Cadre superieur / dirigeant;1273 AV DE LA PREMIERE;83 130;LA GARDE;Oui;64;Top; 57 444,50 € ;Non;1;Non;Oui;Oui;Non;52,76;Oui
+1000345;joel;JACQUE;joel.jacque@clubinternet.fr;01/11/1942;F;Employés;LA MAGUELONNE B2;83 130;LA GARDE;Oui;177;Occassionel; 38 059,80 € ;Oui;0;Oui;Oui;Non;Oui;72,13;Non
+1000346;alain;HUART;alain.huart@free.fr;29/04/1964;F;Cadre moyen / Enseignants;LE GRAND JARDIN;83 160;LA VALETTE DU VAR;Oui;69;Fidèle; 19 481,30 € ;Non;0;Non;Non;Oui;Oui;50,64;Oui
+1000347;louis;MONSAINGEON;louis.monsaingeon@clubinternet.fr;03/08/1958;F;Cadre moyen / Enseignants;RUE MARC ET YVONNE BARON;83 000;TOULON;Oui;207;Fidèle; 19 563,80 € ;Non;3;Oui;Non;Non;Oui;56,38;Non
+1000348;alexanfrine;BINARD;alexanfrine_binard@alice.fr;20/03/1950;F;Employés;5 LOTISSEMENT LE CHATEAU;83 170;CAMPS LA SOURCE;Oui;194;Top; 38 598,40 € ;Oui;0;Oui;Non;Oui;Non;64,75;Non
+1000349;richard;FLORENCE;richard.florence@neuf.fr;08/01/1930;F;Cadre superieur / dirigeant;88 RUE UTRILL;83 130;LA GARDE;Oui;194;Top; 20 754,30 € ;Non;0;Non;Non;Non;Oui;84,94;Oui
+1000350; ;HATIER;hatier@gmail.com;25/07/1956;F;Cadre moyen / Enseignants;IMM LE PRIVILEGE 1 AV DE;83 320;CARQUEIRANNE;Oui;160;Top; 13 864,60 € ;Oui;3;Non;Oui;Oui;Non;58,40;Oui
+1000351;florence;DE PONTEVES; ;21/08/1981;H;Cadre moyen / Enseignants;PLACE SOCHET;83 250;LA LONDE LES MAURES;Oui;96;Nouveau; 36 599,00 € ;Oui;3;Oui;Oui;Oui;Non;33,33;Oui
+1000352;charles;GILLYBOEUF; ;01/09/1962;F;Cadre moyen / Enseignants; ;83 136;LA ROQUEBRUSSANNE;Non;223;Nouveau; 45 856,10 € ;Non;1;Non;Oui;Oui;Non;52,30;Oui
+1000353;pierre;GUERNUT; ;08/11/1939;F;Employés;358 CHEM DU PLAN DE LA MER;83 140;SIX FOURS LES PLAGES;Oui;158;Nouveau; 22 362,30 € ;Non;0;Non;Oui;Oui;Non;75,11;Oui
+1000354;daniel;JEAN;daniel.jean@free.fr;03/10/1960;F;Profession Liberale;228 AV J GAUTIE R;83 110;SANARY SUR MER;Oui;49;Nouveau; 21 984,00 € ;Oui;1;Oui;Non;Non;Non;54,21;Oui
+1000355;sylvain;AULAS; ;27/01/1943;H;Employés; ;83 190;OLLIOULES;Non;250;Top; 48 950,90 € ;Oui;0;Oui;Oui;Oui;Oui;71,89;Non
+1000356;michel;MOREL; ;25/08/1943;F;Profession Liberale;CH FERRANTU;83 210;BELGENTIER;Oui;190;Top; 41 438,00 € ;Non;1;Non;Oui;Non;Non;71,32;Oui
+1000357; ;PHARAMOND;pharamond@gmail.com;06/11/1946;F;Cadre moyen / Enseignants;LES MAS;83 200;TOULON;Oui;187;Top; 11 411,00 € ;Oui;1;Oui;Non;Oui;Non;68,12;Non
+1000358;gerard;BERTHELOT;gerard.berthelot@wanadoo.fr;15/12/1955;F;Cadre moyen / Enseignants;CHEMIN DES AMANDIERS;83 320;CARQUEIRANNE;Oui;113;Top; 43 940,60 € ;Oui;0;Oui;Oui;Oui;Non;59,01;Non
+1000359;patrick;HURIEZ;patrick.huriez@free.fr;30/01/1980;F;Profession Liberale;51 AVENUE STALINGRAD;83 130;LA GARDE;Oui;52;Occassionel; 17 239,50 € ;Non;1;Oui;Non;Oui;Non;34,89;Oui
+1000360;jean;GASQUEZ;jean.gasquez@clubinternet.fr;19/06/1962;F;Cadre moyen / Enseignants;662 AVENUE PIERRE LOTI;83 000;TOULON;Oui;74;Fidèle; 30 488,70 € ;Oui;0;Non;Oui;Oui;Non;52,50;Non
+1000361;michel;REMBAULT;michel_rembault@alice.fr;31/12/1963;F;Cadre moyen / Enseignants;ROUTE DE VALAURY;83 210;SOLLIES TOUCAS;Oui;123;Occassionel; 29 866,30 € ;Oui;3;Non;Oui;Non;Non;50,97;Non
+1000362;daniel;FOURQUET;daniel.fourquet@wanadoo.fr;10/06/1973;F;Cadre moyen / Enseignants;DOMAINE DES MANDARINIERS;83 980;LE LAVANDOU;Oui;32;Top; 32 184,40 € ;Oui;2;Oui;Non;Non;Non;41,52;Oui
+1000363;bernard;DECOURCHELL;bernard.decourchelle@wanadoo.fr;26/08/1932;H;Autres; ;83 000;TOULON;Non;148;Top; 17 308,70 € ;Oui;1;Oui;Non;Oui;Oui;82,31;Oui
+1000364;gerard;HAUGEL; ;10/02/1962;F;Cadre moyen / Enseignants;131 IMPASSE DU CASTELLAN;83 230;BORMES LES MIMOSAS;Oui;45;Fidèle; 27 863,90 € ;Non;2;Non;Oui;Oui;Oui;52,85;Non
+1000365;jean-louis;DEJOUX LAVA;jean-louis.dejoux lavarde@wanadoo.fr;12/12/1937;F;Cadre superieur / dirigeant;100 IMP CORNOUIILERS CLOS;83 260;LA CRAU;Oui;59;Occassionel; 28 920,60 € ;Oui;0;Non;Oui;Non;Oui;77,02;Non
+1000366; ;MARTIN-GENA;martin-genay@gmail.com;25/05/2015;F;Cadre moyen / Enseignants;33 AVENUE AMBROISE THOMAS;83 400;HYERES;Oui;132;Occassionel; 58 367,30 € ;Oui;1;Oui;Oui;Oui;Non;-0,43;Oui
+1000367;jean-yves;GUILLEMAIN;jean-yves_guillemain@alice.fr;16/08/1966;F;Cadre moyen / Enseignants;319 AVENUE LOUIS IMBERT;83 160;LA VALETTE DU VAR;Oui;57;Occassionel; 16 849,30 € ;Non;0;Oui;Oui;Oui;Oui;48,34;Non
+1000368;eric;DE CAMAS;eric.de camas@free.fr;16/06/1944;H;Profession Liberale;20 RUE DES MAS DU POUVEREL;83 130;LA GARDE;Oui;190;Fidèle; 28 138,50 € ;Oui;0;Non;Non;Oui;Oui;70,51;Oui
+1000369;sylvie;DELAOUSTRE; ;08/10/1966;F;Cadre moyen / Enseignants;36 CHEMIN DU FREJAU;83 320;CARQUEIRANNE;Oui;264;Top; 23 038,20 € ;Oui;0;Oui;Oui;Non;Non;48,20;Non
+1000370;jacques;IZARD;jacques_izard@alice.fr;03/12/1956;F;Cadre superieur / dirigeant;CHE DE CANTE PERDRIX;83 390;CUERS;Oui;88;Occassionel; 11 736,90 € ;Non;2;Oui;Oui;Oui;Oui;58,04;Non
+1000371; ;ADAMO;adamo@gmail.com;06/10/1950;F;Cadre moyen / Enseignants; ;83 160;LA VALETTE;Non;35;Top; 16 479,50 € ;Oui;0;Oui;Non;Non;Oui;64,20;Oui
+1000372;laurent;FUENTES; ;05/11/1941;H;Cadre superieur / dirigeant;451 BD ENSEINE DE VAISSEA;83 130;LA GARDE;Oui;194;Top; 31 415,70 € ;Non;1;Oui;Oui;Non;Oui;73,12;Oui
+1000373;yves;BLANC;yves.blanc@free.fr;07/11/1968;F;Cadre moyen / Enseignants;560 AV DE FONT BRUN;83 320;CARQUEIRANNE;Oui;88;Nouveau; 12 117,30 € ;Oui;1;Non;Non;Oui;Non;46,11;Non
+1000374;pierre;MASSON;pierre.masson@free.fr;03/09/1942;F;Cadre moyen / Enseignants;519 CHEMIN DE SAINTE MUSSE;83 130;LA GARDE;Oui;137;Top; 15 417,10 € ;Oui;1;Oui;Non;Oui;Non;72,29;Non
+1000375;michel;SALABERT; ;14/05/1952;F;Employés;IMPASSE DU COURS;83 170;TOURVES;Oui;128;Top; 29 414,60 € ;Oui;1;Non;Oui;Non;Oui;62,60;Oui
+1000376;sophie;PENICAUD; ;04/06/1952;F;Cadre moyen / Enseignants;DOMAINE DE LA ROUVIERE;83 340;FLASSANS SUR ISSOLE;Oui;151;Top; 44 682,10 € ;Oui;0;Oui;Oui;Oui;Non;62,54;Non
+1000377;bernard;BUISSON; ;21/05/1959;F;Employés;129 RUE SAINT DOMINIQUE;83 210;LA FARLEDE;Oui;106;Fidèle; 36 281,00 € ;Oui;0;Oui;Oui;Oui;Non;55,58;Non
+1000378;christian;CROSSILLA;christian.crossilla@wanadoo.fr;22/09/1970;F;Employés;CH DU PIN DE GALLE;83 220;LE PRADET;Oui;96;Occassionel; 33 302,80 € ;Non;0;Oui;Non;Oui;Oui;44,24;Oui
+1000379;pierre;LEPORT;pierre.leport@wanadoo.fr;11/05/1956;F;Profession Liberale;131 LOT PARC DE STE CLAIRE;83 160;LA VALETTE DU VAR;Oui;101;Fidèle; 15 797,10 € ;Oui;0;Non;Oui;Oui;Non;58,61;Oui
+1000380;michel;BAUERLIN;michel.bauerlin@free.fr;27/02/1945;F;Cadre superieur / dirigeant; ;83 000;TOULON;Non;122;Fidèle; 31 864,80 € ;Oui;0;Oui;Oui;Oui;Non;69,81;Non
+1000381;jean-pierre;DUHAIL;jean-pierre.duhail@wanadoo.fr;22/06/1966;F;Employés;68 IMPASSE DES ORANGERS;83 210;LA FARLEDE;Oui;45;Occassionel; 43 719,50 € ;Oui;0;Non;Oui;Oui;Non;48,49;Non
+1000382;philippe;MAS;philippe.mas@wanadoo.fr;19/10/1935;F;Cadre superieur / dirigeant;62 CHEMIN DES BLEUETS;83 210;LA FARLEDE;Oui;276;Occassionel; 30 799,50 € ;Oui;2;Non;Non;Oui;Non;79,17;Oui
+1000383;guy;PALLUT;guy.pallut@wanadoo.fr;25/03/1959;H;Employés;CH DE ST AGATHE LE CAP;83 000;TOULON;Oui;235;Fidèle; 48 971,60 € ;Oui;3;Oui;Oui;Non;Non;55,74;Oui
+1000384;christian;HAUGEL;christian.haugel@wanadoo.fr;10/06/1932;F;Cadre moyen / Enseignants;140 AVENUE JEAN BARTOLINI;83 130;LA GARDE;Oui;281;Fidèle; 34 061,40 € ;Non;0;Oui;Oui;Oui;Non;82,52;Oui
+1000385;claudie;CLECHET;claudie.clechet@wanadoo.fr;31/08/1951;F;Employés;RES LES PALMIERS;83 320;CARCEIRANNE;Oui;177;Top; 28 938,60 € ;Oui;3;Oui;Non;Non;Non;63,30;Non
+1000386;emmanuel;FOUQUET;emmanuel.fouquet@free.fr;21/12/1934;H;Cadre moyen / Enseignants;241 ANCIEN DE LA VALETTE;83 200;TOULON;Oui;60;Occassionel; 38 540,00 € ;Non;0;Oui;Oui;Non;Oui;79,99;Non
+1000387; ;MARIE;marie@gmail.com;30/07/1948;F;Employés;164 AV CASTELLES BERLIOZ;83 130;LA GARDE;Oui;83;Top; 27 045,10 € ;Non;0;Non;Non;Oui;Non;66,39;Oui
+1000388;jean-remy;LAPEYRONIE;jean-remy.lapeyronie@free.fr;03/10/1966;F;Profession Liberale;9 AV FRANKLIN ROOSEVELT;83 130;LA GARDE;Oui;234;Fidèle; 51 284,30 € ;Non;0;Oui;Oui;Oui;Oui;48,21;Non
+1000389;francois;COHENDY;francois.cohendy@wanadoo.fr;31/03/1957;F;Cadre superieur / dirigeant;17 RUE LAMALGUE;83 000;TOULON;Oui;204;Top; 16 352,20 € ;Non;0;Non;Oui;Oui;Oui;57,72;Non
+1000390;claude;MONTAGNON;claude.montagnon@clubinternet.fr;29/12/1972;F;Cadre superieur / dirigeant; ;83 160;LA VALETTE DU VAR;Non;103;Top; 11 866,40 € ;Oui;0;Oui;Oui;Oui;Non;41,97;Non
+1000391;martine;TABUR;martine.tabur@free.fr;09/04/1954;F;Cadre superieur / dirigeant;LES CEPS CHEMIN DES MINES;83 310;COGOLIN;Oui;400;Occassionel; 13 267,60 € ;Oui;0;Oui;Oui;Oui;Oui;60,70;Non
+1000392;jacques;LE BIAVANT;jacques.le biavant@free.fr;06/12/1945;F;;6 B RUE DE LA SERVE;83 400;HYERES;Oui;42;Top; 61 554,60 € ;Oui;0;Non;Oui;Oui;Non;69,03;Non
+1000393;jean-louis;COLIN;jean-louis.colin@wanadoo.fr;07/09/1956;H;Employés;20 PLACE RONARCH;83 220;LE PRADET;Oui;207;Nouveau; 137,20 € ;Non;1;Non;Oui;Oui;Non;58,28;Non
+1000394;marc;CALONGE;marc.calonge@free.fr;12/02/1946;F;Cadre superieur / dirigeant;12 RUE GALLENI PARC DE LA;83 260;LA CRAU;Oui;275;Occassionel; 46 963,90 € ;Oui;1;Non;Oui;Oui;Non;68,85;Oui
+1000395;jean-pierre;FONTAINE;jean-pierre_fontaine@alice.fr;;F;Cadre superieur / dirigeant;MAS DE MACIE;83 680;LA GARDE FREINET;Oui;153;Top; 23 475,60 € ;Oui;0;Oui;Non;Oui;Oui;;Oui
+1000396;danielle;FRESNEAU;danielle_fresneau@alice.fr;25/10/1944;F;Cadre moyen / Enseignants;RRASSERIE KANTERBRAU;83 130;LA GARDE;Oui;79;Nouveau; 24 554,10 € ;Oui;0;Oui;Oui;Non;Oui;70,15;Non
+1000397;patrick;MICHEL;patrick.michel@neuf.fr;15/07/1970;H;Profession Liberale;213 RUE FRANCOIS P;83 160;LA VALETTE DU VAR;Oui;212;Top; 18 050,00 € ;Oui;0;Oui;Non;Oui;Oui;44,43;Oui
+1000398;agathe;MIGNOT; ;01/07/1981;F;Employés;3 PLACE NOEL BLACHE;83 000;TOULON;Oui;191;Fidèle; 15 237,60 € ;Oui;2;Oui;Non;Oui;Non;33,47;Non
+1000399;christian;BEHAGHEL; ;28/01/1971;F;Cadre moyen / Enseignants; ;83 500;LA SEYNE SUR MER;Non;164;Occassionel; 20 555,00 € ;Non;0;Oui;Oui;Oui;Non;43,89;Oui
+1000400;joseph;TROUILLE;joseph.trouille@free.fr;15/08/1948;F;Autres;IMP DES GENEVRIERS IMM;83 100;TOULON;Oui;84;Occassionel; 28 421,70 € ;Oui;2;Oui;Oui;Oui;Oui;66,34;Non
+1000401;sylvain;GENDRON;sylvain.gendron@wanadoo.fr;06/05/1973;F;Profession Liberale; ;83 100;TOULON;Non;70;Top; 21 876,50 € ;Oui;0;Non;Non;Oui;Non;41,62;Non
+1000402;andre;BERQUIEZ;andre.berquiez@wanadoo.fr;05/06/1952;F;Cadre moyen / Enseignants;169 IMP DU HAM DES GRANDS;83 210;LA FARLEDE;Oui;39;Nouveau; 12 810,20 € ;Non;3;Non;Oui;Oui;Non;62,54;Oui
+1000403;vincent;LAHOCHE; ;31/03/1973;H;Employés;167 RUE DE SAINT QUENTIN;83 100;TOULON;Oui;133;Nouveau; 15 109,40 € ;Oui;0;Non;Non;Oui;Non;41,72;Oui
+1000404;daniel;DE FLINE;daniel.de fline@free.fr;07/05/1982;H;Cadre moyen / Enseignants; ;6 130;GRASSE;Non;278;Occassionel; 37 414,70 € ;Non;3;Oui;Oui;Oui;Non;32,62;Non
+1000405;jean-bernard;BRAMLY;jean-bernard_bramly@alice.fr;02/05/1967;F;Cadre superieur / dirigeant;DOMAINE DE LA PORTANIERE;83 610;COLLOBRIERES;Oui;272;Top; 41 521,60 € ;Oui;0;Non;Oui;Oui;Oui;47,63;Non
+1000406;daniel;CAQUAS;daniel.caquas@free.fr;27/09/1976;F;Cadre moyen / Enseignants;1538 CHEMIN DE LA FORET;83 140;SIX FOURS LES PLAGES;Oui;260;Top; 25 372,80 € ;Oui;0;Oui;Oui;Oui;Non;38,23;Non
+1000407;g-marie;DUBROMEL;g-marie.dubromel@wanadoo.fr;15/11/1950;F;Cadre superieur / dirigeant;487 BOULEVARD GRIGNAN;83 000;TOULON;Oui;170;Top; 21 139,80 € ;Oui;2;Oui;Oui;Non;Non;64,09;Non
+1000408;pierre;GIOAN;pierre.gioan@wanadoo.fr;19/09/1977;F;Cadre moyen / Enseignants;18 IMPASSE REGIMBAUD;83 100;TOULON;Oui;60;Occassionel; 27 757,60 € ;Non;0;Non;Oui;Oui;Non;37,25;Oui
+1000409;jacques;AHVET;jacques.ahvet@clubinternet.fr;25/08/1954;F;Cadre superieur / dirigeant;VILLA ROGER PIERRE;83 136;NEOULES;Oui;19;Occassionel; 22 678,10 € ;Non;1;Oui;Oui;Oui;Oui;60,32;Oui
+1000410;jean-louis;GUTH;jean-louis.guth@wanadoo.fr;30/05/1949;F;Cadre moyen / Enseignants;VIL LOU PARADOU QT DU PAS;83 390;CUERS;Oui;170;Occassionel; 12 178,50 € ;Oui;2;Non;Oui;Oui;Oui;65,56;Non
+1000411;philippee;VINCENT;philippee.vincent@free.fr;16/02/1964;F;Cadre moyen / Enseignants;CHEMIN DES CAPUCINES;83 190;OLLIOULES;Oui;84;Fidèle; 26 106,70 € ;Non;1;Non;Non;Oui;Non;50,84;Oui
+1000412;anne-france;PONTIER;anne-france.pontier@wanadoo.fr;13/07/1961; ;Cadre superieur / dirigeant;6 IMPASSE DES VERDIERS;83 260;LA CRAU;Oui;10;Top; 27 417,60 € ;Oui;0;Non;Oui;Oui;Oui;53,43;Non
+1000413;jean-louis;PLATONOFF;jean-louis.platonoff@neuf.fr;21/03/2020;F;Cadre moyen / Enseignants;17 B BD DU MARECHAL JOFFRE;83 320;CARQUEIRANNE;Oui;113;Occassionel; 23 337,20 € ;Oui;2;Non;Oui;Oui;Oui;-5,25;Non
+1000414;lionel;GAUCHET;lionel.gauchet@clubinternet.fr;23/04/1936;F;Employés;35 RUE JULES VERNE;83 220;LE PRADET;Oui;135;Occassionel; 43 395,50 € ;Non;1;Oui;Oui;Oui;Non;78,66;Oui
+1000415;jean;POURBAIX;jean_pourbaix@alice.fr;07/07/1942;F;Cadre moyen / Enseignants;762 ROUTE DU VALLON;83 320;CARQUEIRANNE;Oui;154;Fidèle; 11 536,20 € ;Oui;2;Non;Non;Oui;Oui;72,45;Non
+1000416;alain;HMITTI; ;;F;Profession Liberale; ;83 000;TOULON;Non;204;Occassionel; 40 972,90 € ;Non;2;Oui;Oui;Oui;Oui;;Oui
+1000417; ;TAVARON;tavaron@gmail.com;05/07/1961;F;Cadre moyen / Enseignants;482 AV DES MESANGES;83 160;LA VALETTE;Oui;86;Top; 46 587,90 € ;Non;0;Non;Oui;Oui;Non;53,46;Oui
+1000418;j-philippe;BELUZE;j-philippe.beluze@neuf.fr;21/09/1937;F;Autres;LA TOUR D IVOIRE PLACE HO;83 000;TOULON;Oui;114;Occassionel; 43 799,60 € ;Non;0;Non;Oui;Oui;Oui;77,24;Non
+1000419;robert;FABBRI;robert_fabbri@alice.fr;17/11/1972;F;Profession Liberale;RUE MELPOMENE BT E A;83 100;TOULON;Oui;165;Occassionel; 18 912,20 € ;Oui;0;Oui;Non;Oui;Non;42,09;Oui
+1000420;claude;HENRYON;claude.henryon@wanadoo.fr;02/11/1930;F;Cadre moyen / Enseignants;2 B CORNICHE INFERIEURE;83 230;BORMES LES MIMOSAS;Oui;233;Top; 27 765,80 € ;Oui;3;Oui;Oui;Non;Non;84,13;Non
+1000421;bruno;DELLAC;bruno_dellac@alice.fr;09/12/1953;F;Employés;2796 ROUTE DE LA MADRAGUE;83 400;HYERES;Oui;253;Top; 337,30 € ;Non;1;Oui;Non;Oui;Non;61,03;Oui
+1000422;corinne;JUMEL;corinne.jumel@wanadoo.fr;10/03/1970;F;Cadre moyen / Enseignants; ;83 000;TOULON;Non;26;Occassionel; 26 325,30 € ;Oui;0;Oui;Non;Non;Non;44,78;Non
+1000423;anne;MARTIN; ;30/07/1959;F;Employés;66 IMPASSE DES MYRTILLES;83 230;BORMES LES MIMOSAS;Oui;71;Top; 15 308,20 € ;Non;0;Oui;Oui;Oui;Oui;55,39;Non
+1000424;paul-henri;ALBERT;paul-henri.albert@wanadoo.fr;18/11/1959;F;Profession Liberale;5 IMPASSE DU TERON;83 390;CUERS;Oui;142;Top; 59 805,60 € ;Oui;1;Oui;Oui;Oui;Non;55,09;Oui
+1000425;jean-paul;BROCHARD; ;29/07/1957;H;Profession Liberale; ;83 130;LA GARDE;Non;210;Occassionel; 28 658,30 € ;Oui;0;Oui;Oui;Oui;Non;57,39;Non
+1000426;nicole;LEFER;nicole.lefer@free.fr;05/08/2023;F;Employés;87 BDV EDOUARD LATIL;83 000;TOULON;Oui;129;Top; 23 175,00 € ;Oui;0;Non;Non;Non;Oui;-8,63;Oui
+1000427;olivier;BONNAUD;olivier.bonnaud@free.fr;26/05/1959;F;Employés;383 CHEMIN DE LA BOSQUETTE;83 200;TOULON;Oui;181;Nouveau; 11 595,40 € ;Non;0;Oui;Oui;Oui;Non;55,57;Oui
+1000428;pascal;DUTOIT;pascal.dutoit@free.fr;04/08/1943;H;Profession Liberale;LE SESIO BTA1;83 130;LA GARDE;Oui;224;Nouveau; 50 409,90 € ;Non;2;Non;Oui;Oui;Oui;71,38;Oui
+1000429;richard;CHAPUIS; ;14/03/1933;F;Employés;IMMEUBLE LE SAINT LAURENT;83 160;LA VALETTE DU VAR;Oui;99;Fidèle; 11 215,30 € ;Oui;2;Oui;Oui;Oui;Non;81,77;Oui
+1000430;jean-yves;PERRAUDIN; ;10/12/1954;F;Profession Liberale;LE TOUAR BT D1;83 160;LA VALETTE;Oui;277;Occassionel; 13 327,80 € ;Oui;0;Non;Oui;Non;Non;60,02;Non
+1000431;julien;REGOUGE;julien.regouge@free.fr;01/10/1953;F;Profession Liberale; ;83 210;LA FARLEDE;Non;43;Top; 16 088,80 € ;Oui;3;Non;Oui;Oui;Non;61,22;Non
+1000432;roland;LABEYRIE;roland.labeyrie@clubinternet.fr;24/05/1950;H;Employés;144 CHEMIN DES CISTES;83 230;BORMES LES MIMOSAS;Oui;102;Occassionel; 43 943,00 € ;Oui;0;Oui;Oui;Oui;Oui;64,57;Non
+1000433;claude;LOUIS;claude.louis@clubinternet.fr;01/01/1977;F;Employés; ;83 250;LA LONDE LES MAURES;Non;77;Fidèle; 14 505,30 € ;Non;3;Non;Oui;Oui;Non;37,96;Non
+1000434;anne;QUESTE;anne.queste@clubinternet.fr;24/06/1963;F;Profession Liberale;AVENUE DU PRESIDENT AURIOL;83 980;LE LAVANDOU;Oui;151;Nouveau; 51 417,00 € ;Oui;2;Non;Oui;Oui;Non;51,49;Oui
+1000435;herve;BORSOI; ;16/08/1968;H;Profession Liberale; ;83 310;COGOLIN;Non;249;Fidèle; 30 971,80 € ;Oui;3;Oui;Oui;Oui;Oui;46,34;Non
+1000436;philippe;DUFLOCQ; ;11/12/1951;F;Cadre superieur / dirigeant;LE MONT JOIE BT C 48 AV;83 200;TOULON;Oui;66;Top; 47 025,00 € ;Non;2;Oui;Oui;Oui;Oui;63,02;Non
+1000437;jacques;GAUQUELIN;jacques.gauquelin@free.fr;08/06/1971;F;Cadre moyen / Enseignants; ;83 210;SOLLIES PONT;Non;42;Top; 9 672,25 € ;Oui;0;Oui;Oui;Oui;Non;43,53;Non
+1000438;sylvie;BAZIN;sylvie.bazin@neuf.fr;15/11/1954;F;Employés;18 RUE DU PETIT PLANTIER;83 230;BORMES LES MIMOSAS;Oui;96;Occassionel; 15 976,30 € ;Oui;0;Oui;Oui;Non;Non;60,09;Oui
+1000439;thierry;PRETO;thierry.preto@clubinternet.fr;01/03/1966;F;Employés;RES LA COUPIANE BAT 35;83 160;LA VALETTE DU VAR;Oui;169;Top; 14 711,80 € ;Oui;0;Non;Oui;Non;Oui;48,80;Non
+1000440;alain;BLIN;alain.blin@clubinternet.fr;18/06/1963;F;Cadre moyen / Enseignants; ;83 260;LA CRAU;Non;235;Occassionel; 26 671,60 € ;Non;0;Oui;Non;Oui;Oui;51,50;Oui
+1000441;rene;LE TREOU;rene.le treou@wanadoo.fr;25/08/1960;H;Autres;8 LOTISSEMENT LES MURIERS;83 210;SOLLIES PONT;Oui;250;Top; 8 162,42 € ;Oui;1;Oui;Oui;Oui;Oui;54,32;Non
+1000442;olivier;RENARD;olivier.renard@wanadoo.fr;21/08/1941;F;Employés;18 BD GAMBETTA;83 390;CUERS;Oui;229;Occassionel; 15 349,60 € ;Oui;0;Non;Oui;Non;Non;73,33;Non
+1000443;michel;BURIN DES R;michel.burin des rosie@wanadoo.fr;20/02/1952;F;Cadre superieur / dirigeant;MAS L OLIVIER LE PUY;83 390;CUERS;Oui;258;Occassionel; 29 231,40 € ;Oui;0;Non;Oui;Non;Non;62,83;Non
+1000444;jean-claude;GARCIA;jean-claude.garcia@free.fr;08/12/1953;H;Cadre moyen / Enseignants;HOPITAL GEORGES CLEMENCEA;83 130;LA GARDE;Oui;230;Fidèle; 41 462,30 € ;Oui;3;Non;Oui;Oui;Oui;61,03;Non
+1000445;roger;VASSELON;roger.vasselon@wanadoo.fr;12/04/1978;F;Cadre moyen / Enseignants; ;83 330;EVENOS;Non;275;Fidèle; 57 398,10 € ;Non;3;Non;Oui;Oui;Non;36,69;Oui
+1000446;laurence;SILLON; ;05/12/1968;F;Cadre superieur / dirigeant; ;83 200;TOULON;Non;193;Fidèle; 11 520,80 € ;Oui;0;Non;Non;Oui;Non;46,04;Non
+1000447;bruno;FABRELLO;bruno.fabrello@clubinternet.fr;19/02/1946;H;Employés;CHEMIN DE L OZONE;83 160;LA VALETTE DU VAR;Oui;78;Top; 52 117,30 € ;Non;2;Oui;Oui;Oui;Non;68,83;Oui
+1000448;jean-jacques;VALTOUX;jean-jacques.valtoux@clubinternet.fr;09/11/1948;F;Employés; ;83 200;TOULON;Non;180;Fidèle; 26 281,40 € ;Non;0;Oui;Oui;Oui;Non;66,11;Oui
+1000449;georges-gabr;FRIOT;georges-gabr.friot@free.fr;23/10/1942;F;Employés; ;83 110;SANARY;Non;187;Occassionel; 25 683,40 € ;Non;2;Oui;Oui;Oui;Non;72,16;Non
+1000450;alain;BOLZAN; ;20/05/1976;F;Cadre moyen / Enseignants;440 AVENUE JE AN BARTOLIN;83 130;LA GARDE;Oui;12;Top; 11 920,70 € ;Non;1;Non;Oui;Oui;Non;38,58;Non
+1000451;jean;SALVANES; ;01/06/1959;F;Employés;15 AV BAPTISTIN AUTRAN  E;83 130;LA GARDE;Oui;44;Occassionel; 30 658,70 € ;Oui;0;Non;Oui;Oui;Non;55,55;Non
+1000452;philippe;ZIBI; ;19/12/1965;H;Employés; ;83 220;LE PRADET;Non;124;Top; 36 646,40 € ;Non;1;Non;Oui;Oui;Non;49,00;Oui
+1000453;maurice;DURA;maurice.dura@free.fr;24/04/1970;F;Cadre moyen / Enseignants;250 RUE DES GENETS;83 980;LE LAVANDOU;Oui;245;Occassionel; 30 760,40 € ;Non;2;Oui;Non;Oui;Non;44,65;Oui
+1000454;moustapha;BERREBI;moustapha.berrebi@wanadoo.fr;07/05/1957;F;Employés;14 RUE DE LA REPUBLIQUE;83 160;LA VALETTE DU VAR;Oui;85;Fidèle; 16 109,90 € ;Non;2;Oui;Oui;Oui;Non;57,62;Non
+1000455; ;MICHEL;michel@gmail.com;27/09/1955;F;Cadre superieur / dirigeant; ;83 210;LA FARLEDE;Non;182;Occassionel; 18 036,70 € ;Oui;0;Oui;Oui;Non;Non;59,23;Non
+1000456;christophe;ANDRE; ;24/04/1967;F;Cadre moyen / Enseignants;11 RUE DES ROITELETS;83 390;CUERS;Oui;117;Fidèle; 42 628,30 € ;Non;0;Oui;Oui;Oui;Oui;47,66;Non
+1000457;dominique;THIBAULT;dominique.thibault@wanadoo.fr;22/03/1960;F;Employés; ;83 000;TOULON;Non;195;Top; 22 110,10 € ;Non;2;Oui;Oui;Oui;Non;54,74;Non
+1000458;dominique;DELMAIL;dominique.delmail@wanadoo.fr;11/05/1971;H;Employés;BT 9 RES LA COUPIANE;83 160;LA VALETTE;Oui;104;Occassionel; 37 689,10 € ;Non;1;Non;Oui;Oui;Oui;43,61;Oui
+1000459;daniel;GOLOMER; ;27/02/1976;H;Employés; ;83 260;LA CRAU;Non;248;Top; 23 171,80 € ;Non;2;Non;Oui;Non;Non;38,81;Non
+1000460;richard;EON;richard.eon@wanadoo.fr;05/12/1977;F;Profession Liberale;LES CLEMATITE BT B 22 PLA;83 130;L GARDE;Oui;264;Nouveau; 21 951,30 € ;Non;0;Oui;Oui;Oui;Oui;37,04;Non
+1000461;noel;RAULIN;noel.raulin@wanadoo.fr;15/08/1956;F;Cadre moyen / Enseignants;299 AVE DES PALMIERS;83 140;SIX FOURS LES PLAGES;Oui;134;Top; 34 852,30 € ;Oui;1;Non;Oui;Non;Oui;58,34;Oui
+1000462; ;JARRAUD;jarraud@gmail.com;02/08/1931;F;Cadre moyen / Enseignants;263 ANC CHE DU REVEST;83 160;LA VALETTE DU VAR;Oui;39;Top; 21 268,40 € ;Oui;0;Non;Non;Oui;Oui;83,38;Oui
+1000463;jean-yves;MENORET;jean-yves.menoret@free.fr;04/02/1933;H;Autres;162 AV JEAN MOULIN LE;83 400;HYERES;Oui;143;Fidèle; 50 849,20 € ;Non;1;Non;Oui;Non;Oui;81,87;Oui
+1000464;jean-robert;TROUILLET;jean-robert.trouillet@wanadoo.fr;25/02/1973;H;Cadre superieur / dirigeant;AVENUE DE L ARLESIENNE;83 210;SOLLIES PONT;Oui;210;Occassionel; 18 555,90 € ;Oui;3;Non;Non;Oui;Non;41,81;Non
+1000465;felix;LYVINNEC;felix.lyvinnec@neuf.fr;03/05/1958;F;Employés;6 CHEMIN DU VANNIER;83 980;LE LAVANDOU;Oui;161;Fidèle; 52 769,90 € ;Oui;3;Oui;Oui;Oui;Non;56,63;Oui
+1000466;jean;COMBEAU;jean.combeau@wanadoo.fr;25/02/1934;F;Employés;LES ROCHES BLEUES;83 220;LE PRADET;Oui;215;Top; 11 601,40 € ;Oui;2;Non;Oui;Oui;Oui;80,81;Non
+1000467;jean-jacques;ROOS;jean-jacques.roos@wanadoo.fr;10/02/1964;F;Cadre superieur / dirigeant;840 CHEMIN DES TOURRACHES;83 260;LA CRAU;Oui;72;Occassionel; 29 541,70 € ;Oui;0;Non;Oui;Non;Non;50,86;Non
+1000468;claudine;HOLLY;claudine.holly@free.fr;21/03/1962;F;Cadre moyen / Enseignants;RUE LOUIS LAURE BT B2;83 160;LA VALETTE;Oui;219;Nouveau; 17 861,00 € ;Oui;2;Non;Oui;Oui;Non;52,75;Non
+1000469; ;FLOQUET;floquet@gmail.com;01/12/1966;H;Cadre superieur / dirigeant;33 RUE PIERRE REYNIER;83 200;TOULON;Oui;69;Nouveau; 21 042,00 € ;Oui;1;Non;Non;Oui;Non;48,05;Oui
+1000470;gerard;DE WARESQUI;gerard.de waresquiel@wanadoo.fr;26/01/1960;H;Employés;128 RUE VAUQUELIN;83 000;TOULON;Oui;169;Occassionel; 26 688,10 € ;Oui;1;Non;Oui;Non;Oui;54,90;Oui
+1000471;daniel;GIRARD;daniel.girard@free.fr;13/04/2029;F;Cadre moyen / Enseignants;60 AV DU GENERAL DE GAULLE;83 980;LE LAVANDOU;Oui;234;Top; 269,60 € ;Oui;2;Non;Non;Non;Oui;-14,32;Non
+1000472;bernard;BEAUDOIN;bernard.beaudoin@free.fr;14/01/1940; ;Cadre moyen / Enseignants;347 CHEMIN DU PARTEGAL;83 210;LA FARLEDE;Oui;82;Top; 38 080,90 € ;Oui;1;Oui;Oui;Non;Oui;74,93;Non
+1000473;geraldine;HARDY;geraldine_hardy@alice.fr;13/06/1969;F;Profession Liberale; ;83 400;HYERES;Non;233;Nouveau; 37 554,10 € ;Oui;2;Oui;Oui;Oui;Oui;45,52;Oui
+1000474;alain;BOSSEE-PILO;alain.bossee-pilon@free.fr;12/11/1972;F;Profession Liberale; ;83 210;SOLLIES PONT;Non;87;Top; 18 184,60 € ;Oui;0;Non;Non;Oui;Oui;42,10;Oui
+1000475;elia;TRUILLARD;elia.truillard@wanadoo.fr;09/01/1963;F;Profession Liberale;RESIDENCE LES ANEMONES;83 160;LA VALETTE DU VAR;Oui;111;Nouveau; 28 864,90 € ;Oui;0;Non;Oui;Oui;Non;51,94;Non
+1000476;jean-francoi;HARDY;jean-francoi.hardy@wanadoo.fr;25/05/1981;F;Cadre moyen / Enseignants;29 ALLEE DES BRUYERES;83 320;CARQUEIRANNE;Oui;121;Fidèle; 48 346,10 € ;Oui;1;Oui;Oui;Non;Non;33,57;Oui
+1000477;michel;EUDE; ;29/02/1972;F;Cadre moyen / Enseignants; ;83 260;LA CRAU;Non;230;Top; 53 104,30 € ;Oui;0;Oui;Oui;Oui;Non;42,80;Non
+1000478;michel;MAILLARD;michel.maillard@wanadoo.fr;20/04/1955;F;Profession Liberale;19 RUE DES SOLEILS;83 260;LA CRAU;Oui;127;Top; 19 416,80 € ;Oui;0;Non;Oui;Oui;Non;59,67;Non
+1000479;lucienne;HELLOUIN; ;10/02/1968;F;Cadre moyen / Enseignants; ;83 400;HYERES;Non;63;Fidèle; 23 638,10 € ;Oui;2;Oui;Oui;Oui;Non;46,86;Non
+1000480; ;CONTESSE;contesse@gmail.com;05/03/1936;F;Cadre superieur / dirigeant;117 AVE GABRIEL PERI;83 160;LA VALETTE;Oui;133;Occassionel; 42 378,20 € ;Oui;1;Non;Oui;Oui;Non;78,79;Oui
+1000481;michel;BURGEVIN;michel.burgevin@neuf.fr;30/07/1939;F;Employés;LE SOLEDAD 4 7 RUE DENIS;83 000;TOULON;Oui;21;Fidèle; 39 745,30 € ;Oui;0;Oui;Oui;Non;Oui;75,39;Non
+1000482;nicole;FERAY;nicole.feray@free.fr;08/04/1951;H;Cadre superieur / dirigeant;26 AVENUE DE LA REPUBLIQUE;83 210;LA FARLEDE;Oui;3;Top; 45 189,80 € ;Oui;0;Non;Oui;Non;Non;63,70;Non
+1000483;laurent;HERICOURT;laurent_hericourt@alice.fr;28/07/1930;F;Cadre superieur / dirigeant;APPT A11 RES CAP SUD;83 240;CAVALAIRE SUR MER;Oui;81;Top; 37 930,90 € ;Oui;0;Non;Oui;Non;Oui;84,39;Non
+1000484;marie-josee;HERTZ; ;08/01/1959;H;Cadre superieur / dirigeant;QUARTIER LABAOU;83 136;ROCBARON;Oui;41;Top; 24 042,00 € ;Non;1;Non;Non;Oui;Non;55,95;Oui
+1000485;jean-louis;AURADOU;jean-louis.auradou@wanadoo.fr;17/03/1958;F;Employés;91 BD AMIRAL JEAN VENCE;83 200;TOULON;Oui;34;Top; 31 207,10 € ;Non;0;Oui;Non;Oui;Oui;56,76;Oui
+1000486;frederic;BRUNET; ;27/07/1948;H;Employés;AVENUE DU 11 NOVEMBRE 1918;83 160;LA VALETTE DU VAR;Oui;91;Occassionel; 24 424,30 € ;Oui;0;Non;Oui;Oui;Oui;66,40;Non
+1000487;alain;BEAUFRAND;alain.beaufrand@wanadoo.fr;21/06/1950;H;Employés;20 AVENUE DU 8 MAI;83 570;CARCES;Oui;66;Fidèle; 24 607,80 € ;Non;1;Non;Oui;Oui;Oui;64,50;Non
+1000488;bernard;GUITTIN;bernard.guittin@clubinternet.fr;20/08/1938;F;Cadre superieur / dirigeant;TYLOK 2 RUE LENTELME;83 000;TOULON;Oui;93;Occassionel; 43 057,00 € ;Non;1;Oui;Oui;Oui;Non;76,33;Oui
+1000489;arnaud;ELBIM; ;11/02/1954;F;Cadre superieur / dirigeant; ;83 210;SOLLIES TOUCAS;Non;118;Nouveau; 30 198,50 € ;Oui;0;Oui;Non;Oui;Oui;60,85;Oui
+1000490; ;STEIER;steier@gmail.com;29/05/1946;H;Profession Liberale;CHANTE CIGALE;83 210;LA FARLEDE;Oui;125;Fidèle; 50 186,10 € ;Oui;2;Non;Oui;Oui;Oui;68,56;Oui
+1000491;philippe;VIENNET; ;13/03/1956;F;Employés;150 BD KOENIG;83 400;HYERES;Oui;206;Nouveau; 22 916,10 € ;Oui;0;Non;Non;Oui;Non;58,77;Non
+1000492;pierre;PALLATIN;pierre.pallatin@free.fr;16/04/1951;H;Cadre moyen / Enseignants;ALLEE DES TAMARIS;83 550;VIDAUBAN;Oui;180;Fidèle; 9 592,73 € ;Non;0;Non;Oui;Oui;Non;63,68;Oui
+1000493;philippe;NESTELHUT;philippe.nestelhut@free.fr;05/01/1961;H;Cadre moyen / Enseignants;VIEUX CH DE LA RIPELLE;83 200;LE REVEST;Oui;69;Top; 34 253,60 € ;Non;3;Oui;Non;Oui;Non;53,95;Non
+1000494;serge;CARON; ;09/07/1948;F;Employés;502 B ANCIEN CH DE LA;83 200;TOULON;Oui;99;Top; 22 792,30 € ;Oui;1;Oui;Oui;Non;Non;66,44;Oui
+1000495;michel;RENAULT;michel.renault@clubinternet.fr;05/08/1967;F;Profession Liberale; ;83 220;LE PRADET;Non;87;Occassionel; 51 620,80 € ;Non;2;Oui;Oui;Oui;Non;47,37;Oui
+1000496;laurent;CARON;laurent.caron@free.fr;06/05/1968;F;Employés;85 IMPASSE FOURNIET;83 130;LA GARDE;Oui;214;Occassionel; 19 918,90 € ;Oui;3;Non;Oui;Oui;Oui;46,62;Non
+1000497;alain;VINDRY; ;10/11/1946;H;Cadre superieur / dirigeant;411 CHEMIN DE LA FOUX;83 220;LE PRADET;Oui;185;Occassionel; 29 625,10 € ;Oui;2;Non;Non;Oui;Non;68,11;Non
+1000498;patrick;FILIPPI;patrick.filippi@free.fr;28/04/1963;F;Cadre superieur / dirigeant;CHEMIN DES LILAS;83 136;GAREOULT;Oui;54;Occassionel; 12 549,00 € ;Oui;0;Non;Oui;Oui;Non;51,64;Non
+1000499;jacky;BOULANGE;jacky.boulange@wanadoo.fr;18/11/1940;H;Employés; ;83 160;LA VALETTE;Non;76;Occassionel; 51 299,30 € ;Oui;1;Oui;Oui;Non;Non;74,08;Oui
+1000500;jean;LOCICERO; ;02/05/1964;F;Cadre moyen / Enseignants;901 RTE DE TOURIS;83 160;LA VALETTE DU VAR;Oui;61;Top; 17 364,80 € ;Oui;2;Oui;Oui;Non;Non;50,63;Oui
+1000501;j-dominique;LIEFFRING;j-dominique.lieffring@free.fr;08/12/1945;H;Profession Liberale;71 BD PIERRE GASSENDI;83 000;TOULON;Oui;94;Top; 29 866,90 € ;Non;1;Oui;Non;Oui;Non;69,03;Oui
+1000502; ;PENNEC;pennec@gmail.com;03/07/1959;F;Employés;220 CHEMIN DE LA NAVARRE;83 260;LA CRAU;Oui;247;Top; 47 750,20 € ;Oui;0;Oui;Oui;Oui;Oui;55,46;Non
+1000503;eric;BOUQUET-NAD;eric.bouquet-nadaud@wanadoo.fr;03/06/1958;F;Profession Liberale;104 MONTEE DE L ORATOIRE;83 320;CARQUEIRANNE;Oui;84;Occassionel; 11 281,50 € ;Oui;0;Non;Oui;Oui;Oui;56,54;Non
+1000504;herve;BOUCAUD; ;10/04/1966;F;Cadre moyen / Enseignants;1212 VIEUX CH DE STE MUSS;83 100;TOULON;Oui;60;Top; 34 073,80 € ;Oui;3;Non;Oui;Non;Oui;48,69;Non
+1000505;jean-paul;CAUMARTIN;jean-paul.caumartin@free.fr;03/01/1961;H;Cadre moyen / Enseignants;TRAVERSE DU GAOU;83 140;SIX FOURS LES PLAGES;Oui;90;Top; 46 870,40 € ;Oui;0;Non;Oui;Oui;Non;53,96;Non
+1000506;j-pierre;AMOUROUX;j-pierre.amouroux@neuf.fr;15/07/1950;H;Profession Liberale;6 RUE TOPAZE;83 240;CAVALAIRE SUR MER;Oui;145;Top; 38 453,70 € ;Non;2;Non;Oui;Oui;Non;64,43;Oui
+1000507;paolo;TAITTINGER;paolo_taittinger@alice.fr;13/01/1956;F;Profession Liberale;112 RUE DENIS LITARDI BAT;83 000;TOULON;Oui;161;Top; 7 756,36 € ;Non;0;Non;Non;Non;Non;58,93;Oui
+1000508;michel;SARRON; ;15/04/1973;F;Cadre moyen / Enseignants; ;83 200;TOULON;Non;84;Top; 28 413,80 € ;Oui;0;Non;Non;Oui;Non;41,68;Non
+1000509;daniel;CAMIN;daniel.camin@wanadoo.fr;10/08/1957;H;Autres; ;83 160;LA VALETTE DU VAR;Non;143;Nouveau; 47 198,60 € ;Oui;2;Non;Oui;Oui;Non;57,36;Oui
+1000510;jacqueline;STENGER;jacqueline.stenger@clubinternet.fr;27/03/1980;F;Cadre moyen / Enseignants; ;83 130;LA GARDE;Non;258;Top; 20 866,30 € ;Oui;0;Oui;Oui;Oui;Non;34,73;Non
+1000511;jean-pierre;FIDIER; ;07/03/1964;F;Cadre superieur / dirigeant;LE PLESSIS BAT B2 410 CH;83 200;TOULON;Oui;234;Occassionel; 33 204,30 € ;Non;1;Non;Non;Non;Oui;50,78;Oui
+1000512;pierre;GUILLEMIN;pierre.guillemin@clubinternet.fr;15/10/1953;H;Cadre moyen / Enseignants;15 AVENUE DES ILES D OR;83 400;HYERES;Oui;180;Top; 24 823,50 € ;Non;2;Non;Non;Oui;Non;61,18;Non
+1000513;cecile;TOURBEZ;cecile.tourbez@free.fr;16/09/1964;F;Employés;LD LES BASSES SAMBALETTES;83 390;CUERS;Oui;108;Nouveau; 17 986,80 € ;Oui;0;Non;Non;Oui;Oui;50,26;Oui
+1000514;etienne;BOCLE;etienne.bocle@neuf.fr;03/09/2027;F;Profession Liberale;TRAVERSE DES POURPRES;83 260;LA CRAU;Oui;176;Top; 9 909,82 € ;Oui;3;Non;Non;Oui;Non;-12,71;Non
+1000515; ;MANENTE;manente@gmail.com;08/07/1953;F;Profession Liberale; ;83 130;LA GARDE;Non;47;Occassionel; 26 542,80 € ;Non;0;Oui;Oui;Oui;Non;61,45;Oui
+1000516;olivier;HUBERT;olivier.hubert@wanadoo.fr;07/02/1960;F;Cadre moyen / Enseignants;805 ROUTE DE TOURRIS;83 160;LA VALETTE DU VAR;Oui;84;Top; 32 583,50 € ;Oui;2;Oui;Oui;Oui;Non;54,86;Non
+1000517;loic;GAIGNOT; ;29/07/1954;F;Cadre moyen / Enseignants;RUE VICTOR THOURON;83 000;TOULON;Oui;247;Top; 14 606,60 € ;Oui;1;Non;Non;Oui;Non;60,39;Non
+1000518;jean;JACQUESSON;jean.jacquesson@wanadoo.fr;18/01/1964;F;Cadre superieur / dirigeant; ;83 210;LA FARLEDE;Non;146;Occassionel; 34 836,80 € ;Oui;1;Oui;Oui;Oui;Non;50,92;Oui
+1000519;christian;CONTAUT;christian.contaut@wanadoo.fr;26/05/1958;H;Employés;QAT LES HOUERTS;83 590;GONFARON;Oui;219;Occassionel; 26 920,80 € ;Oui;0;Non;Non;Oui;Non;56,57;Non
+1000520;cecile;LOPEZ;cecile_lopez@alice.fr;05/11/1961;F;Employés;4 RUE PIERRE CURIE;83 390;PIERREFEU;Oui;125;Top; 38 248,30 € ;Non;3;Oui;Non;Oui;Oui;53,12;Non
+1000521; ;GAUTRON;gautron@gmail.com;14/06/1956;F;Cadre moyen / Enseignants;550 CHEMIN DES OURLEDES;83 400;HYERES;Oui;119;Top; 15 689,10 € ;Non;0;Non;Non;Oui;Non;58,51;Non
+1000522;gilbert;CARA;gilbert.cara@clubinternet.fr;27/03/1930;F;Cadre moyen / Enseignants;LE KALLISTE BDV CHARLES;83 000;TOULON;Oui;94;Top; 30 157,70 € ;Non;1;Oui;Non;Non;Non;84,73;Oui
+1000523;j.;VIDAL;j..vidal@free.fr;16/08/2028;F;Autres;228 BD JOSEPH LAUTIER;83 110;SANARY SUR MER;Oui;189;Nouveau; 11 073,00 € ;Oui;2;Non;Oui;Non;Non;-13,66;Non
+1000524;francis;ROBIN;francis.robin@free.fr;05/08/1946;F;Cadre moyen / Enseignants; ;83 210;SOLLIES VILLE;Non;63;Top; 18 158,50 € ;Non;1;Oui;Non;Oui;Oui;68,37;Oui
+1000525;h.;BOUTOT;h..boutot@free.fr;22/03/1937;F;Employés;295 BOULEVARD MALMAISON;83 240;CAVALAIRE SUR MER;Oui;125;Top; 7 304,20 € ;Non;0;Oui;Oui;Oui;Oui;77,74;Non
+1000526;jean-yves;VUICHARD; ;07/11/1957;F;Employés;QUARTIER LES PRADETS;83 390;CUERS;Oui;178;Top; 58 092,00 € ;Non;2;Oui;Oui;Oui;Non;57,11;Oui
+1000527;pierre;FOUCHER; ;01/05/1969;H;;LE CLAIRFONTAINE BT C;83 130;LA GARDE;Oui;35;Top; 16 518,60 € ;Oui;0;Oui;Non;Oui;Non;45,63;Oui
+1000528;pierre;BENGINO;pierre.bengino@free.fr;07/09/1967;F;Cadre moyen / Enseignants;L ESPERANCE GR HIPPONE;83 220;LE PRADET;Oui;10;Nouveau; 46 461,50 € ;Oui;0;Non;Oui;Oui;Non;47,28;Non
+1000529; ;TEDESCHI;tedeschi@gmail.com;19/05/1972;F;Cadre moyen / Enseignants;243 RUE DOUMET;83 130;LA GARDE;Oui;185;Fidèle; 258,70 € ;Oui;0;Non;Oui;Oui;Oui;42,58;Non
+1000530;jacques;SASSAN;jacques.sassan@wanadoo.fr;13/07/1949;F;Profession Liberale;31 IMP DES CEDRES;83 260;LA CRAU;Oui;47;Top; 12 533,20 € ;Non;1;Non;Oui;Non;Oui;65,43;Non
+1000531;jose;KACZA;jose.kacza@free.fr;14/07/1949;F;Employés;1060 BOULEVARD DES ARMARIS;83 100;TOULON;Oui;140;Fidèle; 22 848,50 € ;Oui;1;Oui;Non;Non;Non;65,43;Oui
+1000532;robert;SARRAZIN;robert_sarrazin@alice.fr;23/04/1968;F;Employés;96 CHEMIN DE LA GIRAUDE;83 210;SOLLIES VILLE;Oui;119;Occassionel; 25 699,40 € ;Oui;2;Oui;Oui;Non;Non;46,66;Oui
+1000533;claude;LAFARGUE;claude.lafargue@wanadoo.fr;12/07/2025;H;Employés;VILLA LEGABOULET;83 230;BORMES LES MIMOSAS;Oui;170;Occassionel; 21 612,60 € ;Oui;0;Non;Oui;Oui;Oui;-10,56;Non
+1000534;alain;DESTREBECQ;alain.destrebecq@wanadoo.fr;21/09/1954;F;Cadre moyen / Enseignants;777 CHEMIN BERTRAND MARIN;83 136;STE ANASTASIE SUR ISSOLE;Oui;80;Occassionel; 43 799,60 € ;Non;0;Non;Oui;Oui;Oui;60,24;Non
+1000535;emmanuel;FINKELFTEIN;emmanuel.finkelftein@clubinternet.fr;12/03/1958;F;Cadre superieur / dirigeant;264  BD DE L ENSEIGNE DE;83 130;LA GARDE;Oui;147;Occassionel; 18 912,20 € ;Oui;0;Oui;Non;Oui;Non;56,77;Oui
+1000536;herve;GOGNET;herve_gognet@alice.fr;29/11/1963;F;Cadre moyen / Enseignants; ;83 400;HYERES;Non;76;Top; 27 765,80 € ;Oui;3;Oui;Oui;Non;Non;51,06;Non
+1000537;alain;ERHEL;alain.erhel@neuf.fr;05/05/1964;F;Employés;175 RUE JACQUES PREVERT;83 130;LA GARDE;Oui;30;Top; 337,30 € ;Non;1;Oui;Non;Oui;Non;50,62;Oui
+1000538;louis-charle;DALE;louis-charle_dale@alice.fr;29/01/1952;H;Cadre superieur / dirigeant;10 CHEM LA FONT DE L ANGE;83 400;HYERES;Oui;151;Occassionel; 26 325,30 € ;Oui;0;Oui;Non;Non;Non;62,89;Non
+1000539;marek;MARECHAL;marek.marechal@free.fr;18/07/1962;F;Cadre moyen / Enseignants;QUARTIER LES CONFERENCES;83 210;BELGENTIER;Oui;100;Top; 15 308,20 € ;Non;0;Oui;Oui;Oui;Oui;52,42;Non
+1000540;andre;LALLET;andre.lallet@free.fr;26/09/1963;H;Profession Liberale;145 AV AM JEAN PAUL OROSCO;83 160;LA VALETTE DU VAR;Oui;166;Top; 59 805,60 € ;Oui;1;Oui;Oui;Oui;Non;51,23;Oui
+1000541;jacques;RUDAUX; ;31/03/1963;H;Cadre moyen / Enseignants;7 IMP DES ECUREILS PRAMOU;83 980;LE LAVANDOU;Oui;169;Occassionel; 28 658,30 € ;Oui;0;Oui;Oui;Oui;Non;51,72;Non
+1000542;jean-yves;REIG;jean-yves_reig@alice.fr;12/02/1951;H;Cadre superieur / dirigeant;103 RUE ROMAIN IMM LE;83 100;TOULON;Oui;96;Top; 23 175,00 € ;Oui;0;Non;Non;Non;Oui;63,85;Oui
+1000543;thierry;ALBERT; ;22/08/1950;F;Profession Liberale;LES FLORALIES CH DE FORGE;83 200;TOULON;Oui;137;Nouveau; 11 595,40 € ;Non;0;Oui;Oui;Oui;Non;64,33;Oui
+1000544;l-michel;DUCORD; ;10/10/1959;F;Cadre moyen / Enseignants; ;83 790;PIGNANS;Non;89;Nouveau; 50 409,90 € ;Non;2;Non;Oui;Oui;Oui;55,19;Oui
+1000545;jean-pierre;PASSELAC;jean-pierre.passelac@wanadoo.fr;27/02/1989;F;Cadre moyen / Enseignants;LES OEILLETS BAT J2 849;83 100;TOULON;Oui;42;Fidèle; 11 215,30 € ;Oui;2;Oui;Oui;Oui;Non;25,81;Oui
+1000546;thierry;CARLIER;thierry_carlier@alice.fr;24/07/1952;H;Profession Liberale;1243 ROUTE DE MARAVAL;83 260;LA CRAU;Oui;148;Occassionel; 13 327,80 € ;Oui;0;Non;Oui;Non;Non;62,40;Non
+1000547;karine;BRUNNEL;karine.brunnel@clubinternet.fr;04/03/1951; ;Profession Liberale;RES DU GAPEAU   2 RUE DU;83 260;LA CRAU;Oui;158;Top; 16 088,80 € ;Oui;3;Non;Oui;Oui;Non;63,79;Non
+1000548;jean-marie;MARTIN;jean-marie_martin@alice.fr;22/08/1953;H;Employés;18 AVENUE OCTAVE  GIRARDO;83 210;SOLLIES-PONT;Oui;183;Occassionel; 43 943,00 € ;Oui;0;Oui;Oui;Oui;Oui;61,33;Non
+1000549;jean-claude;NICOLAS;jean-claude.nicolas@free.fr;05/10/1945;H;Cadre superieur / dirigeant; ;83 390;CUERS;Non;157;Fidèle; 14 505,30 € ;Non;3;Non;Oui;Oui;Non;69,20;Non
+1000550;philippe;SAUTEREAU;philippe.sautereau@free.fr;08/06/1953;H;Cadre moyen / Enseignants;RES LA COUPIANE Nø10;83 160;LA VALETTE;Oui;201;Top; 33 886,40 € ;Non;0;Oui;Oui;Non;Non;61,53;Oui
+1000551; ;DELOEUVRE;deloeuvre@gmail.com;30/05/1982;F;Cadre moyen / Enseignants;DOMAINE DES PINS BAT C2 A;83 250;La Londe Les Maures;Oui;97;Top; 16 662,50 € ;Oui;1;Non;Oui;Oui;Non;32,56;Oui
+1000552;paulette;BOURSIER;paulette.boursier@free.fr;25/08/1970;F;Cadre moyen / Enseignants;1491 CHEM GOYS FOURNIERS;83 260;LA CRAU;Oui;124;Occassionel; 20 262,60 € ;Non;0;Non;Oui;Non;Non;44,32;Oui
+1000553;eric;MICHALET;eric.michalet@free.fr;15/04/1975;H;Cadre moyen / Enseignants;241 RUE SHUMAN;83 000;TOULON;Oui;137;Occassionel; 33 615,40 € ;Oui;1;Non;Oui;Non;Oui;39,68;Oui
+1000554;sandrine;VOLPERT;sandrine.volpert@free.fr;07/08/1949;F;Employés; ;83 390;CUERS;Non;151;Occassionel; 227,10 € ;Non;3;Non;Non;Oui;Non;65,37;Non
+1000555;herve;SAYET;herve.sayet@free.fr;19/09/1940;H;Cadre superieur / dirigeant;42 CH DE LA SCIRIE;83 260;LA CRAU;Oui;131;Top; 28 981,10 € ;Oui;3;Oui;Oui;Oui;Oui;74,25;Non
+1000556;christian;SIZARET;christian.sizaret@free.fr;19/05/1951;F;Employés;HLM DE LA BLOCARDE;83 400;HYERES;Oui;50;Top; 12 163,90 € ;Oui;2;Oui;Non;Oui;Non;63,59;Oui
+1000557;gildas;BRUNET; ;20/09/1948;F;Cadre superieur / dirigeant;26 VCHE DE SAINTE MUSSE;83 100;TOULON;Oui;179;Occassionel; 17 247,70 € ;Oui;2;Oui;Oui;Oui;Non;66,25;Non
+1000558;michel;GROISNE;michel.groisne@neuf.fr;02/03/1952;F;Profession Liberale;RESIDENCE LES DAUPHINS;83 320;CARQUEIRANNE;Oui;178;Nouveau; 12 683,60 € ;Non;3;Non;Oui;Oui;Oui;62,80;Non
+1000559;guy;RABOUILLE;guy.rabouille@clubinternet.fr;11/03/1967;F;Profession Liberale;QUARTIER LES HAUTES;83 136;NEOULES;Oui;52;Occassionel; 16 291,00 € ;Oui;0;Oui;Oui;Non;Oui;47,78;Non
+1000560;didier;DUSSORT; ;13/09/1952;F;Cadre moyen / Enseignants;71 ALLEE FRANCOIS MAURIAC;83 130;LA GARDE;Oui;164;Nouveau; 18 707,30 € ;Oui;0;Oui;Oui;Oui;Oui;62,26;Oui
+1000561;henri;FERNANDEZ;henri_fernandez@alice.fr;07/03/1938;F;Profession Liberale;LE STE A CYRONS AV G PE;83 160;LA VALETTE DU VAR;Oui;71;Top; 19 326,90 € ;Oui;1;Non;Non;Oui;Non;76,79;Oui
+1000562;roland;BORIE;roland.borie@clubinternet.fr;06/09/1969;F;Employés;LES TERRASSES DE;83 400;HYERES;Oui;205;Top; 14 511,80 € ;Non;2;Non;Oui;Non;Oui;45,28;Non
+1000563;jean-noel;VASSOUT;jean-noel.vassout@free.fr;06/08/1933;F;Cadre moyen / Enseignants;1516 VCHE DE SAINTE MUSSE;83 000;TOULON;Oui;31;Top; 25 830,50 € ;Oui;2;Non;Non;Oui;Non;81,37;Non
+1000564;gilles;BIETRY;gilles.bietry@neuf.fr;12/05/1962;F;Employés;PARC DES TILLEULS DB RUE;83 100;TOULON;Oui;204;Fidèle; 43 499,50 € ;Oui;1;Oui;Oui;Oui;Non;52,61;Non
+1000565; ;CECCONI;cecconi@gmail.com;20/12/1956;F;;1251 B CHEMIN DE PRECAUVET;83 136;GAREOULT;Oui;167;Nouveau; 59 175,10 € ;Oui;1;Non;Oui;Oui;Non;58,00;Oui
+1000566;bruno;COURBIS;bruno.courbis@clubinternet.fr;01/01/1955;H;Cadre superieur / dirigeant;LES JARDIN DE CORIO;83 390;CUERS;Oui;222;Top; 27 642,90 € ;Non;1;Oui;Non;Non;Non;59,96;Oui
+1000567; ;CHARRON;charron@gmail.com;28/05/1944;F;Employés;LE THOUR BAT D 5;83 160;LA VALETTE DU VAR;Oui;68;Top; 367,50 € ;Non;1;Non;Oui;Oui;Non;70,56;Oui
+1000568;udo;BONVICINI;udo_bonvicini@alice.fr;23/01/1937;H;Employés;7 RUE DES GENETS;83 980;LE LAVANDOU;Oui;97;Top; 29 714,40 € ;Oui;0;Oui;Non;Oui;Oui;77,90;Oui
+1000569;jerome;PEIGNE;jerome.peigne@free.fr;26/08/1959;F;Cadre moyen / Enseignants;ALLEE LA SALAMA NDRE;83 136;GAREOULT;Oui;111;Occassionel; 13 950,40 € ;Non;1;Oui;Oui;Oui;Oui;55,32;Non
+1000570;patrick;MELES; ;31/01/1947;F;Cadre superieur / dirigeant;620 RUE MAURICE UTRILLO;83 130;LA GARDE;Oui;161;Top; 172,60 € ;Oui;0;Non;Non;Oui;Non;67,88;Non
+1000571;jean-pierre;CASSA;jean-pierre.cassa@clubinternet.fr;17/09/1964;H;Employés;21 RUE DE LA CONDAMINE;83 210;LA FARLEDE;Oui;209;Top; 37 850,60 € ;Non;1;Non;Oui;Oui;Non;50,25;Oui
+1000572;didier;RIEUNEAU;didier.rieuneau@free.fr;19/08/1957;F;Cadre superieur / dirigeant; ;83 220;LE PRADET;Non;70;Fidèle; 57 176,40 € ;Non;2;Non;Oui;Oui;Non;57,33;Oui
+1000573;philippe;RENAULT;philippe_renault@alice.fr;16/01/1964;F;Cadre moyen / Enseignants;18 AV ANTOINE SENEQUIER;83 000;TOULON;Oui;52;Top; 38 784,00 € ;Oui;0;Non;Oui;Oui;Non;50,92;Non
+1000574;marie;SENYARICH;marie_senyarich@alice.fr;07/03/1968;H;Employés;12 RUE JULES FAVRE;83 390;PIERREFEU DU VAR;Oui;229;Top; 10 191,80 € ;Oui;0;Non;Oui;Oui;Oui;46,78;Oui
+1000575;j.;BONNET; ;31/08/1948;H;Cadre superieur / dirigeant;QUARTIER LES TREMOUREDES;83 390;CUERS;Oui;148;Top; 21 821,40 € ;Oui;1;Oui;Oui;Non;Oui;66,30;Oui
+1000576; ;BOULANGER;boulanger@gmail.com;05/06/1968;F;Employés;370 RUE PAUL ARENE;83 220;LE PRADET;Oui;229;Fidèle; 37 389,00 € ;Oui;2;Non;Oui;Oui;Non;46,54;Oui
+1000577;christian;BRECHENMACH; ;31/08/1977;H;Cadre superieur / dirigeant;9 RUE MICHEL LE BOURGE;83 390;CUERS;Oui;206;Top; 14 627,90 € ;Oui;2;Oui;Oui;Oui;Non;37,30;Non
+1000578;thierry;GUERQUIN;thierry.guerquin@free.fr;20/04/1950;F;Cadre moyen / Enseignants; ;83 220;LE PRADET;Non;217;Nouveau; 48 770,50 € ;Oui;1;Oui;Oui;Non;Oui;64,67;Oui
+1000579;michel;BOUTOILLE; ;19/07/1962;H;Employés;TRAVERSE DU MERLOT;83 260;LA CRAU;Oui;240;Fidèle; 21 096,20 € ;Oui;1;Oui;Oui;Oui;Non;52,42;Oui
+1000580;denis;BONNE;denis.bonne@free.fr;29/06/1959;F;Cadre superieur / dirigeant;16 IMPASE DE L HORIZON;83 420;LA CROIX VALMER;Oui;146;Top; 36 256,90 € ;Non;0;Non;Non;Oui;Oui;55,47;Oui
+1000581;dominique;LOMBARD;dominique_lombard@alice.fr;07/02/1934;H;Cadre moyen / Enseignants;AV GENERAL DEGAULLE;83 250;LA LONDE LES MAURES;Oui;115;Top; 15 281,80 € ;Non;0;Oui;Non;Non;Oui;80,86;Oui
+1000582;jean-baptist;FAURE;jean-baptist.faure@wanadoo.fr;17/10/1956;H;Employés;95 AVENUE FRANCOIS NARDI;83 000;TOULON;Oui;16;Nouveau; 9 316,98 € ;Oui;2;Oui;Oui;Oui;Non;58,17;Non
+1000583;alain;COSNEFROY;alain_cosnefroy@alice.fr;10/02/1972;F;Employés;452 CH DE RABASSON;83 130;LA GARDE;Oui;192;Fidèle; 20 736,20 € ;Oui;1;Oui;Oui;Oui;Non;42,86;Oui
+1000584;josiane;ADAM; ;12/06/1966;F;Employés;199 RUE LAVOISIER;83 210;LA FARLEDE;Oui;89;Occassionel; 52 662,50 € ;Oui;1;Oui;Oui;Oui;Oui;48,52;Oui
+1000585;maurice;DESSAIN;maurice.dessain@free.fr;19/02/1969;F;Cadre superieur / dirigeant;254 CHEM BASSIN DE PIOLE;83 110;SANARY SUR MER;Oui;149;Top; 8 020,19 € ;Oui;1;Oui;Non;Oui;Non;45,83;Non
+1000586;rene;TRONCY; ;12/06/1966;H;Profession Liberale;435, RUE DU CAP DELSOL;83 130;LA GARDE;Oui;111;Nouveau; 32 245,40 € ;Oui;3;Non;Non;Non;Non;48,52;Non
+1000587;joel;RINGUE; ;18/08/1957;H;Cadre superieur / dirigeant;RUE DAVID;83 200;TOULON;Oui;97;Top; 41 107,20 € ;Oui;2;Oui;Oui;Oui;Non;57,34;Non
+1000588;gwenn;ARNOLD; ;08/12/1946;F;Cadre superieur / dirigeant;56 RUE DU SENEGAL;83 000;TOULON;Oui;223;Nouveau; 39 358,30 € ;Oui;0;Oui;Non;Non;Oui;68,03;Non
+1000589;alain;DE VARAX;alain.de varax@wanadoo.fr;25/11/1947;F;Employés; ;83 160;LA VALETTE DU VAR;Non;131;Top; 36 095,90 € ;Oui;3;Oui;Oui;Oui;Non;67,07;Non
+1000590;christine;DUQUESNOY;christine.duquesnoy@wanadoo.fr;17/10/1959;F;Profession Liberale; ;83 210;SOLLIES PONT;Non;218;Occassionel; 7 723,93 € ;Oui;2;Oui;Oui;Oui;Non;55,17;Non
+1000591;paul;DEHAINE; ;11/06/1954;F;Cadre moyen / Enseignants; ;83 230;BORMES;Non;267;Fidèle; 18 565,80 € ;Oui;1;Oui;Oui;Oui;Oui;60,52;Oui
+1000592;sophie;LAMBERET;sophie.lamberet@clubinternet.fr;10/01/1949;H;Employés; ;83 350;RAMATUELLE;Non;133;Fidèle; 25 132,90 € ;Oui;0;Non;Non;Oui;Non;65,94;Non
+1000593;roland;BESSARD;roland.bessard@free.fr;27/11/1947;F;;305 COR M ESCARTEFIGUE;83 200;TOULON;Oui;32;Nouveau; 31 290,60 € ;Oui;0;Non;Oui;Oui;Non;67,06;Non
+1000594;jean;REBOURSEAU; ;10/09/1936;F;Employés;1055 BD JEAN BAPTISTE ABEL;83 000;TOULON;Oui;81;Nouveau; 24 858,40 € ;Oui;0;Non;Non;Oui;Oui;78,27;Oui
+1000595;bernard;GUIRAUDIOS;bernard.guiraudios@free.fr;09/06/1974;F;Cadre moyen / Enseignants; ;83 400;HYERES;Non;114;Top; 16 398,80 € ;Non;1;Non;Oui;Oui;Non;40,53;Oui
+1000596;henrick;BOUCLANS; ;20/05/1954;H;Cadre superieur / dirigeant;91 AV GASQUET;83 220;LE PRADET;Oui;108;Nouveau; 23 287,90 € ;Non;0;Non;Non;Oui;Oui;60,58;Oui
+1000597;francoise;GARBEZ;francoise.garbez@free.fr;29/11/1963;F;Ouvriers;TRAVERSE DE LA LUZERNE;83 200;LE REVEST LES EAUX;Oui;39;Fidèle; 50 897,60 € ;Oui;0;Non;Oui;Oui;Non;51,06;Non
+1000598;olivier;WERMEISTER;olivier.wermeister@free.fr;26/06/1932;F;Cadre moyen / Enseignants;13 IMPASSE CLAUDE BERNARD;83 260;LA CRAU;Oui;141;Top; 22 446,50 € ;Non;1;Non;Non;Oui;Oui;82,48;Oui
+1000599;hamed;LARDEUX; ;02/01/1958;H;Autres; ;83 160;LA VALETTE;Non;65;Nouveau; 23 092,10 € ;Oui;0;Oui;Non;Oui;Oui;56,96;Oui
+1000600;martine;KOESSLER;martine.koessler@wanadoo.fr;04/12/1949;F;Cadre superieur / dirigeant; ;83 980;LE LAVANDOU;Non;265;Occassionel; 24 867,60 € ;Oui;0;Oui;Oui;Non;Non;65,04;Non
+1000601;serge;BOUDIER; ;12/08/1947;F;Cadre superieur / dirigeant;THALASSA 2 AV DARIUSNB;83 240;CAVALAIRE;Oui;221;Occassionel; 22 234,70 € ;Oui;0;Non;Non;Oui;Oui;67,35;Non
+1000602;bechard;SIMEON;bechard.simeon@wanadoo.fr;16/12/1974;H;Profession Liberale; ;83 100;TOULON;Non;9;Top; 17 371,10 € ;Oui;2;Oui;Oui;Oui;Non;40,01;Non
+1000603;jean-jacques;RODELLAS;jean-jacques.rodellas@free.fr;03/10/1979;F;Cadre superieur / dirigeant;675 CH DES FILLOLS;83 210;SOLLIES PONT;Oui;67;Occassionel; 29 574,00 € ;Oui;0;Oui;Oui;Oui;Non;35,21;Non
+1000604;francois;WASSON; ;30/08/1972;F;Cadre superieur / dirigeant;RES LE PLEIN SUD 29 PLACE;83 400;HYERES;Oui;2;Top; 17 944,20 € ;Non;1;Oui;Oui;Oui;Oui;42,30;Oui
+1000605;luc;LALLEMENT;luc.lallement@wanadoo.fr;03/11/1952;F;Employés;LE CIMAROSA BAT B AV DE;83 130;LA GARDE;Oui;56;Fidèle; 33 665,50 € ;Non;3;Oui;Non;Oui;Non;62,12;Non
+1000606;francis;TEYSSIER;francis.teyssier@free.fr;25/11/1968;F;Cadre superieur / dirigeant; ;83 130;LA GARDE;Non;97;Top; 36 166,20 € ;Oui;0;Non;Non;Non;Non;46,06;Non
+1000607;michel;BONBLED; ;27/06/1975;H;Ouvriers;325 CH DE LA BENOITE;83 320;CARQUEIRANNE;Oui;37;Nouveau; 27 712,90 € ;Non;2;Non;Oui;Oui;Non;39,48;Oui
+1000608;j-jacques;BRIAN; ;04/10/1954;F;Employés;348 RUE DE MONTSERRAT;83 200;TOULON;Oui;219;Occassionel; 224,70 € ;Oui;2;Oui;Oui;Oui;Non;60,21;Non
+1000609;f.;BEAUFORT;f..beaufort@wanadoo.fr;29/08/1955;F;Employés;675 CH DES FILLOLS;83 210;SOLLIES PONT;Oui;70;Top; 28 469,90 € ;Oui;0;Oui;Oui;Oui;Non;59,31;Non
+1000610;jean;MICHELOT;jean.michelot@free.fr;15/04/1954;F;Profession Liberale;BAT L HARMONIE CH DE LA;83 100;TOULON;Oui;83;Occassionel; 30 488,00 € ;Oui;0;Non;Oui;Oui;Oui;60,68;Non
+1000611;alain;ENJALBERT;alain_enjalbert@alice.fr;05/03/1941;F;Employés;LES CIGALONS;83 200;TOULON;Oui;42;Occassionel; 19 160,30 € ;Oui;1;Oui;Oui;Oui;Non;73,79;Oui
+1000612;etienne;COSTE;etienne.coste@clubinternet.fr;29/08/1973;F;Employés;153 RUE JEAN AICARD;83 130;LA GARDE;Oui;62;Occassionel; 45 342,50 € ;Oui;0;Oui;Oui;Non;Non;41,31;Oui
+1000613;jean-jacques;BERARD; ;02/11/1958;F;Cadre superieur / dirigeant;L ALIBRAM;83 210;SOLLIES VILLE;Oui;74;Top; 6 294,21 € ;Non;0;Non;Oui;Oui;Oui;56,13;Non
+1000614;francois;RING; ;05/02/1960;F;Profession Liberale;LES FORTITHIAS ENT B;83 130;LA GARDE;Oui;218;Occassionel; 25 127,70 € ;Oui;0;Oui;Non;Non;Non;54,87;Non
+1000615;thierry;LOBRY;thierry.lobry@clubinternet.fr;09/02/1977;F;Cadre superieur / dirigeant;1648 BD JEAN BAPTISTE ABEL;83 000;TOULON;Oui;31;Nouveau; 51 879,30 € ;Oui;2;Oui;Oui;Non;Oui;37,86;Oui
+1000616;alain;PIETRI;alain.pietri@neuf.fr;01/01/1951;F;Cadre superieur / dirigeant; ;83 130;LA GARDE;Non;200;Occassionel; 12 644,90 € ;Oui;2;Oui;Non;Oui;Oui;63,96;Non
+1000617;serge;LARONCHE;serge.laronche@clubinternet.fr;30/09/1946;F;Cadre superieur / dirigeant;LE LOGIS 9;83 210;SOLLIES VILLE;Oui;19;Occassionel; 21 984,40 € ;Non;3;Non;Oui;Non;Non;68,22;Non
+1000618;dominique;JAKCOBEK; ;09/02/1960;F;Cadre moyen / Enseignants;39 RUE JARDIN N DAME;83 260;LA CRAU;Oui;16;Fidèle; 29 093,10 € ;Non;2;Oui;Oui;Oui;Non;54,86;Non
+1000619;chantal;TAZEROUALTI; ;19/08/1971;F;Profession Liberale;DOMAINE DE L EOUVIERE;83 170;LA CELLE;Oui;3;Occassionel; 23 528,40 € ;Oui;1;Non;Oui;Oui;Oui;43,33;Oui
+1000620;michel;JOURNET;michel.journet@wanadoo.fr;11/05/1967;F;Employés;74 RUE PAULIN BERTRAND;83 130;LA GARDE;Oui;96;Occassionel; 9 516,91 € ;Non;3;Oui;Oui;Oui;Non;47,61;Non
+1000621;michel;AUTISSIER;michel.autissier@clubinternet.fr;30/12/1955;F;Profession Liberale;32 CH MAS SOLITUDE;83 200;TOULON;Oui;178;Top; 18 364,90 € ;Oui;1;Non;Non;Oui;Non;58,97;Oui
+1000622;patrick;EISENSTEIN;patrick.eisenstein@clubinternet.fr;08/04/1939;F;Employés;52 CHEMIN DE SIGOU;83 390;PIERREFEU DU VAR;Oui;230;Occassionel; 31 273,80 € ;Non;1;Oui;Oui;Non;Non;75,70;Oui
+1000623;dominique;BROWN;dominique.brown@clubinternet.fr;16/11/1942;F;Employés;LE MARANDON;83 400;HYERES;Oui;93;Fidèle; 49 673,60 € ;Oui;0;Non;Oui;Oui;Non;72,09;Non
+1000624;bernard;OMONT;bernard.omont@free.fr;09/08/1962;F;Cadre moyen / Enseignants;139 CH DES GRIVES;83 210;LA FARLEDE;Oui;158;Nouveau; 12 623,40 € ;Oui;1;Oui;Oui;Oui;Non;52,36;Non
+1000625;sylvie;LE ROY; ;01/03/1972;F;Employés;27 RUE CASTEL LES HYPPOCA;83 000;TOULON;Oui;155;Top; 23 818,60 € ;Oui;0;Non;Non;Non;Non;42,80;Non
+1000626;philippe;ROUZEAU;philippe.rouzeau@free.fr;25/02/1952;F;Cadre moyen / Enseignants;239 CH DE LA CARRAIRE;83 200;TOULON;Oui;92;Top; 31 473,90 € ;Non;2;Non;Oui;Oui;Oui;62,81;Oui
+1000627;laurence;ROUSSELET;laurence.rousselet@wanadoo.fr;21/10/1967;F;Cadre superieur / dirigeant; ;83 230;BORMES LES MIMOSAS;Non;109;Occassionel; 20 268,00 € ;Oui;0;Non;Oui;Oui;Non;47,16;Non
+1000628;serge;NOUVEL;serge.nouvel@wanadoo.fr;11/08/1952;F;Cadre superieur / dirigeant;180 CHEMIN DU RIOUBERT;83 143;LE VAL;Oui;91;Top; 38 103,40 € ;Non;2;Oui;Oui;Oui;Non;62,35;Oui
+1000629;marie-josee;RIOS;marie-josee.rios@free.fr;12/05/1959;H;Cadre moyen / Enseignants;145 ALL DES VIGNES VIERGES;83 400;HYERES;Oui;141;Fidèle; 22 882,90 € ;Oui;0;Oui;Non;Non;Oui;55,61;Oui
+1000630;anne-marie;SCHENK; ;09/02/1968;F;Cadre superieur / dirigeant; ;83 310;GRIMAUD;Non;123;Occassionel; 11 043,70 € ;Oui;1;Oui;Oui;Non;Oui;46,86;Non
+1000631;fernand;COSTE;fernand.coste@free.fr;03/05/1960;F;Profession Liberale; ;83 200;TOULON;Non;127;Occassionel; 24 027,60 € ;Non;0;Non;Oui;Oui;Non;54,63;Oui
+1000632;alain;BOKOBZA;alain.bokobza@clubinternet.fr;27/01/1943;F;Cadre moyen / Enseignants;RES LE ZETHOS;83 000;TOULON;Oui;190;Nouveau; 28 495,10 € ;Oui;0;Non;Oui;Oui;Non;71,89;Non
+1000633;sophie;AUBERT; ;01/04/1966;F;Cadre superieur / dirigeant;ENSEIGNE DE VAISSEAU GUES;83 000;TOULON;Oui;125;Occassionel; 9 465,21 € ;Non;0;Non;Non;Oui;Non;48,72;Oui
+1000634;michel;CHARET;michel.charet@neuf.fr;20/04/1948;F;Cadre moyen / Enseignants; ;83 210;LA FARLEDE;Non;145;Nouveau; 47 198,60 € ;Oui;2;Non;Oui;Oui;Non;66,66;Oui
+1000635;pierre;MARTIN;pierre_martin@alice.fr;06/04/1974;H;;LES RESTANQUES DU THOUAR;83 130;LA GARDE;Oui;210;Top; 20 866,30 € ;Oui;0;Oui;Oui;Oui;Non;40,70;Non
+1000636;marie-joseph;POUGET;marie-joseph.pouget@clubinternet.fr;24/11/1961;F;Employés; ;83 000;TOULON;Non;146;Occassionel; 33 204,30 € ;Non;1;Non;Non;Non;Oui;53,07;Oui
+1000637;bernard;TARDIF;bernard.tardif@neuf.fr;29/08/1977;F;Cadre superieur / dirigeant;256 AVENUE JOSEPH GASQUET;83 100;TOULON;Oui;208;Top; 24 823,50 € ;Non;2;Non;Non;Oui;Non;37,31;Non
+1000638;gerard;DE FRANSSU;gerard_de franssu@alice.fr;01/03/1954;F;Profession Liberale; ;83 200;TOULON;Non;68;Nouveau; 17 986,80 € ;Oui;0;Non;Non;Oui;Oui;60,80;Oui
+1000639;jacques;MARTIN;jacques.martin@wanadoo.fr;11/06/1969;F;Employés;1239 CHEMIN DE FONTANIEU;83 200;LE REVEST LES EAUX;Oui;97;Top; 9 909,82 € ;Oui;3;Non;Non;Oui;Non;45,52;Non
+1000640;thierry;PIGEON;thierry_pigeon@alice.fr;21/10/1957;F;Employés;6 IMPASSE DES PRIMEVERES;83 100;TOULON;Oui;85;Occassionel; 26 542,80 € ;Non;0;Oui;Oui;Oui;Non;57,16;Oui
+1000641;michel;BOULANGER;michel.boulanger@free.fr;28/11/1968;F;Profession Liberale;194 HAMEAU DES LAURES;83 210;LA FARLEDE;Oui;217;Nouveau; 45 856,10 € ;Non;1;Non;Oui;Oui;Non;46,06;Oui
+1000642;gerard;BURET;gerard.buret@wanadoo.fr;21/03/1960;F;Employés;16 RUE FIRMIN CAUVIN;83 200;TOULON;Oui;163;Nouveau; 22 362,30 € ;Non;0;Non;Oui;Oui;Non;54,75;Oui
+1000643;pascal;BONTEIL;pascal.bonteil@wanadoo.fr;03/07/1949;H;Cadre superieur / dirigeant; ;83 000;TOULON;Non;110;Nouveau; 21 984,00 € ;Oui;1;Oui;Non;Non;Non;65,46;Oui
+1000644;yann;MANIEZ;yann.maniez@free.fr;07/06/1949;F;Cadre moyen / Enseignants;138 ALLEE DES FAUVETTE;83 160;LA VALETTE;Oui;254;Nouveau; 11 073,00 € ;Oui;2;Non;Oui;Non;Non;65,53;Non
+1000645; ;ROLLET;rollet@gmail.com;09/07/1954;H;Employés;CHEMIN DU PAS DEI GARDEEN;83 220;LE PRADET;Oui;164;Top; 18 158,50 € ;Non;1;Oui;Non;Oui;Oui;60,45;Oui
+1000646;michel;SIMON;michel_simon@alice.fr;11/06/1958;F;Profession Liberale;PONT DE MAURICE;83 590;GONFARON;Oui;23;Top; 7 304,20 € ;Non;0;Oui;Oui;Oui;Oui;56,52;Non
+1000647;philippe;PHAN;philippe.phan@free.fr;15/11/1954;F;Profession Liberale; ;83 160;LA VALETTE DU VAR;Non;64;Top; 58 092,00 € ;Non;2;Oui;Oui;Oui;Non;60,09;Oui
+1000648;alain;HAVARD;alain_havard@alice.fr;22/02/1956;H;Cadre moyen / Enseignants;HLM LE TOUAR BAT B2;83 160;LA VALETTE DU VAR;Oui;1;Top; 16 518,60 € ;Oui;0;Oui;Non;Oui;Non;58,82;Oui
+1000649;bertrand;AGIDE;bertrand.agide@neuf.fr;08/08/1964;F;Cadre moyen / Enseignants;11 IMPASSE LOUIS IMBERT;83 160;LA VALETTE DU VAR;Oui;210;Nouveau; 46 461,50 € ;Oui;0;Non;Oui;Oui;Non;50,36;Non
+1000650;philippe;LANDRY; ;26/03/1936;F;Cadre moyen / Enseignants;3 RUE DES CHARDONNERETS;83 260;LA CRAU;Oui;228;Fidèle; 258,70 € ;Oui;0;Non;Oui;Oui;Oui;78,73;Non
+1000651;richard;DE LAZZARI;richard_de lazzari@alice.fr;26/04/1948;H;Cadre moyen / Enseignants;535 CHEMIN DES FILLOLS;83 210;SOLLIES PONT;Oui;81;Top; 12 533,20 € ;Non;1;Non;Oui;Non;Oui;66,65;Non
+1000652;bernard;MARGERIN;bernard.margerin@clubinternet.fr;28/05/1962;F;Cadre superieur / dirigeant;AV DU CASCAVEOU;83 136;ROCBARON;Oui;107;Fidèle; 22 848,50 € ;Oui;1;Oui;Non;Non;Non;52,56;Oui
+1000653;jean-claude;VERGNIAUD; ;18/04/1982;F;Cadre moyen / Enseignants; ;83 340;LE CANNET DES MAURES;Non;163;Occassionel; 25 699,40 € ;Oui;2;Oui;Oui;Non;Non;32,67;Oui
+1000654;andre;BARIN;andre.barin@free.fr;01/03/1966;F;Cadre moyen / Enseignants;40 RUE ALPHONSE LAVERAND;83 220;LE PRADET;Oui;139;Occassionel; 21 612,60 € ;Oui;0;Non;Oui;Oui;Oui;48,80;Non
+1000655;jean-pierre;LINARES;jean-pierre.linares@free.fr;20/04/1961;H;Cadre moyen / Enseignants;3 CHEMIN DE LA CARRAIRE;83 220;LE PRADET;Oui;11;Top; 48 950,90 € ;Oui;0;Oui;Oui;Oui;Oui;53,66;Non
+1000656;jean-michel;SPADA;jean-michel.spada@neuf.fr;;H;Employés;180 CHEMIN DE PIERRASCAS;83 210;LA FARLEDE;Oui;51;Top; 41 438,00 € ;Non;1;Non;Oui;Non;Non;;Oui
+1000657;luc;CHARPENTIER;luc.charpentier@free.fr;09/08/1930;F;Cadre moyen / Enseignants;282 CHEMIN SAN PEYRE;83 220;LE PRADET;Oui;170;Top; 11 411,00 € ;Oui;1;Oui;Non;Oui;Non;84,36;Non
+1000658;stephane;CORDON;stephane.cordon@wanadoo.fr;15/03/1951;H;Profession Liberale;42 RUE TETHYS;83 130;LA GARDE;Oui;201;Top; 43 940,60 € ;Oui;0;Oui;Oui;Oui;Non;63,76;Non
+1000659;philippe;BIRESSI;philippe_biressi@alice.fr;09/11/1941;F;Cadre moyen / Enseignants;RES LES GENETS BT2;83 000;TOULON;Oui;97;Occassionel; 17 239,50 € ;Non;1;Oui;Non;Oui;Non;73,11;Oui
+1000660;christophe;TANAZACQ;christophe.tanazacq@wanadoo.fr;19/06/1944;F;Cadre superieur / dirigeant;CHEMIN DES PUITS;83 136;FORCALQUEIRET;Oui;131;Fidèle; 30 488,70 € ;Oui;0;Non;Oui;Oui;Non;70,50;Non
+1000661;benoit;COCHARD;benoit.cochard@wanadoo.fr;11/06/1934;F;Cadre moyen / Enseignants;RUE DES CALANQUES;83 250;LA LONDE LES MAURES;Oui;265;Occassionel; 29 866,30 € ;Oui;3;Non;Oui;Non;Non;80,52;Non
+1000662;neil;FURUYA;neil.furuya@wanadoo.fr;05/12/1954;H;Cadre moyen / Enseignants;36 ALLEE DES COUSTELINES;83 110;SANARY SUR MER;Oui;61;Top; 32 184,40 € ;Oui;2;Oui;Non;Non;Non;60,04;Oui
+1000663;jacques;CONTIN;jacques.contin@free.fr;25/11/1948;H;Profession Liberale;326 CH DU COL D ARTAUD;83 500;LA SEYNE SUR MER;Oui;106;Top; 17 308,70 € ;Oui;1;Oui;Non;Oui;Oui;66,06;Oui
+1000664;remi;SALEM; ;23/03/1960;F;Employés;HLM LES CRAUS ENTREE A 19;83 160;LA VALETTE;Oui;72;Fidèle; 27 863,90 € ;Non;2;Non;Oui;Oui;Oui;54,74;Non
+1000665;o.;EL AHMADI;o..el ahmadi@wanadoo.fr;19/05/1972;H;Cadre moyen / Enseignants;198 RUE DU PIN PARASOL;83 130;LA GARDE;Oui;51;Occassionel; 28 920,60 € ;Oui;0;Non;Oui;Non;Oui;42,58;Non
+1000666;fabienne;GARDET;fabienne.gardet@free.fr;24/03/1940;F;Cadre superieur / dirigeant;392 BLV E V GUES;83 100;TOULON;Oui;252;Occassionel; 58 367,30 € ;Oui;1;Oui;Oui;Oui;Non;74,74;Oui
+1000667;daniel;GUENEC; ;30/11/1949;F;Employés;1164 CH DE GUIRAND;83 210;SOLLIES TOUCAS;Oui;181;Occassionel; 16 849,30 € ;Non;0;Oui;Oui;Oui;Oui;65,05;Non
+1000668;serge;BOURDEAU;serge.bourdeau@clubinternet.fr;05/01/1971;H;Cadre moyen / Enseignants;RES LA TREILLE BAT B;83 160;LA VALETTE;Oui;38;Fidèle; 28 138,50 € ;Oui;0;Non;Non;Oui;Oui;43,95;Oui
+1000669;philippe;RAFFLIN;philippe.rafflin@wanadoo.fr;04/07/1971;H;Cadre moyen / Enseignants;QUART DES CHABERTES;83 160;LA VALETTE;Oui;79;Top; 23 038,20 € ;Oui;0;Oui;Oui;Non;Non;43,46;Non
+1000670; ;ISBLED;isbled@gmail.com;21/05/1933;F;Cadre moyen / Enseignants;105 BD E PELLETAN;83 000;TOULON;Oui;36;Occassionel; 11 736,90 € ;Non;2;Oui;Oui;Oui;Oui;81,58;Non
+1000671;bruno;BAUDY; ;01/08/1961;F;Employés;46 AV MICHEL ZUNINO;83 130;LA GARDE;Oui;53;Top; 16 479,50 € ;Oui;0;Oui;Non;Non;Oui;53,38;Oui
+1000672;j-francois;ESTEVE;j-francois.esteve@wanadoo.fr;06/11/1938;H;Cadre superieur / dirigeant;2266 ROUTE DE CABASSON;83 230;BORMES LES MIMOSAS;Oui;73;Top; 31 415,70 € ;Non;1;Oui;Oui;Non;Oui;76,12;Oui
+1000673;herve;JORAN;herve.joran@wanadoo.fr;25/09/1974;F;Profession Liberale;85 RUE DU SAULE;83 130;LA GARDE;Oui;47;Nouveau; 12 117,30 € ;Oui;1;Non;Non;Oui;Non;40,23;Non
+1000674;bernard;CHERENTIN;bernard_cherentin@alice.fr;10/09/1976;H;Cadre moyen / Enseignants;2 BIS RUE DES FOURS;83 390;CUERS;Oui;234;Top; 15 417,10 € ;Oui;1;Oui;Non;Oui;Non;38,27;Non
+1000675;jean;DE CAMAS;jean.de camas@neuf.fr;29/03/1962;F;Cadre moyen / Enseignants;315 ROND POINT DE STELLA;83 110;SANARY;Oui;46;Top; 29 414,60 € ;Oui;1;Non;Oui;Non;Oui;52,73;Oui
+1000676;jean-pierre;HAMZI;jean-pierre.hamzi@free.fr;12/12/1965;H;Cadre moyen / Enseignants;LES IRIS A1 123 RUE DU CO;83 000;TOULON;Oui;148;Top; 44 682,10 € ;Oui;0;Oui;Oui;Oui;Non;49,02;Non
+1000677;gilbert;KADA;gilbert.kada@wanadoo.fr;21/12/1953;H;Cadre moyen / Enseignants;239 CHM DE LA CARRAIRE;83 200;TOULON;Oui;255;Fidèle; 36 281,00 € ;Oui;0;Oui;Oui;Oui;Non;60,99;Non
+1000678;jacques;CHAUMETTE; ;24/05/1977;F;Profession Liberale; ;83 260;LA CRAU;Non;173;Occassionel; 33 302,80 € ;Non;0;Oui;Non;Oui;Oui;37,57;Oui
+1000679;annie;BECQUART;annie.becquart@clubinternet.fr;15/05/1981;F;; ;83 100;LA GARDE;Non;55;Fidèle; 15 797,10 € ;Oui;0;Non;Oui;Oui;Non;33,60;Oui
+1000680;valerie;POULLET; ;19/09/1976;F;Cadre moyen / Enseignants;1 RUE MARCEL PAGNOL;83 340;LE LUC;Oui;94;Fidèle; 31 864,80 € ;Oui;0;Oui;Oui;Oui;Non;38,25;Non
+1000681;jean pierre;DEHONDT;jean pierre.dehondt@wanadoo.fr;08/08/1965;F;Cadre moyen / Enseignants;LE CLOS ST MARC VILLA G2;83 330;LE BEAUSSET;Oui;96;Occassionel; 43 719,50 € ;Oui;0;Non;Oui;Oui;Non;49,36;Non
+1000682;catherine;PIERRISNARD;catherine.pierrisnard@clubinternet.fr;26/08/1951;H;Profession Liberale;42 CHEMIN DE LA GUERINIERE;83 100;TOULON;Oui;94;Occassionel; 30 799,50 € ;Oui;2;Non;Non;Oui;Non;63,32;Oui
+1000683;jean-louis;GALLAVARDIN;jean-louis.gallavardin@free.fr;16/04/1966;F;Employés;24 LOT DES MICOUCOULIERS;83 210;SOLLIES PONT;Oui;243;Fidèle; 48 971,60 € ;Oui;3;Oui;Oui;Non;Non;48,68;Oui
+1000684;max;MARIA;max.maria@clubinternet.fr;28/06/1946;F;Cadre moyen / Enseignants;CH DU VALLON;83 210;BELGENTIER;Oui;161;Fidèle; 34 061,40 € ;Non;0;Oui;Oui;Oui;Non;68,48;Oui
+1000685;alain;POUREZ;alain.pourez@wanadoo.fr;07/06/1980;F;Employés;LE DOMINIQUE;83 210;SOLLIES PONT;Oui;83;Top; 28 938,60 € ;Oui;3;Oui;Non;Non;Non;34,53;Non
+1000686;jacques;BIALECKI; ;20/01/1946;F;Cadre superieur / dirigeant;VILLAIRIS 115 CH DE LA;83 200;LE REVEST LES EAUX;Oui;68;Occassionel; 38 540,00 € ;Non;0;Oui;Oui;Non;Oui;68,91;Non
+1000687;christian;PROST;christian.prost@wanadoo.fr;28/06/1943;H;Cadre moyen / Enseignants;582 AVENUE DU POUVEREL;83 130;LA GARDE;Oui;242;Top; 27 045,10 € ;Non;0;Non;Non;Oui;Non;71,48;Oui
+1000688;claudine;TAIEB;claudine.taieb@wanadoo.fr;13/04/1945;F;Profession Liberale; ;83 160;LA VALETTE;Non;121;Fidèle; 51 284,30 € ;Non;0;Oui;Oui;Oui;Oui;69,68;Non
+1000689;paul;LANGE;paul.lange@clubinternet.fr;04/11/1947;F;Cadre moyen / Enseignants;36 BD DU ROI ALBERT 1 ER;83 320;CARQUEIRANNE;Oui;153;Top; 16 352,20 € ;Non;0;Non;Oui;Oui;Oui;67,12;Non
+1000690;dominique;ROTH;dominique.roth@neuf.fr;26/02/2023;F;Cadre moyen / Enseignants;250 RUE JULES VALLES;83 130;LA GARDE;Oui;192;Top; 11 866,40 € ;Oui;0;Oui;Oui;Oui;Non;-8,19;Non
+1000691;robert;TENEGAL;robert.tenegal@free.fr;14/10/1965;F;Cadre moyen / Enseignants;16CHEMIN DE LAMIRAL;83 400;HYERES;Oui;231;Occassionel; 13 267,60 € ;Oui;0;Oui;Oui;Oui;Oui;49,18;Non
+1000692;jean-christo;BINET;jean-christo.binet@clubinternet.fr;20/07/1953;F;Profession Liberale;LE ST DOMINIQUE N 5;83 210;LA FARLEDE;Oui;130;Top; 61 554,60 € ;Oui;0;Non;Oui;Oui;Non;61,42;Non
+1000693;gilbert;MALEDAN;gilbert.maledan@clubinternet.fr;28/08/1962;F;Cadre moyen / Enseignants;157ORUE OSWALD LARROQUE;83 200;TOULON;Oui;232;Nouveau; 137,20 € ;Non;1;Non;Oui;Oui;Non;52,31;Non
+1000694;martin;DAVID;martin.david@free.fr;01/06/1941;H;Cadre moyen / Enseignants;RN 97;83 660;CARNOULES;Oui;194;Occassionel; 46 963,90 € ;Oui;1;Non;Oui;Oui;Non;73,55;Oui
+1000695;stephane;ROGER;stephane.roger@clubinternet.fr;28/08/1930;F;Employés;240RUE NOUVEAU PIGEONNIERR;83 130;LA GARDE;Oui;127;Top; 23 475,60 € ;Oui;0;Oui;Non;Oui;Oui;84,31;Oui
+1000696;francois;ROSSI;francois.rossi@free.fr;16/01/1974;H;Cadre superieur / dirigeant;LE RIGAUD 200 AV DE LIMANS;83 260;LA CRAU;Oui;252;Nouveau; 24 554,10 € ;Oui;0;Oui;Oui;Non;Oui;40,92;Non
+1000697;philippe;GODINOT;philippe.godinot@free.fr;14/09/1955;H;Cadre moyen / Enseignants;905 ROUTE DES COMBES;83 210;SOLLIES VILLE;Oui;26;Top; 18 050,00 € ;Oui;0;Oui;Non;Oui;Oui;59,26;Oui
+1000698;frederic;BOUVET;frederic_bouvet@alice.fr;14/05/1977;F;Profession Liberale;43 AVENUE CONSTANT PERROUD;83 100;TOULON;Oui;230;Fidèle; 15 237,60 € ;Oui;2;Oui;Non;Oui;Non;37,60;Non
+1000699;eric;BRIASTERE; ;04/11/1965;F;Cadre moyen / Enseignants;54 AVENUE GAMBETTA;83 500;LA SEYNE SUR MER;Oui;209;Occassionel; 20 555,00 € ;Non;0;Oui;Oui;Oui;Non;49,12;Oui
+1000700;eric;LAVALLOT;eric_lavallot@alice.fr;;F;; ;83 200;TOULON;Non;177;Occassionel; 28 421,70 € ;Oui;2;Oui;Oui;Oui;Oui;;Non
+1000701;maude;SORNAY;maude.sornay@neuf.fr;14/04/2025;F;Cadre moyen / Enseignants;79 RUE CNE PIERRE DELSOL;83 130;LA GARDE;Oui;131;Top; 21 876,50 € ;Oui;0;Non;Non;Oui;Non;-10,32;Non
+1000702;marc;NEGRIER; ;22/04/1931;F;Cadre superieur / dirigeant;CHEMIN DE LA CROTADE;83 320;CARQUEIRANNE;Oui;288;Nouveau; 12 810,20 € ;Non;3;Non;Oui;Oui;Non;83,66;Oui
+1000703;marie-christ;CORREGE; ;18/01/1938;F;Cadre superieur / dirigeant;232 RUE DES ORANGERS;83 140;SIX FOURS LES PLAGES;Oui;234;Nouveau; 15 109,40 € ;Oui;0;Non;Non;Oui;Non;76,92;Oui
+1000704;guy;GATTIER;guy.gattier@free.fr;23/02/1938;H;Employés;436 RUE G VEYGAND;83 220;LA PRADET;Oui;74;Occassionel; 37 414,70 € ;Non;3;Oui;Oui;Oui;Non;76,82;Non
+1000705;isabelle;BOUGUEREAU; ;14/08/1932;F;Autres;19, AVE DE LA ROUVRAIE;83 580;GASSIN;Oui;20;Top; 41 521,60 € ;Oui;0;Non;Oui;Oui;Oui;82,35;Non
+1000706;robert;GIDEL; ;22/01/1939;F;Ouvriers; ;83 160;LA VALETTE DU VAR;Non;202;Top; 25 372,80 € ;Oui;0;Oui;Oui;Oui;Non;75,91;Non
+1000707;yann;MURZEAU;yann.murzeau@wanadoo.fr;17/07/1956;H;Cadre superieur / dirigeant;37 RUE JACQUEMET;83 000;TOULON;Oui;6;Top; 21 139,80 € ;Oui;2;Oui;Oui;Non;Non;58,42;Non
+1000708;mohamed;LEPEU;mohamed.lepeu@neuf.fr;01/12/1936;F;Cadre moyen / Enseignants;9 IMPASSE DE LA PANOUCHE;83 260;LA CRAU;Oui;273;Occassionel; 27 757,60 € ;Non;0;Non;Oui;Oui;Non;78,05;Oui
+1000709;sylvie;DEVALLEE;sylvie.devallee@free.fr;10/12/1951;F;;5 CH DE LA RITORTE;83 407;HYERES;Oui;203;Occassionel; 22 678,10 € ;Non;1;Oui;Oui;Oui;Oui;63,03;Oui
+1000710;christian;DUVAL; ;27/01/1931;F;Cadre superieur / dirigeant; ;83 160;LA VALETTE;Non;110;Occassionel; 12 178,50 € ;Oui;2;Non;Oui;Oui;Oui;83,89;Non
+1000711;patrick;GIRARDOT;patrick.girardot@clubinternet.fr;24/11/1958;F;Profession Liberale; ;83 590;GONFARON;Non;73;Fidèle; 26 106,70 € ;Non;1;Non;Non;Oui;Non;56,07;Oui
+1000712;marc;ZELLER;marc_zeller@alice.fr;30/10/1944; ;Autres;LE CLOS ROMAIN 1021AV CO;83 100;TOULON;Oui;170;Top; 27 417,60 € ;Oui;0;Non;Oui;Oui;Oui;70,14;Non
+1000713;guy;HELIES;guy.helies@clubinternet.fr;07/09/1941;F;Cadre moyen / Enseignants; ;83 130;LA GARDE;Non;99;Occassionel; 23 337,20 € ;Oui;2;Non;Oui;Oui;Oui;73,28;Non
+1000714;ludovic;PODESER;ludovic_podeser@alice.fr;24/08/1958;F;Cadre moyen / Enseignants; ;33 380;FACTURE BIGANOS;Non;136;Occassionel; 43 395,50 € ;Non;1;Oui;Oui;Oui;Non;56,32;Oui
+1000715;gerald;MOREAU;gerald.moreau@clubinternet.fr;07/10/1972;F;Employés; ;83 340;LE LUC;Non;64;Fidèle; 11 536,20 € ;Oui;2;Non;Non;Oui;Oui;42,20;Non
+1000716;jean-yves;ROBILLARD;jean-yves.robillard@free.fr;08/06/1966;F;Profession Liberale;LOTISSEMENT LE PIGEONNIER;83 570;MONTFORT SUR ARGENS;Oui;253;Top; 44 658,60 € ;Non;2;Oui;Oui;Oui;Non;48,53;Oui
+1000717;raymond;MENTZER;raymond.mentzer@free.fr;18/07/1980;F;Employés; ;83 160;LA VALETTE DU VAR;Non;157;Fidèle; 32 762,50 € ;Non;0;Non;Oui;Oui;Oui;34,42;Non
+1000718;luciano;LETZELTER;luciano.letzelter@free.fr;06/07/1951;F;Cadre moyen / Enseignants; ;83 000;TOULON;Non;155;Fidèle; 16 403,80 € ;Oui;0;Oui;Oui;Non;Non;63,46;Non
+1000719;florence;VAILLANT;florence.vaillant@wanadoo.fr;26/04/1973;H;Cadre superieur / dirigeant; ;83 350;RAMATUELLE;Non;62;Top; 21 184,70 € ;Oui;1;Oui;Oui;Oui;Non;41,65;Oui
+1000720;andre;ATTALI;andre_attali@alice.fr;20/09/1956;F;Profession Liberale;LE ST BENOIT E A 144;83 200;TOULON;Oui;207;Top; 49 917,30 € ;Oui;0;Oui;Oui;Oui;Oui;58,25;Non
+1000721;evelyne;DAVID;evelyne.david@free.fr;30/09/1954;F;Cadre superieur / dirigeant;14 BD DR CHARLES BARNIER;83 000;TOULON;Oui;206;Occassionel; 21 623,80 € ;Oui;0;Non;Oui;Non;Oui;60,22;Non
+1000722;louis;BAYLAC;louis_baylac@alice.fr;22/07/1951;H;Cadre superieur / dirigeant;248 AV COLONEL PICOT;83 100;TOULON;Oui;82;Fidèle; 16 625,90 € ;Oui;1;Non;Non;Oui;Non;63,41;Oui
+1000723;jerome;THIRION;jerome.thirion@wanadoo.fr;12/07/1962;H;Autres;LE MAS DES TREILLES ENTRE;83 160;LA VALETTE DU VAR;Oui;285;Occassionel; 14 014,50 € ;Oui;3;Non;Oui;Non;Non;52,44;Non
+1000724;michel;FABRE DE MO;michel.fabre de morlho@wanadoo.fr;17/02/1963;F;Cadre moyen / Enseignants;LA CROTADE BT C;83 320;CARQUEIRANNE;Oui;7;Top; 20 409,30 € ;Oui;2;Non;Oui;Non;Non;51,84;Oui
+1000725;jean;SEH;jean.seh@free.fr;20/05/1965;H;Employés;10 AVENUE CHARLES BOUVANT;83 210;SOLLIES PONT;Oui;52;Top; 31 671,30 € ;Oui;1;Oui;Oui;Non;Oui;49,58;Oui
+1000726;willy;POUSSET;willy.pousset@wanadoo.fr;23/02/1952;F;Cadre moyen / Enseignants;LA PALMERAIE;83 220;LA PRADET;Oui;131;Occassionel; 17 149,20 € ;Non;1;Oui;Oui;Oui;Non;62,82;Oui
+1000727;thierry fran;POMPON; ;27/08/1975;H;Cadre moyen / Enseignants; ;83 300;DRAGUIGNAN;Non;70;Occassionel; 27 756,30 € ;Oui;0;Oui;Oui;Non;Oui;39,31;Oui
+1000728;christian;PELUS; ;27/12/1950;F;Cadre moyen / Enseignants;141 RUE MARECHAL FOCH;83 200;LE REVEST;Oui;225;Top; 40 949,90 € ;Non;0;Non;Oui;Oui;Non;63,98;Oui
+1000729;jean-claude;NAUWELAERS;jean-claude.nauwelaers@neuf.fr;18/06/1935;H;Cadre superieur / dirigeant;QUARTIER LE POUVEREL;83 390;CUERS;Oui;228;Fidèle; 43 743,20 € ;Oui;3;Non;Oui;Oui;Non;79,50;Non
+1000730;francis;PASCO;francis.pasco@neuf.fr;29/09/1951;F;Profession Liberale;COUSTELINE 977 VX CH DE MU;83 160;LA VALETTE DU VAR;Oui;174;Top; 38 459,90 € ;Oui;0;Non;Non;Non;Oui;63,22;Oui
+1000731;laurent;PARISOT;laurent.parisot@free.fr;31/12/1970;F;Cadre superieur / dirigeant;LES ROCHES VERTES ENTREE;83 000;TOULON;Oui;79;Occassionel; 40 972,90 € ;Non;2;Oui;Oui;Oui;Oui;43,97;Oui
+1000732;christian;LAGEDEC;christian.lagedec@clubinternet.fr;22/07/1941;F;Cadre superieur / dirigeant;L ORATOIR;83 320;CARQUEIRANNE;Oui;240;Top; 46 587,90 € ;Non;0;Non;Oui;Oui;Non;73,41;Oui
+1000733;jean-paul;MANSUTTI;jean-paul.mansutti@neuf.fr;28/07/1986;H;Cadre moyen / Enseignants;22 AVE DES ROSSIGNOLES;83 400;HYERES;Oui;219;Occassionel; 10 672,00 € ;Non;1;Non;Oui;Oui;Oui;28,39;Non
+1000734;jean-claude;GUELINE;jean-claude.gueline@free.fr;26/07/1972;F;Cadre moyen / Enseignants; ;83 390;CUERS;Non;76;Occassionel; 21 984,40 € ;Non;3;Non;Oui;Non;Non;42,40;Non
+1000735;jean-pierre;THOLLOT;jean-pierre.thollot@wanadoo.fr;26/08/1936;F;Profession Liberale;CHEMIN DE LA HAUTE NASQUE;83 590;GONFARON;Oui;221;Fidèle; 29 093,10 € ;Non;2;Oui;Oui;Oui;Non;78,31;Non
+1000736; ;RESER;reser@gmail.com;15/04/1975;F;Cadre moyen / Enseignants;05 RUE JEAN MOULIN;83 590;GONFARON;Oui;21;Occassionel; 23 528,40 € ;Oui;1;Non;Oui;Oui;Oui;39,68;Oui
+1000737;pierre;JOORY;pierre.joory@wanadoo.fr;07/02/1958;F;Profession Liberale;7 AVENUE CHARLOUN RIEU;83 210;SOLLIES PONT;Oui;153;Occassionel; 9 516,91 € ;Non;3;Oui;Oui;Oui;Non;56,86;Non
+1000738;guy;LE FEBVRIER;guy.le febvrier@neuf.fr;11/04/1969;F;Cadre moyen / Enseignants; ;83 400;HYERES;Non;138;Top; 18 364,90 € ;Oui;1;Non;Non;Oui;Non;45,69;Oui
+1000739;frederic;ZADVAT; ;21/04/1941;F;Profession Liberale;1459 AV DE LA RESISTANCE;83 000;TOULON;Oui;258;Occassionel; 31 273,80 € ;Non;1;Oui;Oui;Non;Non;73,66;Oui
+1000740;alain;GOLLIARD; ;20/09/1978;F;Cadre moyen / Enseignants;17 RUE DES RAMPARTS;83 160;LA VALETTE;Oui;200;Fidèle; 49 673,60 € ;Oui;0;Non;Oui;Oui;Non;36,25;Non
+1000741;isabelle;AMOROS;isabelle.amoros@free.fr;26/04/1969;F;Employés;398 CHE DE LA CALADA;6 570;ST PAUL;Oui;73;Nouveau; 12 623,40 € ;Oui;1;Oui;Oui;Oui;Non;45,65;Non
+1000742;denise;TIGER;denise.tiger@neuf.fr;06/06/1948;H;Cadre moyen / Enseignants;135 RUE KLEBER;83 000;TOULON;Oui;159;Top; 23 818,60 € ;Oui;0;Non;Non;Non;Non;66,54;Non
+1000743;georges;MEINEN;georges.meinen@clubinternet.fr;24/12/1950;F;Cadre moyen / Enseignants; ;83 390;PIERREFEU;Non;190;Top; 31 473,90 € ;Non;2;Non;Oui;Oui;Oui;63,99;Oui
+1000744;pascal;JEANNEROT; ;13/04/1951;F;Cadre moyen / Enseignants;VILLA 45 LE VERGER DE BEA;83 220;LE PRADET;Oui;117;Occassionel; 20 268,00 € ;Oui;0;Non;Oui;Oui;Non;63,69;Non
+1000745;bertrand;PAUTLOMMIER;bertrand_pautlommier@alice.fr;13/01/1957;H;Cadre moyen / Enseignants; ;83 130;LA GARDE;Non;25;Nouveau; 51 417,00 € ;Oui;2;Non;Oui;Oui;Non;57,93;Oui
+1000746;louis;DUPLEX; ;07/03/1956;H;Employés;LOT LES ORANGERS 4 IMP RO;83 260;LA CRAU;Oui;54;Fidèle; 30 971,80 € ;Oui;3;Oui;Oui;Oui;Oui;58,78;Non
+1000747;jacques;COLOMBO;jacques.colombo@free.fr;17/01/1957;H;Cadre moyen / Enseignants;150 AVENUE DES MESANGES;83 160;LA VALETTE DU VAR;Oui;118;Top; 47 025,00 € ;Non;2;Oui;Oui;Oui;Oui;57,92;Non
+1000748;michel;DESMOULIN;michel.desmoulin@neuf.fr;10/11/2026;F;Cadre moyen / Enseignants; ;83 000;TOULON;Non;212;Top; 9 672,25 € ;Oui;0;Oui;Oui;Oui;Non;-11,89;Non
+1000749;michel;PERROUX;michel.perroux@free.fr;04/09/1965;F;Cadre moyen / Enseignants;CHM ST JEAN LES LOUBES;83 400;HYERES;Oui;183;Occassionel; 18 036,70 € ;Oui;0;Oui;Oui;Non;Non;49,29;Non
+1000750;christiane;DELERIS; ;07/03/1948;F;Cadre moyen / Enseignants;178 CHEMIN DE LA POTERIE;83 260;LA CRAU;Oui;43;Fidèle; 42 628,30 € ;Non;0;Oui;Oui;Oui;Oui;66,78;Non
+1000751;jean-yves;DERANCOURT;jean-yves.derancourt@free.fr;20/09/1954;F;Cadre moyen / Enseignants;189 CHEMIN DE PROVENCE;83 100;TOULON;Oui;58;Top; 22 110,10 € ;Non;2;Oui;Oui;Oui;Non;60,25;Non
+1000752;philippe;HEMMINGS;philippe_hemmings@alice.fr;29/02/1952;H;Cadre moyen / Enseignants; ;83 000;TOULON;Non;232;Occassionel; 37 689,10 € ;Non;1;Non;Oui;Oui;Oui;62,80;Oui
+1000753;laurent;BRUYAS; ;18/10/1955;F;Profession Liberale;515 CHEMIN DE LA CHAPELLE;83 470;ST MAXIMIN LA STE BAUME;Oui;228;Top; 23 171,80 € ;Non;2;Non;Oui;Non;Non;59,17;Non
+1000754;stephane;STIRLING;stephane.stirling@neuf.fr;23/04/1968;F;Cadre moyen / Enseignants;23 RUE DES TOURNESOLS;83 260;LA CRAU;Oui;195;Nouveau; 21 951,30 € ;Non;0;Oui;Oui;Oui;Oui;46,66;Non
+1000755;sylvain;DURAND;sylvain.durand@wanadoo.fr;25/07/1956;F;Cadre moyen / Enseignants;552, CHE DES AIGUIERS;83 210;SOLLIES PONT;Oui;61;Top; 38 103,40 € ;Non;2;Oui;Oui;Oui;Non;58,40;Oui
+1000756;nathalie;DROULEZ;nathalie.droulez@free.fr;05/04/1951;F;Employés;5 CARRIERO DEI DINDOULETO;83 210;SOLLIES PONT;Oui;254;Fidèle; 22 882,90 € ;Oui;0;Oui;Non;Non;Oui;63,71;Oui
+1000757;bernard;JERMA; ;19/07/1958;F;Cadre moyen / Enseignants;LOT LALBIZIA 9 RUE ST;83 320;LE PRADET;Oui;127;Occassionel; 11 043,70 € ;Oui;1;Oui;Oui;Non;Oui;56,42;Non
+1000758;daniel;CORBIERE;daniel.corbiere@free.fr;20/04/1956;F;Cadre moyen / Enseignants;2680 AV DE LA RESISTANCE;83 000;TOULON;Oui;128;Occassionel; 24 027,60 € ;Non;0;Non;Oui;Oui;Non;58,66;Oui
+1000759; ;WERQUIN;werquin@gmail.com;01/09/1940;F;Cadre superieur / dirigeant;18 RUE DES REMPARTS;83 170;BRIGNOLES;Oui;267;Nouveau; 28 495,10 € ;Oui;0;Non;Oui;Oui;Non;74,30;Non
+1000760;jean-marc;OLLIVIER; ;03/10/1985;H;Employés;ROUTE DE L ALMANARRE;83 400;HYERES;Oui;150;Occassionel; 9 465,21 € ;Non;0;Non;Non;Oui;Non;29,21;Oui
+1000761;marcel;TORRENTS; ;02/09/1959;F;Ouvriers;162 CHEMIN SAINT MARTIN;83 400;HYERES;Oui;193;Top; 34 852,30 € ;Oui;1;Non;Oui;Non;Oui;55,30;Oui
+1000762;michel;MONET;michel_monet@alice.fr;13/04/1973;F;Cadre moyen / Enseignants;130 RUE DES PLATANES;83 100;TOULON;Oui;30;Top; 21 268,40 € ;Oui;0;Non;Non;Oui;Oui;41,68;Oui
+1000763;jean-pierre;SAINT-CLEME; ;30/07/1951;H;Cadre moyen / Enseignants;LOT PLEIN SUD CH COL PICO;83 160;L A VALETTE;Oui;42;Fidèle; 50 849,20 € ;Non;1;Non;Oui;Non;Oui;63,39;Oui
+1000764;jacques;MASSOTTEAU;jacques.massotteau@free.fr;18/08/1961;F;Cadre superieur / dirigeant;2779 CHEMIN LUBA;83 200;TOULON;Oui;133;Occassionel; 18 555,90 € ;Oui;3;Non;Non;Oui;Non;53,34;Non
+1000765;ghislain;GUIGUEN;ghislain.guiguen@neuf.fr;11/05/1951;F;Profession Liberale;ZAC DE LA POULASSE;83 210;SOLLIES PONT;Oui;47;Fidèle; 52 769,90 € ;Oui;3;Oui;Oui;Oui;Non;63,61;Oui
+1000766;gerard;DELABEILLE;gerard.delabeille@clubinternet.fr;10/05/1953;F;Cadre moyen / Enseignants;39 AVENUE DE LA VIGIE;83 240;CAVALAIRE SUR MER;Oui;147;Top; 11 601,40 € ;Oui;2;Non;Oui;Oui;Oui;61,61;Non
+1000767;evelyne;DREYFUS;evelyne.dreyfus@free.fr;06/07/1940;H;Cadre moyen / Enseignants;234 CH ST HONORAT;83 160;LA VALETTE;Oui;79;Occassionel; 29 541,70 € ;Oui;0;Non;Oui;Non;Non;74,45;Non
+1000768;jacques;HAUSSEMBERG;jacques.haussemberg@free.fr;12/07/1968;F;Cadre moyen / Enseignants;241 BVD CHARLES BARNIER;83 000;TOULON;Oui;166;Nouveau; 17 861,00 € ;Oui;2;Non;Oui;Oui;Non;46,44;Non
+1000769;emmanuel;RUSSO;emmanuel.russo@free.fr;26/05/1945;H;Cadre moyen / Enseignants;1079 AV DE LA PREMIERE DFL;83 130;LA GARDE;Oui;201;Nouveau; 21 042,00 € ;Oui;1;Non;Non;Oui;Non;69,57;Oui
+1000770;jean-pierre;MOULIN;jean-pierre.moulin@free.fr;09/10/1939;F;Cadre superieur / dirigeant;64 LE CLOS DES AMANDIERS;83 130;LA GARDE;Oui;137;Occassionel; 26 688,10 € ;Oui;1;Non;Oui;Non;Oui;75,20;Oui
+1000771;jean-francoi;DUFFOUR;jean-francoi.duffour@free.fr;01/03/1976;F;Cadre moyen / Enseignants;95 ROUTE DE BANDOL;83 740;LA CADIERE D AZUR;Oui;42;Top; 269,60 € ;Oui;2;Non;Non;Non;Oui;38,80;Non
+1000772;michel;COMBELLES;michel.combelles@free.fr;06/11/1952;H;Cadre superieur / dirigeant;LEOLIENNE;83 160;LA VALETTE;Oui;165;Top; 38 080,90 € ;Oui;1;Oui;Oui;Non;Oui;62,12;Non
+1000773;franck;THOLANCE;franck.tholance@wanadoo.fr;26/07/1971;F;Cadre moyen / Enseignants;80 RUE FERNAND LEGER LES;83 130;LA GARDE;Oui;215;Nouveau; 37 554,10 € ;Oui;2;Oui;Oui;Oui;Oui;43,40;Oui
+1000774;gerard;BORDE;gerard.borde@clubinternet.fr;20/03/1973;H;Cadre moyen / Enseignants;ROUTE DE GAREOULT;83 136;ROCBARON;Oui;58;Top; 18 184,60 € ;Oui;0;Non;Non;Oui;Oui;41,75;Oui
+1000775;karine;WALTER;karine.walter@free.fr;13/04/1946;F;Profession Liberale;6 BOULEVARD EDGAR AMIGAS;83 000;TOULON;Oui;176;Nouveau; 28 864,90 € ;Oui;0;Non;Oui;Oui;Non;68,68;Non
+1000776; ;GALES;gales@gmail.com;23/08/1951;F;Profession Liberale;80 RUE L OUISMARTIN;83 420;LA CROIX VALMER;Oui;184;Fidèle; 48 346,10 € ;Oui;1;Oui;Oui;Non;Non;63,32;Oui
+1000777;patrice;MAGGIONI;patrice_maggioni@alice.fr;25/09/1945;H;Employés;80 ALLEE DE LA SOURCE;83 160;LA VALETTE DU VAR;Oui;99;Top; 53 104,30 € ;Oui;0;Oui;Oui;Oui;Non;69,23;Non
+1000778;maurice;DE TARLE;maurice.de tarle@wanadoo.fr;10/07/1959;F;Cadre superieur / dirigeant;7 ALLEE GEORGES DE LA TOUR;83 130;LA GARDE;Oui;79;Top; 19 416,80 € ;Oui;0;Non;Oui;Oui;Non;55,44;Non
+1000779;francois;ELIOT;francois.eliot@clubinternet.fr;13/07/1953;F;Cadre moyen / Enseignants; ;83 260;LE CRAU;Non;20;Fidèle; 23 638,10 € ;Oui;2;Oui;Oui;Oui;Non;61,43;Non
+1000780; ;LESPRIT;lesprit@gmail.com;19/09/1963;F;Employés; ;83 100;TOULON;Non;84;Occassionel; 42 378,20 € ;Oui;1;Non;Oui;Oui;Non;51,25;Oui
+1000781;andre;PIERNA;andre.pierna@neuf.fr;24/03/1945;F;Cadre moyen / Enseignants;LES CYCLADES 1047 AV DE L;83 000;TOULON;Oui;183;Fidèle; 39 745,30 € ;Oui;0;Oui;Oui;Non;Oui;69,74;Non
+1000782;marc;DEFIX;marc_defix@alice.fr;31/07/1952;F;Cadre moyen / Enseignants;157 RUE JOSE  DARBAUD;83 000;TOULON;Oui;232;Top; 45 189,80 € ;Oui;0;Non;Oui;Non;Non;62,38;Non
+1000783;stephan;SCHMITT; ;29/06/1978;F;Cadre moyen / Enseignants;14 HAMAEU DE PAVAILLON;83 210;LA FARLEDE;Oui;140;Top; 37 930,90 € ;Oui;0;Non;Oui;Non;Oui;36,47;Non
+1000784;yves;GAUD;yves_gaud@alice.fr;15/02/1973;F;Cadre moyen / Enseignants;LA BASTIDASSE;83 590;GONFARON;Oui;231;Top; 24 042,00 € ;Non;1;Non;Non;Oui;Non;41,84;Oui
+1000785;fabienne;MICHAUD-LAR; ;25/01/1956;F;Ouvriers;103 CH DES CARGADOUX;83 140;SIX FOURS LES PLAGES;Oui;114;Top; 31 207,10 € ;Non;0;Oui;Non;Oui;Oui;58,90;Oui
+1000786;michel;COZZI;michel.cozzi@free.fr;17/12/1972;F;Cadre moyen / Enseignants;59 CH BELLE LAME;83 390;PIERREFEU;Oui;147;Occassionel; 24 424,30 € ;Oui;0;Non;Oui;Oui;Oui;42,00;Non
+1000787;philippe;BENOIST; ;28/02/1975; ;Cadre moyen / Enseignants;RES L ALICASTRE BAT A 1;83 980;LE LAVANDOU;Oui;109;Fidèle; 24 607,80 € ;Non;1;Non;Oui;Oui;Oui;39,81;Non
+1000788;yves;SEGUIN;yves.seguin@wanadoo.fr;03/03/1960;F;Profession Liberale;68 QUARTIER SAINT MICHEL;83 390;PIERREFEU DU VAR;Oui;210;Occassionel; 43 057,00 € ;Non;1;Oui;Oui;Oui;Non;54,80;Oui
+1000789;benoit;FAILLE;benoit.faille@neuf.fr;14/02/1956;H;Cadre moyen / Enseignants; ;83 240;CAVALAIRE;Non;55;Nouveau; 30 198,50 € ;Oui;0;Oui;Non;Oui;Oui;58,84;Oui
+1000790;jean-paul;DURAND;jean-paul.durand@neuf.fr;27/06/1946;F;Cadre moyen / Enseignants;ALLEE JULES VERNE;83 136;GAREOULT;Oui;161;Fidèle; 50 186,10 € ;Oui;2;Non;Oui;Oui;Oui;68,48;Oui
+1000791;philippe;AGEZ;philippe.agez@free.fr;25/08/1954;F;Employés;CHEMIN DE L AVENIR;83 220;LE PRADET;Oui;4;Nouveau; 22 916,10 € ;Oui;0;Non;Non;Oui;Non;60,32;Non
+1000792;sophie;DORCHIES;sophie.dorchies@free.fr;22/10/1964;F;Cadre moyen / Enseignants;LA MAGDALA 275 AV DE LA G;83 150;BANDOL;Oui;118;Fidèle; 9 592,73 € ;Non;0;Non;Oui;Oui;Non;50,16;Oui
+1000793;francois;GOBERT;francois.gobert@wanadoo.fr;30/06/1949;F;Cadre moyen / Enseignants;7 IMPASSE DES RABINES;83 390;PUGET VILLE;Oui;50;Top; 34 253,60 € ;Non;3;Oui;Non;Oui;Non;65,47;Non
+1000794;alain;GUYON;alain.guyon@free.fr;27/08/1981;F;Cadre moyen / Enseignants;LES PLATANES BT C CH DES;83 130;LA GARDE;Oui;116;Top; 22 792,30 € ;Oui;1;Oui;Oui;Non;Non;33,31;Oui
+1000795;jean-marie;DUQUESNE;jean-marie.duquesne@clubinternet.fr;31/01/1972;F;Employés;LIEU DIT LES GRAFFAUX;83 660;CARNOULES;Oui;157;Occassionel; 51 620,80 € ;Non;2;Oui;Oui;Oui;Non;42,88;Oui
+1000796;gishlain;TOURNYOL DU; ;11/09/1971;F;Cadre moyen / Enseignants;42 RUE DES IRIS;83 130;LA GARDE;Oui;162;Occassionel; 19 918,90 € ;Oui;3;Non;Oui;Oui;Oui;43,27;Non
+1000797;daniel;BARBERYE; ;01/11/1968;F;Cadre superieur / dirigeant;BAT I LES HAM DE COGOLIN;83 310;COGOLIN;Oui;86;Occassionel; 29 625,10 € ;Oui;2;Non;Non;Oui;Non;46,13;Non
+1000798;francine;COLOMBAT;francine.colombat@neuf.fr;07/01/1962; ;;1 33 RUE MONET;83 140;SIX FOURS LES PLAGES;Oui;189;Occassionel; 12 549,00 € ;Oui;0;Non;Oui;Oui;Non;52,95;Non
+1000799;charlotte;LENOBLE; ;23/09/1973;F;Cadre superieur / dirigeant;480 AV MARECHAL LECLERC;83 400;HYERES;Oui;95;Occassionel; 51 299,30 € ;Oui;1;Oui;Oui;Non;Non;41,24;Oui
+1000800;m-helene;BELLOIR; ;09/03/1955;H;Cadre moyen / Enseignants;78 AV DU DR SCHWEITZER;83 160;LA VALETTE;Oui;27;Top; 17 364,80 € ;Oui;2;Oui;Oui;Non;Non;59,78;Oui
+1000801;jacques;BOUC; ;07/10/1979;H;Employés;49 RUE AMBROISE CROIZAT;83 170;TOURVES;Oui;102;Top; 29 866,90 € ;Non;1;Oui;Non;Oui;Non;35,20;Oui
+1000802;daniel;ANICHINI;daniel.anichini@neuf.fr;07/12/1949;H;Employés;LES JARDIN D ALICE A3;83 170;BRIGNOLES;Oui;253;Top; 47 750,20 € ;Oui;0;Oui;Oui;Oui;Oui;65,03;Non
+1000803;david;DUVAL; ;07/04/2022; ;Cadre moyen / Enseignants;STE MARGUERITE;83 130;LA GARDE;Oui;281;Occassionel; 11 281,50 € ;Oui;0;Non;Oui;Oui;Oui;-7,30;Non
+1000804;xavier;LECOURT;xavier.lecourt@free.fr;03/08/1939;F;Employés;23 AV DE BORMES;83 130;LA GARDE;Oui;158;Top; 34 073,80 € ;Oui;3;Non;Oui;Non;Oui;75,38;Non
+1000805;francis;PINEL;francis.pinel@neuf.fr;12/04/1961;H;Cadre moyen / Enseignants;CH DES PIEDS REDON;83 210;SOLLIES TOUCAS;Oui;197;Top; 46 870,40 € ;Oui;0;Non;Oui;Oui;Non;53,69;Non
+1000806;marie;STALIN;marie_stalin@alice.fr;25/03/1973;H;Cadre moyen / Enseignants;21 CHEMIN DU PARTEGAL   L;83 160;LA VALETTE;Oui;74;Top; 38 453,70 € ;Non;2;Non;Oui;Oui;Non;41,74;Oui
+1000807;jean-paul;GALLON;jean-paul.gallon@wanadoo.fr;21/02/1942;H;Employés;120 RUE VINCENT COURDOUAN;83 220;LE PRADET;Oui;185;Top; 7 756,36 € ;Non;0;Non;Non;Non;Non;72,82;Oui
+1000808;jean-pierre;GAUCHE;jean-pierre.gauche@wanadoo.fr;04/07/1973;F;Cadre moyen / Enseignants; ;83 740;LA CADIERE D AZUR;Non;98;Top; 28 413,80 € ;Oui;0;Non;Non;Oui;Non;41,46;Non
+1000809;annick;VERHAEGHE;annick.verhaeghe@neuf.fr;14/08/1970;F;Cadre moyen / Enseignants; ;83 220;LE PRADET;Non;227;Top; 32 583,50 € ;Oui;2;Oui;Oui;Oui;Non;44,35;Non
+1000810;claudine;GIRAUT;claudine.giraut@free.fr;10/06/1947; ;Cadre superieur / dirigeant; ;83 130;LA GARDE;Non;17;Top; 14 606,60 € ;Oui;1;Non;Non;Oui;Non;67,53;Non
+1000811;etienne;DESWARTE; ;22/03/2029;F;Cadre moyen / Enseignants;9 ALLEE FORBIN;83 400;HYERES;Oui;110;Occassionel; 34 836,80 € ;Oui;1;Oui;Oui;Oui;Non;-14,26;Oui
+1000812;bernard;DEVIDAL;bernard.devidal@neuf.fr;09/01/1945; ;Cadre superieur / dirigeant; ;83 100;TOULON;Non;52;Occassionel; 26 920,80 € ;Oui;0;Non;Non;Oui;Non;69,94;Non
+1000813;marc;GISBERT;marc.gisbert@free.fr;03/08/1953;F;Cadre moyen / Enseignants;9 LOT DOM DES FONTETTES;83 390;CUERS;Oui;204;Top; 38 248,30 € ;Non;3;Oui;Non;Oui;Oui;61,38;Non
+1000814; ;TSILAVIS;tsilavis@gmail.com;08/03/1954;F;Cadre moyen / Enseignants;6 LES MAS DE BAUDOUVIN;83 160;LA VALETTE DU VAR;Oui;208;Top; 15 689,10 € ;Non;0;Non;Non;Oui;Non;60,78;Non
+1000815;vincent;COS;vincent.cos@wanadoo.fr;04/03/1969;F;Cadre moyen / Enseignants;VENTALIA LE CLOS DU;83 740;LA CADIERE;Oui;28;Top; 30 157,70 € ;Non;1;Oui;Non;Non;Non;45,79;Oui
+1000816;stephane;AGUESSE;stephane.aguesse@neuf.fr;08/03/1948;F;;139 LOT RESTANQUES THOUAR;83 130;LA GARDE;Oui;134;Top; 14 642,20 € ;Non;0;Oui;Non;Oui;Non;66,78;Oui
+1000817;damien;DARROMAN; ;17/02/1953;H;Cadre moyen / Enseignants;1621 AV J GASQUET;83 100;TOULON;Oui;212;Top; 15 933,30 € ;Oui;0;Non;Oui;Non;Non;61,83;Non
+1000818;patrick;MATHIEU;patrick.mathieu@wanadoo.fr;06/09/1974;F;Profession Liberale;290 CH DU RAYOLET;83 140;SIX FOURS LES PLAGES;Oui;90;Top; 44 288,30 € ;Oui;0;Non;Oui;Oui;Non;40,28;Non
+1000819;genevieve;DAMPIERRE; ;29/12/1969;H;Cadre moyen / Enseignants; ;83 130;LA GARDE;Non;76;Occassionel; 22 197,10 € ;Non;0;Oui;Non;Oui;Non;44,97;Oui
+1000820;alain;ROCHE;alain.roche@wanadoo.fr;04/08/1947;F;Cadre moyen / Enseignants;52 RUE DES GRANDS PINS;83 260;LA CRAU;Oui;35;Occassionel; 38 248,30 € ;Oui;3;Oui;Oui;Non;Non;67,38;Non
+1000821;pierre;LACOSTE; ;03/03/1954;H;Cadre moyen / Enseignants;RUE DU SERGENT LESCONNEC;83 130;LA GARDE;Oui;80;Top; 22 053,20 € ;Oui;2;Oui;Oui;Non;Oui;60,80;Non
+1000822;murielle;GAUTIER AUR; ;12/04/1964;F;Cadre superieur / dirigeant;CHEMIN DU CANEBAS;83 320;CARQUEIRANNE;Oui;176;Nouveau; 25 468,50 € ;Non;0;Oui;Non;Non;Oui;50,69;Oui
+1000823;guy;HERNOUX;guy.hernoux@free.fr;04/08/1966;H;Employés;2158 ROUTE DE TOURRIS;83 160;LA VALETTE DU VAR;Oui;12;Occassionel; 23 485,90 € ;Oui;3;Oui;Non;Non;Oui;48,38;Non
+1000824;david;DILLARD;david.dillard@clubinternet.fr;28/01/1950;F;Cadre superieur / dirigeant;CHEMIN DU GRAVAILLON;83 390;PUGET VILLE;Oui;42;Fidèle; 25 768,60 € ;Oui;0;Oui;Oui;Non;Non;64,89;Non
+1000825;michel;LACOUR;michel.lacour@wanadoo.fr;04/02/1968;F;Cadre moyen / Enseignants;PALMERAIE LE KENTIA N 20;83 220;LE PRADET;Oui;245;Top; 34 182,20 € ;Oui;2;Non;Oui;Oui;Non;46,87;Oui
+1000826; ;GRAERD;graerd@gmail.com;20/09/1956;F;;140 CHEMIN DES FOURCHES;83 210;SOLLIES PONT;Oui;160;Top; 57 444,50 € ;Non;1;Non;Oui;Oui;Non;58,25;Oui
+1000827;alain;MOURIES; ;15/11/1947;F;Cadre moyen / Enseignants; ;83 400;GIENS;Non;229;Occassionel; 38 059,80 € ;Oui;0;Oui;Oui;Non;Oui;67,09;Non
+1000828;philippe;MANIN;philippe.manin@neuf.fr;19/07/1955;H;Cadre moyen / Enseignants;LES OISEAUX 3 A AV;83 160;LA VALETTE DU VAR;Oui;78;Fidèle; 19 481,30 € ;Non;0;Non;Non;Oui;Oui;59,42;Oui
+1000829;denis;MARCOURT;denis.marcourt@clubinternet.fr;04/05/1980;F;Profession Liberale;6 QUARTIER SAINT LAZARE;83 340;LE LUC;Oui;224;Fidèle; 19 563,80 € ;Non;3;Oui;Non;Non;Oui;34,63;Non
+1000830;nassira;TROLLUX;nassira.trollux@free.fr;11/10/1960;F;Profession Liberale;CHEMIN DU ROBERTI;83 160;LA VALETTE DU VAR;Oui;219;Top; 38 598,40 € ;Oui;0;Oui;Non;Oui;Non;54,19;Non
+1000831;jean;DIGIORGIO;jean_digiorgio@alice.fr;21/07/1953;H;Cadre superieur / dirigeant;123 CHEM B FLORENT;83 200;TOULON;Oui;170;Top; 20 754,30 € ;Non;0;Non;Non;Non;Oui;61,41;Oui
+1000832;jerome;GERARD; ;12/08/1952;F;Employés;CITE PAUL LANGEVIN BAT;83 130;LA GARDE;Oui;248;Top; 13 864,60 € ;Oui;3;Non;Oui;Oui;Non;62,35;Oui
+1000833;anne;WAYMEL;anne.waymel@wanadoo.fr;17/01/1968;F;Cadre superieur / dirigeant;LOGIS PROVENCAL AV P PICA;83 160;LA VALETTE DU VAR;Oui;187;Nouveau; 36 599,00 € ;Oui;3;Oui;Oui;Oui;Non;46,92;Oui
+1000834;michel;LEDOUX;michel.ledoux@free.fr;05/03/1952; ;; ;83 500;LA SEYNE SUR MER;Non;119;Top; 20 409,30 € ;Oui;2;Non;Oui;Non;Non;62,79;Oui
+1000835;edouard;TIXIER;edouard.tixier@neuf.fr;30/11/1966; ;;27 AV G WEYGAND;83 130;LE PRADET;Oui;159;Top; 31 671,30 € ;Oui;1;Oui;Oui;Non;Oui;48,05;Oui
+1000836;bruno;BARRET;bruno_barret@alice.fr;05/03/1947; ;;LE BOLEROT 5 ALL;83 320;CARQUEIRANNE;Oui;161;Occassionel; 17 149,20 € ;Non;1;Oui;Oui;Oui;Non;67,79;Oui
+1000837;gilbert;DE FLINE;gilbert.de fline@free.fr;19/03/1961;F;Cadre moyen / Enseignants;LE ST SAENS 4A;83 220;HYERES;Oui;218;Occassionel; 27 756,30 € ;Oui;0;Oui;Oui;Non;Oui;53,75;Oui
+1000838; ;PAUMIER;paumier@gmail.com;11/04/1976;H;Cadre moyen / Enseignants;HLM LES MAURELS BAT C;83 400;HYERES;Oui;154;Top; 40 949,90 € ;Non;0;Non;Oui;Oui;Non;38,69;Oui
+1000839;patrick;ROUSSEAU;patrick.rousseau@clubinternet.fr;02/07/1980;F;Employés;5 AV DU GENERAL DE GAULLE;83 260;LA CRAU;Oui;242;Fidèle; 43 743,20 € ;Oui;3;Non;Oui;Oui;Non;34,46;Non
+1000840;stephane;MERGAULT; ;23/01/1953;H;Cadre moyen / Enseignants;12 RUE DE LA RIGOURETTE;83 980;LE LAVANDOU;Oui;192;Top; 38 459,90 € ;Oui;0;Non;Non;Non;Oui;61,90;Oui
+1000841;pascal;FIGUIERE;pascal.figuiere@free.fr;02/01/1960;F;Cadre moyen / Enseignants;LE ST CHRISTOPHE BAT A;83 400;HYERES;Oui;85;Occassionel; 40 972,90 € ;Non;2;Oui;Oui;Oui;Oui;54,96;Oui
+1000842;genevieve;BONAITI; ;14/05/1944;H;Autres;QUARTIER SAINT VICTOR;83 660;CARNOULES;Oui;211;Top; 46 587,90 € ;Non;0;Non;Oui;Oui;Non;70,60;Oui
+1000843;andre;PREVOT;andre.prevot@free.fr;06/05/1953;H;Autres;1675 CH DES RENONCULES;83 230;BORMES;Oui;82;Occassionel; 43 799,60 € ;Non;0;Non;Oui;Oui;Oui;61,62;Non
+1000844;jean-paul;GEORGES; ;22/06/1963;F;Profession Liberale; ;83 400;HYERES;Non;85;Occassionel; 18 912,20 € ;Oui;0;Oui;Non;Oui;Non;51,49;Oui
+1000845;irene;DUFRESNE;irene_dufresne@alice.fr;21/08/1980;H;Autres; ;83 210;LA FARLEDE;Non;63;Top; 27 765,80 € ;Oui;3;Oui;Oui;Non;Non;34,33;Non
+1000846;louis;FAYOLLE;louis.fayolle@free.fr;12/05/1968;H;Autres;7 AVENUE DU CLAIR DE LUNE;83 400;HYERES;Oui;143;Top; 337,30 € ;Non;1;Oui;Non;Oui;Non;46,60;Oui
+1000847;didier;FAURIE;didier.faurie@wanadoo.fr;22/10/1954;H;Autres;32 IMPASSE PROSPER GRESY,;83 220;LE PRADET;Oui;63;Occassionel; 26 325,30 € ;Oui;0;Oui;Non;Non;Non;60,16;Non
+1000848;solange;GUIHARD;solange.guihard@wanadoo.fr;15/04/1962;F;Autres; ;83 000;TOULON;Non;156;Top; 15 308,20 € ;Non;0;Oui;Oui;Oui;Oui;52,68;Non
+1000849;alexander;BRIAND;alexander.briand@wanadoo.fr;19/06/1959;F;Cadre moyen / Enseignants;185 ALLEE CAMILLE PISSARRO;83 130;LA GARDE;Oui;101;Top; 59 805,60 € ;Oui;1;Oui;Oui;Oui;Non;55,50;Oui
+1000850;noelle;BECQUART;noelle.becquart@wanadoo.fr;21/06/1967;F;Cadre moyen / Enseignants;460 CH BERTRAND MARIN;83 136;SAINT ANASTASIE;Oui;238;Occassionel; 28 658,30 € ;Oui;0;Oui;Oui;Oui;Non;47,50;Non
+1000851;pierre;FILLON; ;;F;Cadre moyen / Enseignants; ;83 136;MEOUNES;Non;34;Top; 23 175,00 € ;Oui;0;Non;Non;Non;Oui;;Oui
+1000852;christiane;OLLIVIER;christiane.ollivier@wanadoo.fr;16/04/1976;H;Cadre superieur / dirigeant;LE ST SAENS BAT 1 C;83 400;HYERES;Oui;245;Nouveau; 11 595,40 € ;Non;0;Oui;Oui;Oui;Non;38,67;Oui
+1000853;philippe;CAMPET;philippe.campet@clubinternet.fr;31/03/1980;F;Employés;BD DE SAIX RES SAINTE;83 000;TOULON;Oui;211;Nouveau; 50 409,90 € ;Non;2;Non;Oui;Oui;Oui;34,72;Oui
+1000854;patrick;ARRIVE; ;01/01/1962;F;Profession Liberale;1204 CHEMIN DU COLLET LONG;83 260;LA CRAU;Oui;140;Fidèle; 11 215,30 € ;Oui;2;Oui;Oui;Oui;Non;52,96;Oui
+1000855; ;LONGIN;longin@gmail.com;09/01/1969;F;Cadre moyen / Enseignants;LES GRES CHEMIN DU HAMEAU;83 320;CARQUEIRANNE;Oui;213;Occassionel; 13 327,80 € ;Oui;0;Non;Oui;Non;Non;45,94;Non
+1000856;frederic;LAMBARD; ;28/12/1978;F;Cadre moyen / Enseignants; ;20 117;CAUROES;Non;231;Occassionel; 17 247,70 € ;Oui;2;Oui;Oui;Oui;Non;35,98;Non
+1000857;michel;GIESBERGEN;michel.giesbergen@neuf.fr;03/09/1939;F;Cadre moyen / Enseignants;ROUTE DE COLLOBRIERES;83 590;GONFARON;Oui;154;Nouveau; 12 683,60 € ;Non;3;Non;Oui;Oui;Oui;75,29;Non
+1000858;dominique;DELLONNE;dominique_dellonne@alice.fr;17/06/1946;F;Cadre moyen / Enseignants; ;83 130;L GARDE;Non;156;Occassionel; 16 291,00 € ;Oui;0;Oui;Oui;Non;Oui;68,51;Non
+1000859;jean-claude;LAMOUR;jean-claude.lamour@free.fr;06/09/1956;F;Profession Liberale;6 HAMEAU DES BERNARDS;83 260;LA CRAU;Oui;243;Nouveau; 18 707,30 € ;Oui;0;Oui;Oui;Oui;Oui;58,28;Oui
+1000860;jonnan;MARCHAL;jonnan.marchal@neuf.fr;22/09/1954;F;Cadre moyen / Enseignants; ;83 160;LA VALETTE DU VAR;Non;68;Top; 19 326,90 € ;Oui;1;Non;Non;Oui;Non;60,24;Oui
+1000861;gilles;GABE;gilles.gabe@free.fr;13/03/1944;H;Cadre moyen / Enseignants; ;83 000;TOULON;Non;140;Top; 14 511,80 € ;Non;2;Non;Oui;Non;Oui;70,77;Non
+1000862;albert;MASSON;albert.masson@free.fr;20/01/1947;H;Cadre moyen / Enseignants;35 RUE JULES VERNE;83 220;LE PRADET;Oui;23;Occassionel; 10 672,00 € ;Non;1;Non;Oui;Oui;Oui;67,91;Non
+1000863;jean-luc;BLANC;jean-luc_blanc@alice.fr;12/07/1943;H;Cadre moyen / Enseignants;LA COUPIANE BAT 7 RUE;83 160;LA VALETTE;Oui;183;Top; 25 830,50 € ;Oui;2;Non;Non;Oui;Non;71,44;Non
+1000864;maurice;HABERBUSCH;maurice.haberbusch@clubinternet.fr;18/02/1953;F;Cadre moyen / Enseignants;22 RUE DE LASILE;83 390;PIERREFEU;Oui;87;Fidèle; 43 499,50 € ;Oui;1;Oui;Oui;Oui;Non;61,83;Non
+1000865;patrick;JANIN;patrick.janin@wanadoo.fr;24/09/1966;F;Cadre moyen / Enseignants;VILLA L LA CAPILLA;83 350;RAMATUELLE;Oui;212;Nouveau; 59 175,10 € ;Oui;1;Non;Oui;Oui;Non;48,24;Oui
+1000866;daniel;NOUVEL;daniel.nouvel@free.fr;17/11/1937;H;Profession Liberale; ;83 320;LE LAVANDOU;Non;237;Top; 27 642,90 € ;Non;1;Oui;Non;Non;Non;77,09;Oui
+1000867;katia;CHEVALIER; ;02/02/1971;F;Profession Liberale;70 CHEM LA TOUR SARRAZINE;83 150;BANDOL;Oui;169;Top; 367,50 € ;Non;1;Non;Oui;Oui;Non;43,88;Oui
+1000868; ;JOUVELLIER;jouvellier@gmail.com;25/10/1952;H;Employés;3 IMPASSE DES RESTANQUES;83 210;SOLLIES TOUCAS;Oui;119;Top; 29 714,40 € ;Oui;0;Oui;Non;Oui;Oui;62,15;Oui
+1000869;jean-claude;LEGRON; ;09/04/1967;F;Profession Liberale;LOT LES LAURIERS 68 ALLEE;83 220;LE PRADET;Oui;105;Occassionel; 13 950,40 € ;Non;1;Oui;Oui;Oui;Oui;47,70;Non
+1000870;sophie;DELARBRE;sophie.delarbre@free.fr;10/09/1958;F;Cadre moyen / Enseignants;139 CHEMIN DE LA TOUR;83 210;SOLLIES PONT;Oui;119;Top; 172,60 € ;Oui;0;Non;Non;Oui;Non;56,27;Non
+1000871;gervais;MATZEU;gervais.matzeu@wanadoo.fr;02/06/1944;H;Cadre moyen / Enseignants;18 ALL MIMOSAS CALIFORNIE;83 320;CARQUEIRANNE;Oui;114;Top; 37 850,60 € ;Non;1;Non;Oui;Oui;Non;70,55;Oui
+1000872;yves;DUFOUR;yves.dufour@free.fr;10/04/1967;H;Cadre superieur / dirigeant;QUARTIER ST ESPRIT;83 170;LA CELLE;Oui;272;Fidèle; 57 176,40 € ;Non;2;Non;Oui;Oui;Non;47,69;Oui
+1000873; ;FERAY;feray@gmail.com;07/11/1965;F;Cadre moyen / Enseignants;1403 CHEMIN DES BANONS;83 260;LA CRAU;Oui;123;Top; 38 784,00 € ;Oui;0;Non;Oui;Oui;Non;49,11;Non
+1000874;pascal;DIDELOT;pascal.didelot@wanadoo.fr;18/07/1961;F;Cadre moyen / Enseignants;1243 CH. DES;83 260;LA CRAU;Oui;256;Top; 10 191,80 € ;Oui;0;Non;Oui;Oui;Oui;53,42;Oui
+1000875;benoit;NOUYOU; ;31/03/1949;F;Profession Liberale;AVENUE DE LA GARE;83 790;PIGNANS;Oui;163;Top; 21 821,40 € ;Oui;1;Oui;Oui;Non;Oui;65,72;Oui
+1000876;jean-francoi;SONE; ;27/03/1955; ;Cadre moyen / Enseignants;461 BD GRIGNAN;83 000;TOULON;Oui;12;Fidèle; 37 389,00 € ;Oui;2;Non;Oui;Oui;Non;59,73;Oui
+1000877;philippe;HAMELIN;philippe_hamelin@alice.fr;05/06/1935;F;Cadre moyen / Enseignants; ;83 100;TOULON;Non;95;Top; 14 627,90 € ;Oui;2;Oui;Oui;Oui;Non;79,54;Non
+1000878;jean;TOSTIVINT;jean.tostivint@wanadoo.fr;28/12/1963;F;Employés;167 ANCIEN CH DU REVEST;83 200;TOULON;Oui;117;Nouveau; 48 770,50 € ;Oui;1;Oui;Oui;Non;Oui;50,98;Oui
+1000879;jean;DELPIERRE;jean.delpierre@free.fr;10/03/1962;H;Profession Liberale;CHEMIN DES MOUETTES;83 220;LE PRADET;Oui;139;Fidèle; 21 096,20 € ;Oui;1;Oui;Oui;Oui;Non;52,78;Oui
+1000880;jean-marc;MENAUT;jean-marc.menaut@free.fr;13/12/1957;F;Cadre moyen / Enseignants;CH DES CHARDONNIERES;83 136;NEOULES;Oui;45;Top; 36 256,90 € ;Non;0;Non;Non;Oui;Oui;57,02;Oui
+1000881;bernard;ROBERT;bernard.robert@neuf.fr;19/04/1950;F;Cadre superieur / dirigeant; ;83 140;SIX FOURS LES PLAGES;Non;53;Top; 15 281,80 € ;Non;0;Oui;Non;Non;Oui;64,67;Oui
+1000882;christiane;CHAMBOST;christiane_chambost@alice.fr;29/04/1960;F;Cadre moyen / Enseignants; ;83 400;HYERES;Non;248;Nouveau; 9 316,98 € ;Oui;2;Oui;Oui;Oui;Non;54,64;Non
+1000883;bruno;PASERO;bruno_pasero@alice.fr;23/05/1946;F;Cadre superieur / dirigeant;340 TRAVERS DE LA COURTAU;83 140;SIX FOURS;Oui;204;Fidèle; 20 736,20 € ;Oui;1;Oui;Oui;Oui;Non;68,57;Oui
+1000884;jean-pierre;REY;jean-pierre.rey@wanadoo.fr;06/12/1952;F;Cadre superieur / dirigeant;LE SAGITAIRE 1 RUE DES CA;83 400;HYERES;Oui;15;Occassionel; 52 662,50 € ;Oui;1;Oui;Oui;Oui;Oui;62,03;Oui
+1000885;maurice;BLOCH;maurice.bloch@wanadoo.fr;08/07/1969;F;Profession Liberale; ;83 200;TOULON;Non;240;Top; 8 020,19 € ;Oui;1;Oui;Non;Oui;Non;45,45;Non
+1000886;eric;ANDRIEU; ;16/03/1965;F;Cadre moyen / Enseignants;24 IMPASSE LES PIBOULES;83 210;LA FARLEDE;Oui;33;Nouveau; 32 245,40 € ;Oui;3;Non;Non;Non;Non;49,76;Non
+1000887;jean-jacques;BILLAULT;jean-jacques.billault@wanadoo.fr;17/06/1968;F;Cadre superieur / dirigeant;45 CHEMIN DES TASSYS;83 260;LA CRAU;Oui;159;Top; 41 107,20 € ;Oui;2;Oui;Oui;Oui;Non;46,51;Non
+1000888;pierre;MOULIE;pierre.moulie@wanadoo.fr;06/11/1967;H;Employés; ;83 100;TOULON;Non;40;Nouveau; 39 358,30 € ;Oui;0;Oui;Non;Non;Oui;47,12;Non
+1000889;corinne;KIENTZ;corinne.kientz@free.fr;05/09/1946;F;Cadre moyen / Enseignants;RUE RENAUTE RES LEVEGAS;83 260;LA CRAU;Oui;47;Top; 36 095,90 € ;Oui;3;Oui;Oui;Oui;Non;68,29;Non
+1000890;annie;GAILLARD;annie_gaillard@alice.fr;20/10/1979;F;Cadre moyen / Enseignants;18 RUE DE LA CHAPELLE;83 980;LE LAVANDOU;Oui;185;Occassionel; 7 723,93 € ;Oui;2;Oui;Oui;Oui;Non;35,16;Non
+1000891;christopher;DERENGERVE;christopher.derengerve@neuf.fr;05/12/1950;F;Profession Liberale;1040 AV DE LA RESISTANCE;83 000;TOULON  T;Oui;145;Fidèle; 18 565,80 € ;Oui;1;Oui;Oui;Oui;Oui;64,04;Oui
+1000892; ;HELLEQUIN;hellequin@gmail.com;10/11/1956;H;Employés; ;83 220;LE PRADET;Non;282;Fidèle; 25 132,90 € ;Oui;0;Non;Non;Oui;Non;58,11;Non
+1000893;claude;DURAND;claude.durand@free.fr;30/05/1940;F;Cadre moyen / Enseignants;LA ROUMIGUIERE;83 390;CUERS;Oui;30;Nouveau; 31 290,60 € ;Oui;0;Non;Oui;Oui;Non;74,55;Non
+1000894;andre;GERICKE; ;13/08/1954;H;Cadre moyen / Enseignants;1136 CHEMIN LOUIS BLERIOT;83 136;GAREOULT;Oui;180;Nouveau; 24 858,40 € ;Oui;0;Non;Non;Oui;Oui;60,35;Oui
+1000895;claude;HUGEROT; ;30/09/2026;F;Profession Liberale;27 LOT LES PIBOULES;83 210;LA FARLEDE;Oui;117;Top; 16 398,80 € ;Non;1;Non;Oui;Oui;Non;-11,78;Oui
+1000896;guy;BICHAT;guy.bichat@wanadoo.fr;26/10/1953;F;Cadre moyen / Enseignants; ;83 400;HYERESIRANNR;Non;224;Nouveau; 23 287,90 € ;Non;0;Non;Non;Oui;Oui;61,15;Oui
+1000897;jacky;SABOT;jacky.sabot@clubinternet.fr;05/12/1975;H;Cadre superieur / dirigeant;LOT LE PLEIN SOLEIL QUART;83 170;CAMPS LA SOURCE;Oui;94;Fidèle; 50 897,60 € ;Oui;0;Non;Oui;Oui;Non;39,04;Non
+1000898;andre;KNES;andre.knes@neuf.fr;24/02/1957;F;Cadre superieur / dirigeant;106;83 160;LA VALETTE;Oui;74;Top; 22 446,50 € ;Non;1;Non;Non;Oui;Oui;57,82;Oui
+1000899;eric;CHARBONNIER;eric_charbonnier@alice.fr;04/10/1958;F;Cadre moyen / Enseignants;7 AVENUE DE LA GARE;83 260;LA CRAU;Oui;208;Nouveau; 23 092,10 € ;Oui;0;Oui;Non;Oui;Oui;56,21;Oui
+1000900; ;TIQUET;tiquet@gmail.com;13/12/1940;F;Cadre moyen / Enseignants;38 AVENUE DES SONIAS;83 130;LA GARDE;Oui;249;Occassionel; 24 867,60 € ;Oui;0;Oui;Oui;Non;Non;74,02;Non
+1000901;didier;PELLOILE;didier.pelloile@free.fr;06/08/1944;H;Cadre moyen / Enseignants;PARC DES ARMARIS BTC;83 100;TOULON;Oui;91;Occassionel; 22 234,70 € ;Oui;0;Non;Non;Oui;Oui;70,37;Non
+1000902;martine;LAMANDE;martine.lamande@clubinternet.fr;04/11/1967;H;Employés;ROUTE DE PIERREFEU;83 390;PUGET VILLE;Oui;56;Top; 17 371,10 € ;Oui;2;Oui;Oui;Oui;Non;47,12;Non
+1000903;thierry;REGNIER;thierry.regnier@free.fr;06/05/1961;F;Cadre moyen / Enseignants;CHEMIN DU FUMEOU;83 160;LA VALETTE;Oui;33;Occassionel; 29 574,00 € ;Oui;0;Oui;Oui;Oui;Non;53,62;Non
+1000904;francois;GIESBERT;francois.giesbert@free.fr;31/05/1934;F;Cadre superieur / dirigeant;6 ALLEE DU RELAIS;83 210;SOLLIES;Oui;151;Top; 17 944,20 € ;Non;1;Oui;Oui;Oui;Oui;80,55;Oui
+1000905;jean-francoi;GICQUEL;jean-francoi.gicquel@wanadoo.fr;08/01/1979;F;Cadre moyen / Enseignants;409 IMP DE LA FORET;83 400;HYERES;Oui;92;Fidèle; 33 665,50 € ;Non;3;Oui;Non;Oui;Non;35,95;Non
+1000906;joel;DELACENCELL; ;05/06/1948;H;Cadre moyen / Enseignants; ;83 220;LE PRADET;Non;134;Top; 36 166,20 € ;Oui;0;Non;Non;Non;Non;66,54;Non
+1000907;jean-philipp;GRENET;jean-philipp.grenet@neuf.fr;28/06/1953;F;Cadre moyen / Enseignants;RES PARC HORIZON  B;83 000;TOULON;Oui;86;Nouveau; 27 712,90 € ;Non;2;Non;Oui;Oui;Non;61,48;Oui
+1000908;guy;ALEPEE;guy.alepee@clubinternet.fr;05/03/1939;F;Cadre moyen / Enseignants;48 IMPASSE LOUIS BLERIOT;83 130;LA GARDE;Oui;127;Occassionel; 224,70 € ;Oui;2;Oui;Oui;Oui;Non;75,79;Non
+1000909;jean;GUILLAUME;jean.guillaume@wanadoo.fr;12/02/1946;F;Cadre moyen / Enseignants;116 ALLÉE DU HAUT BATAILL;83 230;BORME LES MIMOSA;Oui;99;Top; 28 469,90 € ;Oui;0;Oui;Oui;Oui;Non;68,85;Non
+1000910;joseph;CROCHERIE;joseph.crocherie@neuf.fr;10/06/1952;H;Cadre moyen / Enseignants;APT 543 ENT DB PARC DES T;83 100;TOULON;Oui;54;Occassionel; 30 488,00 € ;Oui;0;Non;Oui;Oui;Oui;62,52;Non
+1000911;michel;THIERRI;michel.thierri@neuf.fr;19/07/1977;F;Cadre moyen / Enseignants;CHM DES MARINS;83 136;FORCALQUIERET;Oui;246;Occassionel; 19 160,30 € ;Oui;1;Oui;Oui;Oui;Non;37,42;Oui
+1000912;christian;HENRI;christian.henri@free.fr;17/04/1952;F;Cadre moyen / Enseignants; ;83 260;LA VALETTE;Non;229;Occassionel; 45 342,50 € ;Oui;0;Oui;Oui;Non;Non;62,67;Oui
+1000913;michel;SUROT;michel.surot@wanadoo.fr;15/09/1949;F;Cadre superieur / dirigeant;LES FLORALIES BAT D2 112;83 130;LA GARDE;Oui;70;Top; 6 294,21 € ;Non;0;Non;Oui;Oui;Oui;65,26;Non
+1000914;dominique;GUILLOT;dominique.guillot@free.fr;15/12/1975;H;Cadre moyen / Enseignants;21 RUE DE LA PEPINIERE;83 210;SOLLIES PONT;Oui;177;Occassionel; 25 127,70 € ;Oui;0;Oui;Non;Non;Non;39,01;Non
+1000915; ;PELLEZ;pellez@gmail.com;11/08/1954;F;Employés;3076 AVENUE DE LA;83 000;TOULON;Oui;19;Nouveau; 51 879,30 € ;Oui;2;Oui;Oui;Non;Oui;60,36;Oui
+1000916; ;DARRIBERE;darribere@gmail.com;20/05/1945;F;Cadre moyen / Enseignants;240 CHEMIN DE VAUBEREAU;83 340;FLASSANS;Oui;241;Occassionel; 12 644,90 € ;Oui;2;Oui;Non;Oui;Oui;69,58;Non
+1000917;georges;MONNET; ;19/07/1951;F;Cadre moyen / Enseignants;IMPASSE LEO FERRE;83 130;LA GARDE;Oui;70;Occassionel; 15 976,30 € ;Oui;0;Oui;Oui;Non;Non;63,42;Oui
+1000918;danis;LEBEGUE;danis.lebegue@wanadoo.fr;31/01/1968;F;Profession Liberale;LIEU DIT LA MIGOUA;83 330;LE BEAUSSET;Oui;62;Top; 14 711,80 € ;Oui;0;Non;Oui;Non;Oui;46,88;Non
+1000919;evelyne;COBES;evelyne.cobes@free.fr;20/08/1953;F;Cadre moyen / Enseignants; ;83 400;HYERES;Non;41;Occassionel; 26 671,60 € ;Non;0;Oui;Non;Oui;Oui;61,33;Oui
+1000920; ;LARRA;larra@gmail.com;23/02/1939;F;Cadre moyen / Enseignants;98 AVENUE DE BIR HAKEIM;83 110;SANARY SUR MER;Oui;21;Top; 8 162,42 € ;Oui;1;Oui;Oui;Oui;Oui;75,82;Non
+1000921; ;NAGELISENE;nagelisene@gmail.com;29/05/1938;F;Cadre moyen / Enseignants;185 AV EMILE FABBRE;83 200;TOULON;Oui;232;Occassionel; 15 349,60 € ;Oui;0;Non;Oui;Non;Non;76,56;Non
+1000922; ;CODANT;codant@gmail.com;21/07/1942;H;Employés;9 B RUE DES MEUNIERS;94 300;VINCENNES;Oui;138;Occassionel; 29 231,40 € ;Oui;0;Non;Oui;Non;Non;72,41;Non
+1000923;pascal;FRAJERMAN;pascal.frajerman@neuf.fr;05/09/1950;F;Cadre moyen / Enseignants;AVENUE PABLO PICASSO;83 160;LA VALETTE DU VAR;Oui;199;Fidèle; 41 462,30 € ;Oui;3;Non;Oui;Oui;Oui;64,29;Non
+1000924; ;DELAGOUTTE;delagoutte@gmail.com;16/01/1971;F;Cadre superieur / dirigeant; ;83 110;SANARY;Non;129;Fidèle; 57 398,10 € ;Non;3;Non;Oui;Oui;Non;43,92;Oui
+1000925;joseph;HACCART;joseph.haccart@clubinternet.fr;30/03/1951;F;Cadre moyen / Enseignants;LES AURELIENNES BAT C AV;83 160;LA VALETTE DU VAR;Oui;70;Fidèle; 11 520,80 € ;Oui;0;Non;Non;Oui;Non;63,72;Non
+1000926;anne;BARRET;anne.barret@free.fr;12/05/1959;F;Cadre moyen / Enseignants;VILLA DORIANE QUARTIER;83 320;CARQUEIRANNE;Oui;38;Top; 52 117,30 € ;Non;2;Oui;Oui;Oui;Non;55,61;Oui
+1000927;francoise;CHURI; ;26/07/1963;F;Cadre moyen / Enseignants;LES CHENES BLANCS 692 CH;83 136;GAREOULT;Oui;72;Fidèle; 26 281,40 € ;Non;0;Oui;Oui;Oui;Non;51,40;Oui
+1000928;lucile;DESSEAUX; ;12/09/1954;F;Cadre moyen / Enseignants;LE GALION D PORT DE PLAIS;83 000;TOULON;Oui;141;Occassionel; 25 683,40 € ;Non;2;Oui;Oui;Oui;Non;60,27;Non
+1000929;fabrice;BONTEMPS;fabrice.bontemps@wanadoo.fr;;F;Profession Liberale;QUARTIER LA GLAVINE;0;CUERS;Non;202;Top; 11 920,70 € ;Non;1;Non;Oui;Oui;Non;;Non
+1000930;yves;POUPARD;yves_poupard@alice.fr;30/04/1955;H;Cadre moyen / Enseignants; ;83 000;TOULON;Non;2;Occassionel; 30 658,70 € ;Oui;0;Non;Oui;Oui;Non;59,64;Non
+1000931;marc;LASSOUDIERE;marc_lassoudiere@alice.fr;26/08/1949;F;Cadre moyen / Enseignants; ;83 136;ROCBARON;Non;248;Top; 36 646,40 € ;Non;1;Non;Oui;Oui;Non;65,31;Oui
+1000932; ;PALOUS;palous@gmail.com;15/11/1961;H;Cadre superieur / dirigeant;25 ALLEE CIVALLERI;83 160;LA VALETTE;Oui;124;Occassionel; 30 760,40 € ;Non;2;Oui;Non;Oui;Non;53,09;Oui
+1000933;alain;CHAUSSY;alain.chaussy@wanadoo.fr;12/04/1965; ;Employés; ;83 210;SOLLIES PONT;Non;26;Fidèle; 16 109,90 € ;Non;2;Oui;Oui;Oui;Non;49,69;Non
+1000934;walter;PERRONNI;walter.perronni@neuf.fr;03/05/2000;H;Employés;6 AVENUE DES MOULIERES;83 160;LA VALETTE DU VAR;Oui;96;Top; 22 053,20 € ;Oui;2;Oui;Oui;Non;Oui;14,63;Non
+1000935;f.;DEGERMANN;f..degermann@free.fr;27/04/2000;H;Employés;76 AVENUE DU COTAUX      I;83 320;CARQUEIRANNE;Oui;80;Nouveau; 25 468,50 € ;Non;0;Oui;Non;Non;Oui;14,64;Oui
+1000936;jean-paul;VALERIAN BE;jean-paul.valerian bessac@free.fr;23/05/2000;H;Profession Liberale;82 AVENUE PAUL DANIO;83 220;LE PRADET;Oui;79;Occassionel; 23 485,90 € ;Oui;3;Oui;Non;Non;Oui;14,57;Non
+1000937;alain;PAYAN;alain.payan@wanadoo.fr;09/09/2000;H;Profession Liberale;31 RUE MELUSINE;83 400;HYERES;Oui;80;Fidèle; 25 768,60 € ;Oui;0;Oui;Oui;Non;Non;14,28;Non
+1000938;duncan;LAUNOY;duncan.launoy@clubinternet.fr;19/08/2000;F;Employés;LES SIRENES BT A1 330 RUE;83 130;LA GARDE;Oui;96;Top; 34 182,20 € ;Oui;2;Non;Oui;Oui;Non;14,33;Oui
+1000939;jean-pierre;PALLOT;jean-pierre.pallot@clubinternet.fr;24/07/2000;F;Employés; ;83 500;LA SEYNE SUR MER;Non;207;Top; 57 444,50 € ;Non;1;Non;Oui;Oui;Non;14,40;Oui
+1000940;ibrahim;DEMELEUMEES;ibrahim.demeleumeester@clubinternet.fr;18/09/2000;F;Cadre moyen / Enseignants;1356 CHEM HAUTS DU LANCON;83 110;SANARY SUR MER;Oui;196;Occassionel; 38 059,80 € ;Oui;0;Oui;Oui;Non;Oui;14,25;Non
+1000941;jean-yves;BAILLEUL;jean-yves.bailleul@free.fr;18/11/2000;H;Employés; ;6 510;GATTIERE;Non;249;Fidèle; 19 481,30 € ;Non;0;Non;Non;Oui;Oui;14,08;Oui
+1000942;bernard;GRIERS;bernard.griers@free.fr;02/08/2000;F;Profession Liberale;CH LES HAUTES;83 136;NEOULES;Oui;124;Fidèle; 19 563,80 € ;Non;3;Oui;Non;Non;Oui;14,38;Non
+1000943;philippe;SANSON;philippe.sanson@free.fr;08/01/2000;H;Cadre superieur / dirigeant;2639 COR M ESCARTEFIGUE;83 200;TOULON;Oui;44;Top; 38 598,40 € ;Oui;0;Oui;Non;Oui;Non;14,95;Non
+1000944;jean-marie;PARADON;jean-marie_paradon@alice.fr;22/09/2000;F;Cadre superieur / dirigeant;6 IMP DU PIVERT;83 260;LA CRAU;Oui;94;Top; 20 754,30 € ;Non;0;Non;Non;Non;Oui;14,24;Oui
+1000945;yves;MARCHAND;yves.marchand@wanadoo.fr;15/11/2000;F;Profession Liberale;CH LA COULERETTE;83 250;LA LONDE;Oui;85;Top; 13 864,60 € ;Oui;3;Non;Oui;Oui;Non;14,09;Oui
+1000946;jacques;WABINDSKY;jacques.wabindsky@clubinternet.fr;13/08/2000; ;Cadre superieur / dirigeant;LE CLOS DES GRANDS;83 210;LA FARLEDE;Oui;84;Nouveau; 36 599,00 € ;Oui;3;Oui;Oui;Oui;Non;14,35;Oui
+1000947;michele;DE SAINT-SE; ;21/01/2000;F;Profession Liberale;486 CHM DES AIGUIERS;83 210;SOLLIES PONT;Oui;71;Nouveau; 45 856,10 € ;Non;1;Non;Oui;Oui;Non;14,91;Oui
+1000948;jacques;PETIT;jacques.petit@wanadoo.fr;29/01/2000;F;Cadre moyen / Enseignants;864 CHM DU HT;83 210;LA FARLEDE;Oui;216;Nouveau; 22 362,30 € ;Non;0;Non;Oui;Oui;Non;14,89;Oui
+1000949; ;SABATIER;sabatier@gmail.com;18/04/2000;F;Employés; ;83 160;LA VALETTE DU VAR;Non;22;Nouveau; 21 984,00 € ;Oui;1;Oui;Non;Non;Non;14,67;Oui
+1000950;christian;DOUTRE; ;12/11/2000;F;Cadre moyen / Enseignants;IMP DU P COUDON;83 160;LA VALETTE;Oui;11;Nouveau; 11 073,00 € ;Oui;2;Non;Oui;Non;Non;14,10;Non
+1000951;nadia;BURKE; ;25/09/2000;F;Cadre moyen / Enseignants;BAT 5 LE GYMNASE;83 250;LA LONDE;Oui;25;Top; 18 158,50 € ;Non;1;Oui;Non;Oui;Oui;14,23;Oui
+1000952;erick;BIJARD;erick.bijard@wanadoo.fr;07/05/2000;H;Employés;113 ALLEE DE SALERNE;83 130;LA GARDE;Oui;127;Top; 7 304,20 € ;Non;0;Oui;Oui;Oui;Oui;14,62;Non
+1000953;laurent;MARTIN;laurent_martin@alice.fr;12/07/2000; ;Cadre moyen / Enseignants;LES BALCONS DU BAOU 431 I;83 200;TOULON;Oui;52;Top; 58 092,00 € ;Non;2;Oui;Oui;Oui;Non;14,44;Oui
+1000954;pierre;GIBARD; ;08/03/2000;H;Cadre superieur / dirigeant;AV DU PORT DE PLAISANCE;83 000;TOULON;Oui;59;Top; 16 518,60 € ;Oui;0;Oui;Non;Oui;Non;14,78;Oui
+1000955;jean-claude;GARNIER;jean-claude.garnier@clubinternet.fr;21/05/2000;F;Profession Liberale;330 CHEMIN DES AIGUIERS;83 210;SOLLIES PONT;Oui;84;Nouveau; 46 461,50 € ;Oui;0;Non;Oui;Oui;Non;14,58;Non
+1000956;veronique;MINISCLOUX;veronique.miniscloux@clubinternet.fr;15/09/2000; ;Cadre moyen / Enseignants;23 E RUE EUGENIE;83 400;HYERES;Oui;123;Fidèle; 258,70 € ;Oui;0;Non;Oui;Oui;Oui;14,26;Non
+1000957;jean-claude;KELLY;jean-claude.kelly@wanadoo.fr;22/07/2000;F;Cadre moyen / Enseignants;6 AV DU PETIT BOIS;83 250;LA LONDE;Oui;36;Top; 12 533,20 € ;Non;1;Non;Oui;Non;Oui;14,41;Non
+1000958;jean;NOVEL;jean.novel@free.fr;23/09/2000;H;Cadre moyen / Enseignants;AVENUE FRANCOIS FABIE;83 160;LA VALETTE DU VAR;Oui;156;Fidèle; 22 848,50 € ;Oui;1;Oui;Non;Non;Non;14,24;Oui
+1000959;xavier;MICONNET;xavier.miconnet@free.fr;21/03/2000; ;Cadre moyen / Enseignants;LES CAMPANULES D AV CDT;83 130;LA GARDE;Oui;47;Occassionel; 13 267,60 € ;Oui;0;Oui;Oui;Oui;Oui;14,75;Non
+1000960;georges;SALAUN;georges_salaun@alice.fr;01/07/2000;H;Employés;LE HAMEAU DES ANGES N 12;83 310;COGOLIN;Oui;175;Top; 61 554,60 € ;Oui;0;Non;Oui;Oui;Non;14,47;Non
+1000961;antoine;MAYEUX;antoine.mayeux@neuf.fr;17/11/1955;F;Employés; ;83 170;BILLY MONTIGNY;Non;165;Nouveau; 137,20 € ;Non;1;Non;Oui;Oui;Non;59,09;Non
+1000962;francoise;MAZAMIE; ;15/08/1972; ;; ;59 000;LILLE;Non;7;Occassionel; 46 963,90 € ;Oui;1;Non;Oui;Oui;Non;42,34;Oui
+1000963; ;FAURE;faure@gmail.com;23/05/1970;H;Cadre moyen / Enseignants;742 CHEMIN DU PETIT PLAN;83 870;SIGNES;Oui;198;Top; 23 475,60 € ;Oui;0;Oui;Non;Oui;Oui;44,57;Oui
+1000964;francois;EPOUDRY;francois.epoudry@neuf.fr;05/03/1982;H;Cadre superieur / dirigeant;126 AV VAN GOHN RES LES;83 340;LE LUC;Oui;131;Nouveau; 24 554,10 € ;Oui;0;Oui;Oui;Non;Oui;32,79;Non
+1000965;catherine;BLANDIN;catherine.blandin@neuf.fr;29/04/1971;F;Cadre moyen / Enseignants;4 RUE DE LA REPUBLIQUE;83 390;CUERS;Oui;136;Top; 18 050,00 € ;Oui;0;Oui;Non;Oui;Oui;43,64;Oui
+1000966;xavier;DIDELOT;xavier.didelot@neuf.fr;27/09/1970;H;Cadre moyen / Enseignants; ;83 270;ST CYR SUR MER;Non;218;Fidèle; 15 237,60 € ;Oui;2;Oui;Non;Oui;Non;44,23;Non
+1000967;philippe;CAUMARTIN;philippe.caumartin@neuf.fr;05/02/1957;H;Cadre moyen / Enseignants;QUARTIER DU PARIGAOU;83 300;DRAGUIGNAN;Oui;202;Occassionel; 20 555,00 € ;Non;0;Oui;Oui;Oui;Non;57,87;Oui
+1000968;lucien;ROUSSEAU;lucien.rousseau@wanadoo.fr;09/02/1942;F;;55 RUE MARCEL PAGNOL;83 240;CAVALAIRE;Oui;116;Occassionel; 28 421,70 € ;Oui;2;Oui;Oui;Oui;Oui;72,86;Non
+1000969;francois;DESANOIS;francois.desanois@free.fr;29/04/1946;F;Cadre moyen / Enseignants;1 LES BASTIDES DE CLAUGE;83 340;FLASSANS;Oui;143;Top; 21 876,50 € ;Oui;0;Non;Non;Oui;Non;68,64;Non
+1000970;jacques;GUILBAU;jacques.guilbau@free.fr;07/01/1965;F;Cadre moyen / Enseignants;HTE VILLE ORIENTALE 110 C;83 340;FLASSANS SUR ISSOLE;Oui;138;Nouveau; 12 810,20 € ;Non;3;Non;Oui;Oui;Non;49,95;Oui
+1000971;jean-pierre;FLOQUET;jean-pierre.floquet@wanadoo.fr;22/04/1957; ;; ;83 400;HYERES;Non;8;Nouveau; 15 109,40 € ;Oui;0;Non;Non;Oui;Non;57,66;Oui
+1000972;jean-michel;BADINIER;jean-michel.badinier@wanadoo.fr;13/02/1960; ;; ;83 400;HYERES;Non;120;Occassionel; 37 414,70 € ;Non;3;Oui;Oui;Oui;Non;54,85;Non
+1000973;patrick;MEULEAU; ;17/03/1942;H;; ;83 400;HYERES;Non;37;Top; 41 521,60 € ;Oui;0;Non;Oui;Oui;Oui;72,76;Non
+1000974;nicole;THERY;nicole.thery@wanadoo.fr;30/08/1959; ;;N 3 ALLEE DES CORYPHA;83 400;HYERES;Oui;182;Top; 25 372,80 € ;Oui;0;Oui;Oui;Oui;Non;55,30;Non
+1000975;nicolas;JAGUT;nicolas.jagut@free.fr;06/04/1946; ;;RESIDENCE LES ROCHES BRUN;83 000;TOULON;Oui;169;Top; 21 139,80 € ;Oui;2;Oui;Oui;Non;Non;68,70;Non
+1000976; ;LAVAL;laval@gmail.com;06/05/1936; ;;DERIVEUR 1;83 320;CARQUEIRANNE;Oui;215;Occassionel; 27 757,60 € ;Non;0;Non;Oui;Oui;Non;78,62;Oui
+1000977; ;UZAN;uzan@gmail.com;04/02/1971;F;;BEAU SOLEIL 5 69 AV;83 000;TOULON;Oui;199;Occassionel; 22 678,10 € ;Non;1;Oui;Oui;Oui;Oui;43,87;Oui
+1000978;andre;BRIAND;andre_briand@alice.fr;17/07/1969;H;Cadre moyen / Enseignants;166 RUE G LEYGUES;83 100;TOULON;Oui;170;Occassionel; 12 178,50 € ;Oui;2;Non;Oui;Oui;Oui;45,42;Non
+1000979;maurice;LESSARD;maurice.lessard@clubinternet.fr;25/03/1976;F;Cadre moyen / Enseignants; ;83 400;HYERES;Non;71;Fidèle; 26 106,70 € ;Non;1;Non;Non;Oui;Non;38,74;Oui
+1000980;jean-yves;DESBIENS;jean-yves.desbiens@free.fr;;F;Employés;4 ALLEE DES FOURMIGUES;83 400;HYERES;Oui;168;Top; 27 417,60 € ;Oui;0;Non;Oui;Oui;Oui;;Non
+1000981;yvon;MASCLAUX; ;01/07/1974;F;Employés;15 RUE SERE DE RIVIERE;83 400;HYERES;Oui;207;Occassionel; 23 337,20 € ;Oui;2;Non;Oui;Oui;Oui;40,47;Non
+1000982;alain;CHIRON;alain.chiron@free.fr;18/09/1954;F;Employés;LES GENETS E3;83 100;TOULON;Oui;140;Occassionel; 43 395,50 € ;Non;1;Oui;Oui;Oui;Non;60,25;Oui
+1000983;jean-luc;VALETTE;jean-luc.valette@clubinternet.fr;04/06/1966;F;Cadre moyen / Enseignants; ;83 390;CUERS;Non;110;Fidèle; 11 536,20 € ;Oui;2;Non;Non;Oui;Oui;48,54;Non
+1000984;philippe;DUBUC;philippe.dubuc@free.fr;24/04/1951;F;Employés;2 CHEMIN DU VIVIER;83 400;HYERES;Oui;40;Top; 44 658,60 € ;Non;2;Oui;Oui;Oui;Non;63,66;Oui
+1000985;philippe;KRALJIC; ;06/01/1967;F;Cadre moyen / Enseignants;LA CALIFORNIE 113 RUE DU;83 320;CARQUEIRANNE;Oui;157;Fidèle; 32 762,50 € ;Non;0;Non;Oui;Oui;Oui;47,95;Non
+1000986;corinne;HENNION; ;01/09/1952;F;Cadre moyen / Enseignants;115 RUE MARCEL CASTIE;83 000;TOULON;Oui;133;Fidèle; 16 403,80 € ;Oui;0;Oui;Oui;Non;Non;62,30;Non
+1000987; ;MAILLET;maillet@gmail.com;06/05/1930;F;Cadre moyen / Enseignants;949 AVENUE FRANCOIS NARDI;83 000;TOULON;Oui;169;Top; 21 184,70 € ;Oui;1;Oui;Oui;Oui;Non;84,62;Oui
+1000988;michel;MOREL;michel.morel@free.fr;24/12/1945;F;Cadre moyen / Enseignants;1324 COR DU GENERAL DE   E;83 000;TOULON;Oui;184;Top; 49 917,30 € ;Oui;0;Oui;Oui;Oui;Oui;68,99;Non
+1000989;robert;LECONTE;robert.leconte@wanadoo.fr;31/01/1954;F;Cadre moyen / Enseignants; ;83 200;TOULON;Non;158;Occassionel; 21 623,80 € ;Oui;0;Non;Oui;Non;Oui;60,88;Non
+1000990;jean-paul;LEPILEUR;jean-paul.lepileur@free.fr;04/08/1958; ;;CHEMIN LES BLETONEDES;83 210;BELGENTIER;Oui;189;Fidèle; 16 625,90 € ;Oui;1;Non;Non;Oui;Non;56,38;Oui
+1000991;leo;LOUBERSAN;leo.loubersan@neuf.fr;15/11/1951;F;Profession Liberale; ;83 210;LA FARLEDE;Non;86;Occassionel; 14 014,50 € ;Oui;3;Non;Oui;Non;Non;63,09;Non
+1000992;daniele;BOITEUX;daniele.boiteux@wanadoo.fr;04/03/1953;F;Profession Liberale;LE LOU BAIYE RUE EUGENIE;83 400;HYERES;Oui;132;Top; 16 088,80 € ;Oui;3;Non;Oui;Oui;Non;61,79;Non
+1000993;regis;DURAND;regis.durand@clubinternet.fr;23/10/1972;H;Cadre superieur / dirigeant; ;83 220;LE PRADET;Non;149;Occassionel; 43 943,00 € ;Oui;0;Oui;Oui;Oui;Oui;42,15;Non
+1000994;madeleine;FAUSSEMAGNE;madeleine.faussemagne@clubinternet.fr;26/10/1948;H;Cadre moyen / Enseignants;CHEMIN DE LA RUOL;83 390;CUERS;Oui;77;Fidèle; 14 505,30 € ;Non;3;Non;Oui;Oui;Non;66,15;Non
+1000995; ;PIERRE;pierre@gmail.com;24/08/1954;F;Cadre moyen / Enseignants;45 CH BOSQUETTE;83 200;TOULON;Oui;145;Top; 33 886,40 € ;Non;0;Oui;Oui;Non;Non;60,32;Oui
+1000996;eric;PETAULE;eric.petaule@clubinternet.fr;18/10/1954;F;Cadre moyen / Enseignants;1519 AVENUE COLONEL PICOT;83 100;TOULON;Oui;45;Top; 16 662,50 € ;Oui;1;Non;Oui;Oui;Non;60,17;Oui
+1000997;marie-france;GERARD-COUE;marie-france.gerard-coue@clubinternet.fr;14/10/1951;H;Cadre moyen / Enseignants;10 PLACE DE LA MAIRIE;83 790;PIGNANS;Oui;140;Occassionel; 20 262,60 € ;Non;0;Non;Oui;Non;Non;63,18;Oui
+1000998;jacky;RIVIERE;jacky.riviere@clubinternet.fr;01/02/1952;H;;5 RUE DES TROENES;83 210;SOLLIES PONT;Oui;114;Occassionel; 33 615,40 € ;Oui;1;Non;Oui;Non;Oui;62,88;Oui
+1000999;jean-louis;PRADES;jean-louis.prades@wanadoo.fr;10/05/1934;H;Cadre superieur / dirigeant;7 CHEMIN DE LA BURLIERE;83 170;BRIGNOLES;Oui;99;Occassionel; 227,10 € ;Non;3;Non;Non;Oui;Non;80,61;Non
+1001000;marianne;LOUBES;marianne_loubes@alice.fr;31/10/1951;H;Cadre moyen / Enseignants; ;83 400;HYERES;Non;64;Top; 28 981,10 € ;Oui;3;Oui;Oui;Oui;Oui;63,13;Non
+1001001;philippe;BERNAT;philippe_bernat@alice.fr;18/10/1972;F;Cadre moyen / Enseignants;900 AVENUE DE LA COLLEGIA;83 140;SIX FOURS;Oui;202;Top; 12 163,90 € ;Oui;2;Oui;Non;Oui;Non;42,17;Oui
+1001002;bernard;KEMPF;bernard.kempf@free.fr;19/04/2000;F;Cadre moyen / Enseignants;LE VERGERON 3 BD DU;83 420;LA CROIX VALMERE;Oui;133;Top; 8 162,42 € ;Oui;1;Oui;Oui;Oui;Oui;14,67;Non
+1001003;philippe;ROSSET;philippe.rosset@free.fr;25/08/2000;H;Cadre moyen / Enseignants;50 RUE HENRI DURRE;59 199;HERGNIES;Oui;47;Occassionel; 15 349,60 € ;Oui;0;Non;Oui;Non;Non;14,32;Non
+1001004;bernard;OLIVIER;bernard.olivier@free.fr;10/12/2000; ;;1264 AVENUE DU CHENE VERT;83 200;TOULON;Oui;210;Occassionel; 29 231,40 € ;Oui;0;Non;Oui;Non;Non;14,02;Non
+1001005;jean-pierre;PERRET;jean-pierre.perret@wanadoo.fr;23/11/2000;F;;CHEMIN DU BELVEDERE LA PEN;83 320;CARQUEIRANNE;Oui;112;Fidèle; 41 462,30 € ;Oui;3;Non;Oui;Oui;Oui;14,07;Non
+1001006;gilbert;ACKER; ;01/12/2000; ;Employés;460 CHEM VIEUX ROUBAUDS;83 320;CARQUEIRANNE;Oui;209;Fidèle; 57 398,10 € ;Non;3;Non;Oui;Oui;Non;14,05;Oui
+1001007;irene;PERRIN;irene.perrin@wanadoo.fr;25/03/2000;F;Employés;96 CHEMIN FOUCOU;83 000;TOULON;Oui;152;Fidèle; 11 520,80 € ;Oui;0;Non;Non;Oui;Non;14,74;Non
+1001008;bruno;THIRION;bruno.thirion@free.fr;18/09/2000;F;Employés;145 IMPASSE DU LIBAN;83 200;TOULON;Oui;277;Top; 52 117,30 € ;Non;2;Oui;Oui;Oui;Non;14,25;Oui
+1001009;richard;MEDARD;richard.medard@neuf.fr;06/01/2000;H;;21 AVENUE DES MESANGES;83 160;LA VALETTE DU VAR;Oui;17;Fidèle; 26 281,40 € ;Non;0;Oui;Oui;Oui;Non;14,95;Oui
+1001010;christian;PROVOT;christian.provot@clubinternet.fr;30/06/2000;H;Cadre moyen / Enseignants;80 AVENUE DE LA VALERANE;83 320;CARQUEIRANNE;Oui;234;Occassionel; 25 683,40 € ;Non;2;Oui;Oui;Oui;Non;14,47;Non
+1001011; ;BARIL;baril@gmail.com;02/08/2000;H;Autres;43 CHEMIN DU BELVEDRE DU;83 420;CARQUEIRANNE;Oui;142;Top; 11 920,70 € ;Non;1;Non;Oui;Oui;Non;14,38;Non
+1001012;jean-pierre;GAUBERT;jean-pierre.gaubert@wanadoo.fr;26/04/2000;F;Cadre moyen / Enseignants;178 ALLEE DES LAURIERS;83 220;LE PRADET;Oui;27;Occassionel; 30 658,70 € ;Oui;0;Non;Oui;Oui;Non;14,65;Non
+1001013;jacqueline;BIALOT; ;30/12/2000;H;Cadre superieur / dirigeant;80 RUE BARON BOUVIER;70 000;VESOUL;Oui;162;Top; 36 646,40 € ;Non;1;Non;Oui;Oui;Non;13,97;Oui
+1001014;patrice;LANIER;patrice.lanier@free.fr;17/01/2000;F;Profession Liberale;16 RUE DES ESCOURRIEU;83 390;CUERS;Oui;237;Occassionel; 30 760,40 € ;Non;2;Oui;Non;Oui;Non;14,92;Oui
+1001015;adam;MARTEL;adam.martel@neuf.fr;31/05/2000;H;Cadre moyen / Enseignants;IMPASSE DU HOUX;83 230;BORMES LES MIMOSAS;Oui;156;Fidèle; 16 109,90 € ;Non;2;Oui;Oui;Oui;Non;14,55;Non
+1001016;jacques;HOSS;jacques.hoss@neuf.fr;09/08/2000;F;Profession Liberale;PLACE DE L ORATOIRE;83 400;HYERES;Oui;173;Occassionel; 18 036,70 € ;Oui;0;Oui;Oui;Non;Non;14,36;Non
+1001017;martine;PROTOIS;martine.protois@wanadoo.fr;17/07/2000;F;Profession Liberale;42 ALLEE DES MARGUERITES;83 160;LA VALETTE DU VAR;Oui;158;Fidèle; 42 628,30 € ;Non;0;Oui;Oui;Oui;Oui;14,42;Non
+1001018;pierre;AGUITON;pierre.aguiton@clubinternet.fr;24/01/2000;F;Cadre moyen / Enseignants;MAS VX COLOMBIER CH DU VX;83 130;LA GARDE;Oui;69;Top; 22 110,10 € ;Non;2;Oui;Oui;Oui;Non;14,90;Non
+1001019; ;BAEHR;baehr@gmail.com;20/07/2000;F;Cadre superieur / dirigeant; ;83 160;LA VALETTE DU VAR;Oui;98;Occassionel; 37 689,10 € ;Non;1;Non;Oui;Oui;Oui;14,41;Oui
+1001020;rene;ROUSSILLE;rene.roussille@free.fr;11/02/2000;F;Cadre superieur / dirigeant; ;83 200;TOULON;Non;185;Top; 23 171,80 € ;Non;2;Non;Oui;Non;Non;14,85;Non
+1001021;bernard;ELIE; ;28/11/2000;F;Profession Liberale;19 TRAVERSE DE LA MESANGE;83 260;LA CRAU;Oui;248;Nouveau; 21 951,30 € ;Non;0;Oui;Oui;Oui;Oui;14,06;Non
+1001022; ;AUBERGER;auberger@gmail.com;02/05/2000;H;Autres;CHEMIN DE LA CALABRO;83 160;LA VALETTE DU VAR;Oui;236;Top; 38 103,40 € ;Non;2;Oui;Oui;Oui;Non;14,63;Oui
+1001023;claude;VERDIER;claude.verdier@neuf.fr;19/06/2000;F;Cadre moyen / Enseignants;VILLA LES HORTENCIAS;83 000;TOULON;Oui;114;Fidèle; 22 882,90 € ;Oui;0;Oui;Non;Non;Oui;14,50;Oui
