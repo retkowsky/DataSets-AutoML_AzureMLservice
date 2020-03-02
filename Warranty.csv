@@ -1,0 +1,698 @@
+ProductCategory,ProductType,ProductGroup,SalesMethod,Country,City,StaffName,Position,ReasonDescription,ReturnedDate,ReturnQuantity,Province
+Active Health,First Aid,Aloe Relief,Store,Netherlands,Amsterdam,Belinda Jansen-Velasquez,Level 1 Sales Representative,Incomplete product,2011-08-12,2,Aberdeen
+Active Health,First Aid,Aloe Relief,Web,Austria,Wien,Willi Seefelder,Level 2 Sales Representative,Defective product,2009-11-04,4,Aberdeenshire
+Active Health,First Aid,Aloe Relief,Web,United Kingdom,London,James Ross-Hythe,Level 3 Sales Representative,Defective product,2009-04-02,8,Anglesey
+Active Health,First Aid,Calamine Relief,Store,United States,Boston,Allisia Wilcox,Level 2 Sales Representative,Incomplete product,2010-08-21,2,Angus
+Active Health,First Aid,Compact Relief Kit,Store,United States,Seattle,Ashley McCormick,Level 2 Sales Representative,Incomplete product,2009-08-24,2,Antrim
+Active Health,First Aid,Deluxe Family Relief Kit,Store,Netherlands,Amsterdam,Belinda Jansen-Velasquez,Level 1 Sales Representative,Incomplete product,2009-06-18,2,Ards
+Active Health,First Aid,Deluxe Family Relief Kit,Store,United Kingdom,London,Humphrey Willoughby,Level 2 Sales Representative,Unsatisfactory product,2010-04-07,16,Argyll and Bute
+Active Health,Insect Repellents,BugShield Extreme,Store,Canada,Toronto,Carole Claudel,Level 2 Sales Representative,Defective product,2011-08-18,8,Armagh
+Active Health,Insect Repellents,BugShield Lotion,Catalog,Netherlands,Amsterdam,Jan Haverkamp,Level 2 Sales Representative,Incomplete product,2011-08-16,2,Ballymena
+Active Health,Insect Repellents,BugShield Lotion,Store,China,Shanghai,Xiangyong Wang,Level 2 Sales Representative,Unsatisfactory product,2009-06-09,136,Ballymoney
+Active Health,Insect Repellents,BugShield Lotion,Store,Mexico,Distrito Federal,Gabriela Rojas,Level 2 Sales Representative,Incomplete product,2009-04-29,2,Banbridge
+Active Health,Insect Repellents,BugShield Lotion,Web,Sweden,Kista,Irene Engelbrektsson,Level 2 Sales Representative,Wrong product shipped,2009-09-09,54,Barking and Dagenham
+Active Health,Insect Repellents,BugShield Lotion Lite,Store,United Kingdom,Birmingham,Janet Walker,Level 3 Sales Representative,Wrong product ordered,2010-07-20,260,Barnet
+Active Health,Insect Repellents,BugShield Natural,Store,South Korea,Seoul,Jung-ho Choi,Level 3 Sales Representative,Incomplete product,2009-12-14,6,Barnsley
+Active Health,Insect Repellents,BugShield Natural,Web,Netherlands,Amsterdam,Jan Haverkamp,Level 2 Sales Representative,Defective product,2010-11-22,6,Bath and North East Somerset
+Active Health,Insect Repellents,BugShield Spray,Store,Australia,Melbourne,Dave Smythe,Level 1 Sales Representative,Defective product,2011-11-07,2,Bedford
+Active Health,Insect Repellents,BugShield Spray,Store,Italy,Milano,Alessandra Torta,Level 3 Sales Representative,Incomplete product,2010-08-05,12,Belfast
+Active Health,Sunscreen,Sun Blocker,Store,Taiwan,San Chung,Kwei-Ping  Kao ,Level 2 Sales Representative,Defective product,2009-07-10,8,Bexley
+Active Health,Sunscreen,Sun Shelter 15,Store,Sweden,Kista,Anders Nilsson,Level 2 Sales Representative,Defective product,2009-08-28,6,Birmingham
+Active Health,Sunscreen,Sun Shelter 30,Store,Finland,Kuopio,Tuomas Savolainen,Level 2 Sales Representative,Incomplete product,2011-08-16,8,Blackburn with Darwen
+Active Health,Sunscreen,Sun Shelter 30,Store,United Kingdom,Birmingham,Josef Lopez,Level 1 Sales Representative,Defective product,2010-07-16,2,Blackpool
+Active Health,Sunscreen,Sun Shelter 30,Store,United States,Los Angeles,Margaret Lewiston,Level 2 Sales Representative,Wrong product ordered,2011-11-23,56,Blaenau Gwent
+Active Health,Sunscreen,Sun Shelter Stick,Catalog,Italy,Milano,Silvano Allessori,Level 2 Sales Representative,Incomplete product,2011-10-24,4,Bolton
+Active Health,Sunscreen,Sun Shelter Stick,Web,Italy,Milano,Alessandra Torta,Level 3 Sales Representative,Defective product,2011-11-01,2,Bournemouth
+Active Health,Sunscreen,Sun Shield,Web,Italy,Milano,Silvano Allessori,Level 2 Sales Representative,Unsatisfactory product,2011-04-25,116,Bracknell Forest
+Exercise,Cardio Equipment,Elipticals,Web,Spain,Bilbao,Yolanda Torres,Level 3 Sales Representative,Defective product,2010-12-14,6,Bradford
+Exercise,Cardio Equipment,Exercise Bikes,Catalog,Austria,Wien,Willi Seefelder,Level 2 Sales Representative,Incomplete product,2010-10-25,2,Brent
+Exercise,Cardio Equipment,Exercise Bikes,Store,Brazil,São Paulo,Eduardo Guimarães,Level 2 Sales Representative,Defective product,2011-12-23,2,Bridgend
+Exercise,Cardio Equipment,Exercise Bikes,Store,Germany,München,Björn Winkler,Level 3 Sales Representative,Defective product,2011-04-20,12,Brighton and Hove
+Exercise,Cardio Equipment,Exercise Bikes,Store,Switzerland,Zürich,Gianni Vertemati,Level 1 Sales Representative,Incomplete product,2011-11-01,4,Bristol
+Exercise,Cardio Equipment,Exercise Bikes,Store,United States,Seattle,Audrey Lastman,Level 3 Sales Representative,Incomplete product,2011-05-03,4,Bromley
+Exercise,Cardio Equipment,Rowers,Web,Belgium,Heverlee,Giele Laermans,Level 1 Sales Representative,Incomplete product,2010-11-07,2,Buckinghamshire
+Exercise,Cardio Equipment,Treadmills,Store,Canada,Calgary,Harold Townsend,Level 3 Sales Representative,Incomplete product,2011-10-26,4,Bury
+Exercise,Cardio Equipment,Treadmills,Web,Sweden,Kista,Anders Nilsson,Level 2 Sales Representative,Wrong product ordered,2011-02-07,20,Caerphilly
+Exercise,Fitness Accessories,Fitness Balls,Store,Switzerland,Zürich,Frank Jever,Level 3 Sales Representative,Incomplete product,2011-10-23,8,Calderdale
+Exercise,Fitness Accessories,Fitness Electronics,Store,Finland,Kuopio,Helena Lindholm,Level 3 Sales Representative,Wrong product shipped,2010-05-26,50,Cambridgeshire
+Exercise,Fitness Accessories,Fitness Electronics,Store,Netherlands,Amsterdam,Ellen Shapiro,Level 2 Sales Representative,Wrong product ordered,2010-08-23,52,Camden
+Exercise,Fitness Accessories,Fitness Electronics,Store,Netherlands,Amsterdam,Maria Laponder,Level 3 Sales Representative,Unsatisfactory product,2010-05-14,104,Cardiff
+Exercise,Fitness Accessories,Fitness Electronics,Store,United Kingdom,Birmingham,Janet Walker,Level 3 Sales Representative,Defective product,2010-10-29,6,Carmarthenshire
+Exercise,Fitness Accessories,Fitness Electronics,Web,Belgium,Heverlee,Yvette Lattrez,Level 3 Sales Representative,Incomplete product,2011-11-24,8,Carrickfergus
+Exercise,Fitness Accessories,Fitness Electronics,Web,France,Lyon,Frédéric Samson,Level 3 Sales Representative,Incomplete product,2011-05-12,8,Castlereagh
+Exercise,Fitness Accessories,Fitness Electronics,Web,Italy,Milano,Alessandra Torta,Level 3 Sales Representative,Wrong product ordered,2010-10-28,84,Central Bedfordshire
+Exercise,Fitness Accessories,Fitness Electronics,Web,United States,Seattle,Audrey Lastman,Level 3 Sales Representative,Unsatisfactory product,2011-06-09,52,Ceredigion
+Exercise,Fitness Accessories,Fitness Electronics,Web,United States,Seattle,Bart Scott,Level 2 Sales Representative,Wrong product shipped,2011-04-24,66,Cheshire East
+Exercise,Fitness Accessories,Jump Ropes,Store,Australia,Melbourne,Donald Ward,Level 2 Sales Representative,Unsatisfactory product,2011-05-08,30,Cheshire West and Chester
+Exercise,Fitness Accessories,Jump Ropes,Store,Belgium,Heverlee,Yvette Lattrez,Level 3 Sales Representative,Defective product,2011-08-10,4,City
+Exercise,Fitness Accessories,Jump Ropes,Store,Canada,Calgary,Martine Vachon,Level 2 Sales Representative,Unsatisfactory product,2011-04-18,66,Clackmannanshire
+Exercise,Fitness Accessories,Jump Ropes,Store,Italy,Milano,Alessandra Torta,Level 3 Sales Representative,Wrong product shipped,2010-07-29,20,Coleraine
+Exercise,Fitness Accessories,Jump Ropes,Store,Italy,Milano,Silvano Allessori,Level 2 Sales Representative,Incomplete product,2010-08-31,2,Conwy
+Exercise,Fitness Accessories,Jump Ropes,Store,Italy,Milano,Silvano Allessori,Level 2 Sales Representative,Wrong product shipped,2010-08-31,20,Cookstown
+Exercise,Fitness Accessories,Jump Ropes,Store,United States,Seattle,Bart Scott,Level 2 Sales Representative,Unsatisfactory product,2011-10-24,12,Cornwall
+Exercise,Fitness Accessories,Jump Ropes,Web,Finland,Kuopio,Helena Lindholm,Level 3 Sales Representative,Defective product,2010-10-02,4,Coventry
+Exercise,Fitness Accessories,Jump Ropes,Web,Spain,Bilbao,Yolanda Torres,Level 3 Sales Representative,Incomplete product,2011-10-17,4,Craigavon
+Exercise,Fitness Accessories,Jump Ropes,Web,United Kingdom,London,James Ross-Hythe,Level 3 Sales Representative,Defective product,2011-01-02,2,Croydon
+Exercise,Fitness Accessories,Mats,Web,Mexico,Distrito Federal,Ana Orozco,Level 2 Sales Representative,Defective product,2010-05-11,2,Cumbria
+Exercise,Fitness Accessories,Medicine Balls,Store,Germany,München,Björn Winkler,Level 3 Sales Representative,Defective product,2011-09-12,4,Darlington
+Exercise,Fitness Accessories,Medicine Balls,Web,Canada,Toronto,Brendon Pike,Level 1 Sales Representative,Incomplete product,2011-01-14,2,Denbighshire
+Exercise,Fitness Accessories,Resistance Bands,Store,Canada,Toronto,Samantha Pierce,Level 2 Sales Representative,Incomplete product,2010-04-15,2,Derby
+Exercise,Fitness Accessories,Resistance Bands,Store,Sweden,Kista,Anders Nilsson,Level 2 Sales Representative,Wrong product ordered,2011-06-25,30,Derbyshire
+Exercise,Fitness Accessories,Resistance Bands,Store,United Kingdom,Birmingham,Janet Walker,Level 3 Sales Representative,Unsatisfactory product,2010-04-06,58,Derry
+Exercise,Fitness Accessories,Videos/DVDs,Store,Australia,Melbourne,Donald Ward,Level 2 Sales Representative,Incomplete product,2011-12-30,2,Devon
+Exercise,Fitness Accessories,Videos/DVDs,Store,Belgium,Heverlee,François De Crée,Level 1 Sales Representative,Defective product,2010-07-04,2,Doncaster
+Exercise,Fitness Accessories,Videos/DVDs,Store,Belgium,Heverlee,François De Crée,Level 1 Sales Representative,Incomplete product,2010-10-26,2,Dorset
+Exercise,Fitness Accessories,Videos/DVDs,Store,Canada,Toronto,Carole Claudel,Level 2 Sales Representative,Incomplete product,2011-06-07,4,Down
+Exercise,Fitness Accessories,Videos/DVDs,Store,Italy,Milano,Alessandra Torta,Level 3 Sales Representative,Wrong product ordered,2010-06-13,16,Dudley
+Exercise,Fitness Accessories,Videos/DVDs,Store,Italy,Milano,Silvano Allessori,Level 2 Sales Representative,Unsatisfactory product,2010-09-09,38,Dumfries and Galloway
+Exercise,Fitness Accessories,Videos/DVDs,Store,Spain,Bilbao,Yolanda Torres,Level 3 Sales Representative,Defective product,2011-07-14,6,Dundee
+Exercise,Fitness Accessories,Videos/DVDs,Store,Sweden,Kista,Bengt Gradin,Level 1 Sales Representative,Defective product,2010-11-07,6,Dungannon
+Exercise,Fitness Accessories,Videos/DVDs,Store,Sweden,Kista,Bengt Gradin,Level 1 Sales Representative,Wrong product shipped,2010-09-17,12,Durham
+Exercise,Fitness Accessories,Videos/DVDs,Store,United Kingdom,Birmingham,Emily Browne,Level 2 Sales Representative,Incomplete product,2010-08-03,2,Ealing
+Exercise,Fitness Accessories,Videos/DVDs,Store,United States,Boston,Rhonda Cummings,Level 2 Sales Representative,Defective product,2011-01-24,2,East Ayrshire
+Exercise,Fitness Accessories,Videos/DVDs,Web,Switzerland,Zürich,Frank Jever,Level 3 Sales Representative,Unsatisfactory product,2011-08-18,44,East Dunbartonshire
+Exercise,Fitness Accessories,Videos/DVDs,Web,Switzerland,Zürich,Gianni Vertemati,Level 1 Sales Representative,Unsatisfactory product,2010-03-26,30,East Lothian
+Exercise,Fitness Accessories,Videos/DVDs,Web,United Kingdom,London,James Ross-Hythe,Level 3 Sales Representative,Wrong product ordered,2010-04-22,44,East Renfrewshire
+Exercise,Fitness Accessories,Videos/DVDs,Web,United States,Los Angeles,Valerie Cohen,Level 2 Sales Representative,Unsatisfactory product,2010-10-23,18,East Riding of Yorkshire
+Exercise,Running,Kid's Running Apparel,Store,Finland,Kuopio,Helena Lindholm,Level 3 Sales Representative,Defective product,2011-11-14,2,East Sussex
+Exercise,Running,Kid's Running Apparel,Web,Sweden,Kista,Anders Nilsson,Level 2 Sales Representative,Incomplete product,2010-09-23,2,Edinburgh
+Exercise,Running,Kid's Running Shoes,Catalog,Netherlands,Amsterdam,Belinda Jansen-Velasquez,Level 1 Sales Representative,Incomplete product,2010-07-29,2,Eilean Siar
+Exercise,Running,Kid's Running Shoes,Store,Australia,Melbourne,John Sinden,Level 3 Sales Representative,Wrong product shipped,2011-07-06,12,Enfield
+Exercise,Running,Kid's Running Shoes,Store,Brazil,São Paulo,Eduardo Guimarães,Level 2 Sales Representative,Defective product,2011-01-27,6,Essex
+Exercise,Running,Kid's Running Shoes,Store,Germany,München,Björn Winkler,Level 3 Sales Representative,Defective product,2011-04-26,6,Falkirk
+Exercise,Running,Kid's Running Shoes,Store,United States,Los Angeles,Lowell Johnson,Level 2 Sales Representative,Defective product,2011-08-03,4,Fermanagh
+Exercise,Running,Kid's Running Shoes,Web,Australia,Melbourne,Dave Smythe,Level 1 Sales Representative,Unsatisfactory product,2010-02-03,10,Fife
+Exercise,Running,Kid's Running Shoes,Web,United States,Seattle,Ashley McCormick,Level 2 Sales Representative,Wrong product shipped,2010-12-17,4,Flintshire
+Exercise,Running,Men's Running Apparel,Store,Australia,Melbourne,Donald Ward,Level 2 Sales Representative,Incomplete product,2010-11-29,2,Gateshead
+Exercise,Running,Men's Running Apparel,Store,Austria,Wien,Sabine Grüner,Level 3 Sales Representative,Defective product,2011-07-15,4,Glasgow
+Exercise,Running,Men's Running Apparel,Store,Japan,Osaka City,Masuzo Kakui,Level 3 Sales Representative,Incomplete product,2011-09-26,4,Gloucestershire
+Exercise,Running,Men's Running Apparel,Store,Sweden,Kista,Anders Nilsson,Level 2 Sales Representative,Defective product,2010-07-29,2,Greenwich
+Exercise,Running,Men's Running Apparel,Store,United Kingdom,London,James Ross-Hythe,Level 3 Sales Representative,Incomplete product,2011-11-04,4,Gwynedd
+Exercise,Running,Men's Running Apparel,Web,Brazil,São Paulo,Eduardo Guimarães,Level 2 Sales Representative,Defective product,2011-09-25,4,Hackney
+Exercise,Running,Men's Running Apparel,Web,France,Paris,Étienne Jauvin,Level 2 Sales Representative,Unsatisfactory product,2011-04-10,68,Halton
+Exercise,Running,Men's Running Apparel,Web,Germany,Hamburg,Gunter Erler,Level 2 Sales Representative,Defective product,2011-05-27,4,Hammersmith and Fulham
+Exercise,Running,Men's Running Apparel,Web,Mexico,Distrito Federal,Gabriela Rojas,Level 2 Sales Representative,Unsatisfactory product,2010-04-15,8,Hampshire
+Exercise,Running,Men's Running Apparel,Web,Netherlands,Amsterdam,Jan Haverkamp,Level 2 Sales Representative,Incomplete product,2010-07-17,2,Haringey
+Exercise,Running,Men's Running Apparel,Web,United Kingdom,London,James Ross-Hythe,Level 3 Sales Representative,Defective product,2011-01-08,4,Harrow
+Exercise,Running,Men's Running Apparel,Web,United States,Los Angeles,Margaret Lewiston,Level 2 Sales Representative,Defective product,2010-09-04,4,Hartlepool
+Exercise,Running,Men's Running Shoes,Store,Canada,Toronto,Samantha Pierce,Level 2 Sales Representative,Defective product,2011-08-08,4,Havering
+Exercise,Running,Men's Running Shoes,Store,Finland,Kuopio,Helena Lindholm,Level 3 Sales Representative,Incomplete product,2010-11-09,4,Herefordshire
+Exercise,Running,Men's Running Shoes,Store,Finland,Kuopio,Helena Lindholm,Level 3 Sales Representative,Wrong product ordered,2011-10-01,84,Hertfordshire
+Exercise,Running,Men's Running Shoes,Store,United States,Los Angeles,Margaret Lewiston,Level 2 Sales Representative,Unsatisfactory product,2010-10-22,16,Highland
+Exercise,Running,Men's Running Shoes,Store,United States,Los Angeles,Margaret Lewiston,Level 2 Sales Representative,Unsatisfactory product,2011-12-23,12,Hillingdon
+Exercise,Running,Men's Running Shoes,Web,Austria,Wien,Sabine Grüner,Level 3 Sales Representative,Unsatisfactory product,2011-06-04,24,Hounslow
+Exercise,Running,Men's Running Shoes,Web,Italy,Milano,Silvano Allessori,Level 2 Sales Representative,Wrong product ordered,2011-09-26,24,Inverclyde
+Exercise,Running,Men's Running Shoes,Web,United States,Boston,Rhonda Cummings,Level 2 Sales Representative,Defective product,2010-04-26,19,Isle of Wight
+Exercise,Running,Men's Running Shoes,Web,United States,Boston,Rhonda Cummings,Level 2 Sales Representative,Unsatisfactory product,2010-04-17,3,Isles of Scilly
+Exercise,Running,Men's Running Shoes,Web,United States,Boston,Rhonda Cummings,Level 2 Sales Representative,Unsatisfactory product,2010-05-05,4,Islington
+Exercise,Running,Women's Running Apparel,Store,Australia,Melbourne,Donald Ward,Level 2 Sales Representative,Defective product,2010-12-12,2,Kensington and Chelsea
+Exercise,Running,Women's Running Apparel,Store,Austria,Wien,Sabine Grüner,Level 3 Sales Representative,Incomplete product,2011-12-03,6,Kent
+Exercise,Running,Women's Running Apparel,Store,Finland,Kuopio,Helena Lindholm,Level 3 Sales Representative,Incomplete product,2011-04-03,10,Kingston upon Hull
+Exercise,Running,Women's Running Apparel,Store,France,Lyon,Daniel Turpin,Level 2 Sales Representative,Defective product,2011-05-16,6,Kingston upon Thames
+Exercise,Running,Women's Running Apparel,Store,Sweden,Kista,Anders Nilsson,Level 2 Sales Representative,Defective product,2011-03-10,6,Kirklees
+Exercise,Running,Women's Running Apparel,Store,Sweden,Kista,Irene Engelbrektsson,Level 2 Sales Representative,Wrong product ordered,2010-10-02,42,Knowsley
+Exercise,Running,Women's Running Apparel,Web,Germany,München,Björn Winkler,Level 3 Sales Representative,Defective product,2011-02-20,6,Lambeth
+Exercise,Running,Women's Running Apparel,Web,Italy,Milano,Silvano Allessori,Level 2 Sales Representative,Incomplete product,2011-11-21,4,Lancashire
+Exercise,Running,Women's Running Apparel,Web,Netherlands,Amsterdam,Ellen Shapiro,Level 2 Sales Representative,Defective product,2010-05-04,4,Larne
+Exercise,Running,Women's Running Apparel,Web,United States,Seattle,Audrey Lastman,Level 3 Sales Representative,Incomplete product,2011-07-27,4,Leeds
+Exercise,Running,Women's Running Shoes,Store,Belgium,Heverlee,Yvette Lattrez,Level 3 Sales Representative,Unsatisfactory product,2011-08-31,28,Leicester
+Exercise,Running,Women's Running Shoes,Store,Italy,Milano,Silvano Allessori,Level 2 Sales Representative,Defective product,2011-02-18,2,Leicestershire
+Exercise,Running,Women's Running Shoes,Store,Netherlands,Amsterdam,Belinda Jansen-Velasquez,Level 1 Sales Representative,Incomplete product,2011-08-23,4,Lewisham
+Exercise,Running,Women's Running Shoes,Store,Netherlands,Amsterdam,Maria Laponder,Level 3 Sales Representative,Unsatisfactory product,2011-10-26,28,Limavady
+Exercise,Running,Women's Running Shoes,Store,Sweden,Kista,Bengt Gradin,Level 1 Sales Representative,Incomplete product,2011-09-09,4,Lincolnshire
+Exercise,Running,Women's Running Shoes,Web,Brazil,São Paulo,Eduardo Guimarães,Level 2 Sales Representative,Incomplete product,2010-11-19,10,Lisburn
+Exercise,Running,Women's Running Shoes,Web,Finland,Kuopio,Helena Lindholm,Level 3 Sales Representative,Unsatisfactory product,2010-04-20,68,Liverpool
+Exercise,Weight Training,Cross Fitness Training,Store,Italy,Milano,Alessandra Torta,Level 3 Sales Representative,Defective product,2010-05-09,2,Luton
+Exercise,Weight Training,Cross Fitness Training,Store,Italy,Milano,Silvano Allessori,Level 2 Sales Representative,Unsatisfactory product,2010-08-31,14,Magherafelt
+Exercise,Weight Training,Cross Fitness Training,Web,France,Lyon,Daniel Turpin,Level 2 Sales Representative,Unsatisfactory product,2011-05-07,32,Manchester
+Exercise,Weight Training,Home Gym Equipment,Store,Australia,Melbourne,Dave Smythe,Level 1 Sales Representative,Defective product,2010-06-06,2,Medway
+Exercise,Weight Training,Home Gym Equipment,Store,Canada,Toronto,Donald Chow,Level 3 Sales Representative,Defective product,2010-03-10,2,Merseyside
+Exercise,Weight Training,Home Gym Equipment,Store,Sweden,Kista,Anders Nilsson,Level 2 Sales Representative,Defective product,2011-02-08,4,Merthyr Tydfil
+Exercise,Weight Training,Home Gym Equipment,Store,United States,Los Angeles,Valerie Cohen,Level 2 Sales Representative,Unsatisfactory product,2010-10-20,20,Merton
+Exercise,Weight Training,Home Gym Equipment,Web,France,Paris,Élizabeth Michel,Level 3 Sales Representative,Unsatisfactory product,2011-03-25,60,Middlesbrough
+Exercise,Weight Training,Home Gym Equipment,Web,United Kingdom,London,James Ross-Hythe,Level 3 Sales Representative,Defective product,2010-08-10,2,Midlothian
+Exercise,Weight Training,Weights,Store,Austria,Wien,Sabine Grüner,Level 3 Sales Representative,Unsatisfactory product,2010-10-14,12,Milton Keynes
+Golf Equipment,Golf Accessories,Course Pro Gloves,Store,Austria,Wien,Sabine Grüner,Level 3 Sales Representative,Defective product,2009-11-21,2,Monmouthshire
+Golf Equipment,Golf Accessories,Course Pro Gloves,Store,Canada,Toronto,Samantha Pierce,Level 2 Sales Representative,Unsatisfactory product,2010-07-06,50,Moray
+Golf Equipment,Golf Accessories,Course Pro Gloves,Store,Netherlands,Amsterdam,Maria Laponder,Level 3 Sales Representative,Wrong product ordered,2010-06-24,68,Moyle
+Golf Equipment,Golf Accessories,Course Pro Gloves,Store,United States,Boston,Pierre Lavoie,Level 3 Sales Representative,Defective product,2011-07-15,2,Neath Port Talbot
+Golf Equipment,Golf Accessories,Course Pro Gloves,Store,United States,Los Angeles,Margaret Lewiston,Level 2 Sales Representative,Wrong product shipped,2009-12-07,32,Newcastle upon Tyne
+Golf Equipment,Golf Accessories,Course Pro Golf and Tee Set,Store,Brazil,São Paulo,Eduardo Guimarães,Level 2 Sales Representative,Wrong product ordered,2009-09-25,82,Newham
+Golf Equipment,Golf Accessories,Course Pro Golf and Tee Set,Store,France,Paris,Élizabeth Michel,Level 3 Sales Representative,Incomplete product,2011-08-17,2,Newport
+Golf Equipment,Golf Accessories,Course Pro Golf Bag,Web,France,Lyon,Frédéric Samson,Level 3 Sales Representative,Unsatisfactory product,2011-04-12,6,Newry and Mourne
+Golf Equipment,Golf Accessories,Course Pro Umbrella,Web,China,Shanghai,Xiangyong Wang,Level 2 Sales Representative,Incomplete product,2011-10-10,4,Newtownabbey
+Golf Equipment,Golf Accessories,Course Pro Umbrella,Web,Spain,Bilbao,Yolanda Torres,Level 3 Sales Representative,Defective product,2010-09-06,4,Norfolk
+Golf Equipment,Irons,Hailstorm Steel Irons,Store,United Kingdom,Birmingham,Janet Walker,Level 3 Sales Representative,Defective product,2011-07-25,2,North Ayshire
+Golf Equipment,Irons,Hailstorm Steel Irons,Web,France,Lyon,Daniel Turpin,Level 2 Sales Representative,Unsatisfactory product,2010-10-30,32,North Down
+Golf Equipment,Irons,Hailstorm Steel Irons,Web,Sweden,Kista,Anders Nilsson,Level 2 Sales Representative,Unsatisfactory product,2011-09-16,2,North East Lincolnshire
+Golf Equipment,Irons,Hailstorm Titanium Irons,Store,Canada,Toronto,Brendon Pike,Level 1 Sales Representative,Incomplete product,2011-12-30,4,North Lanarkshire
+Golf Equipment,Irons,Hailstorm Titanium Irons,Store,Japan,Osaka City,Masuzo Kakui,Level 3 Sales Representative,Wrong product shipped,2011-07-05,18,North Lincolnshire
+Golf Equipment,Irons,Hailstorm Titanium Irons,Store,United States,Boston,Pierre Lavoie,Level 3 Sales Representative,Incomplete product,2010-07-18,2,North Somerset
+Golf Equipment,Irons,Lady Hailstorm Steel Irons,Store,China,Shanghai,Xiangyong Wang,Level 2 Sales Representative,Wrong product ordered,2010-02-01,4,North Tyneside
+Golf Equipment,Irons,Lady Hailstorm Titanium Irons,Store,Netherlands,Amsterdam,Maria Laponder,Level 3 Sales Representative,Wrong product shipped,2009-09-28,4,North Yorkshire
+Golf Equipment,Putters,Blue Steel Max Putter,Store,Spain,Bilbao,Yolanda Torres,Level 3 Sales Representative,Wrong product shipped,2010-12-19,6,Northamptonshire
+Golf Equipment,Putters,Blue Steel Putter,Store,Canada,Toronto,Carole Claudel,Level 2 Sales Representative,Wrong product ordered,2010-12-15,34,Northumberland
+Golf Equipment,Putters,Blue Steel Putter,Store,China,Shanghai,Fei Meng,Level 3 Sales Representative,Incomplete product,2009-02-11,2,Nottingham
+Golf Equipment,Putters,Blue Steel Putter,Store,United States,Miami,Ken Chambers,Level 2 Sales Representative,Wrong product shipped,2009-07-22,12,Nottinghamshire
+Golf Equipment,Putters,Course Pro Putter,Catalog,Australia,Melbourne,John Sinden,Level 3 Sales Representative,Wrong product ordered,2010-10-23,16,Oldham
+Golf Equipment,Putters,Course Pro Putter,Store,United Kingdom,Birmingham,Josef Lopez,Level 1 Sales Representative,Defective product,2011-01-01,2,Omagh
+Golf Equipment,Woods,Hailstorm Titanium Woods Set,Catalog,Italy,Milano,Silvano Allessori,Level 2 Sales Representative,Wrong product ordered,2010-12-29,70,Orkney
+Golf Equipment,Woods,Hailstorm Titanium Woods Set,Store,France,Lyon,Frédéric Samson,Level 3 Sales Representative,Defective product,2009-05-20,2,Oxfordshire
+Golf Equipment,Woods,Hailstorm Titanium Woods Set,Store,Switzerland,Zürich,Susanne Sommer,Level 2 Sales Representative,Defective product,2011-04-22,2,Pembrokeshire
+Golf Equipment,Woods,Hailstorm Titanium Woods Set,Web,France,Lyon,Frédéric Samson,Level 3 Sales Representative,Unsatisfactory product,2011-04-23,12,Perthshire and Kinross
+Golf Equipment,Woods,Lady Hailstorm Steel Woods Set,Store,Mexico,Distrito Federal,Gabriela Rojas,Level 2 Sales Representative,Wrong product ordered,2011-10-20,2,Peterborough
+Golf Equipment,Woods,Lady Hailstorm Steel Woods Set,Store,United Kingdom,London,Humphrey Willoughby,Level 2 Sales Representative,Unsatisfactory product,2009-07-25,2,Plymouth
+Golf Equipment,Woods,Lady Hailstorm Titanium Woods Set,Catalog,Germany,Hamburg,Gunter Erler,Level 2 Sales Representative,Unsatisfactory product,2011-03-02,6,Poole
+Golf Equipment,Woods,Lady Hailstorm Titanium Woods Set,Store,Germany,München,Björn Winkler,Level 3 Sales Representative,Unsatisfactory product,2009-10-12,6,Portsmouth
+Outdoors,Camping and Hiking,Backpacks,Store,Germany,Hamburg,Gunter Erler,Level 2 Sales Representative,Defective product,2010-04-10,2,Powys
+Outdoors,Camping and Hiking,Backpacks,Store,Sweden,Kista,Bengt Gradin,Level 1 Sales Representative,Unsatisfactory product,2010-11-09,8,Reading
+Outdoors,Camping and Hiking,Backpacks,Web,United States,Miami,Harold Germaine,Level 1 Sales Representative,Unsatisfactory product,2009-11-03,10,Redbridge
+Outdoors,Camping and Hiking,Camping Lighting,Store,Canada,Calgary,Harold Townsend,Level 3 Sales Representative,Defective product,2010-04-26,2,Redcar and Cleveland
+Outdoors,Camping and Hiking,Camping Lighting,Store,Italy,Milano,Alessandra Torta,Level 3 Sales Representative,Unsatisfactory product,2011-12-05,26,Renfrewshire
+Outdoors,Camping and Hiking,Camping Lighting,Web,Belgium,Heverlee,Yvette Lattrez,Level 3 Sales Representative,Unsatisfactory product,2011-12-05,18,Rhondda Cynon Taff
+Outdoors,Camping and Hiking,Camping Lighting,Web,Brazil,São Paulo,Eduardo Guimarães,Level 2 Sales Representative,Unsatisfactory product,2010-10-06,66,Richmond upon Thames
+Outdoors,Camping and Hiking,Camping Lighting,Web,United States,Boston,Eric Carson,Level 2 Sales Representative,Unsatisfactory product,2009-10-29,30,Rochdale
+Outdoors,Camping and Hiking,Camping Lighting,Web,United States,Boston,Pierre Lavoie,Level 3 Sales Representative,Defective product,2010-07-14,2,Rotherham
+Outdoors,Camping and Hiking,Knives and Multi-Tools,Store,Canada,Calgary,Harold Townsend,Level 3 Sales Representative,Incomplete product,2009-07-07,2,Royal Borough of Windsor and Maidenhead
+Outdoors,Camping and Hiking,Knives and Multi-Tools,Store,Sweden,Kista,Irene Engelbrektsson,Level 2 Sales Representative,Incomplete product,2009-11-14,2,Rutland
+Outdoors,Camping and Hiking,Knives and Multi-Tools,Web,France,Lyon,Florence Martin,Level 2 Sales Representative,Defective product,2010-06-05,2,Salford
+Outdoors,Camping and Hiking,Sleeping Bags and Accessories,Catalog,Germany,Hamburg,Elsbeth Wiesinger,Level 2 Sales Representative,Defective product,2011-12-15,8,Sandwell
+Outdoors,Camping and Hiking,Sleeping Bags and Accessories,Store,China,Shanghai,Xiangyong Wang,Level 2 Sales Representative,Defective product,2011-11-04,2,Scottish Borders
+Outdoors,Camping and Hiking,Sleeping Bags and Accessories,Store,France,Paris,Émile Clermont,Level 1 Sales Representative,Defective product,2009-10-20,2,Sefton
+Outdoors,Camping and Hiking,Sleeping Bags and Accessories,Store,Netherlands,Amsterdam,Jan Haverkamp,Level 2 Sales Representative,Incomplete product,2011-07-27,2,Sheffield
+Outdoors,Camping and Hiking,Sleeping Bags and Accessories,Store,Netherlands,Amsterdam,Maria Laponder,Level 3 Sales Representative,Incomplete product,2009-07-11,2,Shetland Islands
+Outdoors,Camping and Hiking,Sleeping Bags and Accessories,Store,Switzerland,Zürich,Susanne Sommer,Level 2 Sales Representative,Incomplete product,2010-06-21,2,Shropshire
+Outdoors,Camping and Hiking,Sleeping Bags and Accessories,Store,United States,Seattle,Ashley McCormick,Level 2 Sales Representative,Unsatisfactory product,2011-05-29,20,Slough
+Outdoors,Camping and Hiking,Sleeping Bags and Accessories,Web,Canada,Toronto,Samantha Pierce,Level 2 Sales Representative,Incomplete product,2009-10-20,2,Solihull
+Outdoors,Camping and Hiking,Sleeping Bags and Accessories,Web,China,Shanghai,Fei Meng,Level 3 Sales Representative,Incomplete product,2011-06-23,2,Somerset
+Outdoors,Camping and Hiking,Sleeping Bags and Accessories,Web,Netherlands,Amsterdam,Maria Laponder,Level 3 Sales Representative,Defective product,2010-10-23,2,South Ayrshire
+Outdoors,Camping and Hiking,Tents and Accessories,Store,Austria,Wien,Willi Seefelder,Level 2 Sales Representative,Incomplete product,2011-12-13,4,South Gloucestershire
+Outdoors,Camping and Hiking,Tents and Accessories,Store,France,Paris,Élizabeth Michel,Level 3 Sales Representative,Defective product,2010-07-16,6,South Lanarkshire
+Outdoors,Camping and Hiking,Tents and Accessories,Store,Sweden,Kista,Irene Engelbrektsson,Level 2 Sales Representative,Wrong product shipped,2010-09-21,32,South Tyneside
+Outdoors,Camping and Hiking,Tents and Accessories,Web,France,Paris,Étienne Jauvin,Level 2 Sales Representative,Incomplete product,2010-11-17,8,Southampton
+Outdoors,Camping and Hiking,Tents and Accessories,Web,Japan,Osaka City,Masuzo Kakui,Level 3 Sales Representative,Incomplete product,2011-04-14,2,Southend-on-Sea
+Outdoors,Camping and Hiking,Tents and Accessories,Web,South Korea,Seoul,Jung-ho Choi,Level 3 Sales Representative,Wrong product ordered,2011-10-31,66,Southwark
+Outdoors,Cycling,Comfort Bikes,Store,Italy,Milano,Alessandra Torta,Level 3 Sales Representative,Defective product,2009-08-22,4,Staffordshire
+Outdoors,Cycling,Comfort Bikes,Store,Italy,Milano,Silvano Allessori,Level 2 Sales Representative,Incomplete product,2009-11-15,4,Stirling
+Outdoors,Cycling,Comfort Bikes,Store,Japan,Osaka City,Masuzo Kakui,Level 3 Sales Representative,Incomplete product,2010-08-05,4,Stockport
+Outdoors,Cycling,Comfort Bikes,Store,Netherlands,Amsterdam,Maria Laponder,Level 3 Sales Representative,Defective product,2010-11-09,8,Stockton-on-Tees
+Outdoors,Cycling,Comfort Bikes,Store,United Kingdom,Birmingham,Janet Walker,Level 3 Sales Representative,Defective product,2011-04-22,6,Stoke-on-Trent
+Outdoors,Cycling,Comfort Bikes,Store,United Kingdom,London,Humphrey Willoughby,Level 2 Sales Representative,Defective product,2011-10-03,14,Strabane
+Outdoors,Cycling,Comfort Bikes,Web,Finland,Kuopio,Tuomas Savolainen,Level 2 Sales Representative,Wrong product ordered,2011-08-26,58,Suffolk
+Outdoors,Cycling,Comfort Bikes,Web,Mexico,Distrito Federal,Gabriela Rojas,Level 2 Sales Representative,Unsatisfactory product,2010-04-02,46,Sunderland
+Outdoors,Cycling,Comfort Bikes,Web,Netherlands,Amsterdam,Jan Haverkamp,Level 2 Sales Representative,Defective product,2010-06-29,4,Surrey
+Outdoors,Cycling,Comfort Bikes,Web,Switzerland,Zürich,Gianni Vertemati,Level 1 Sales Representative,Defective product,2011-10-15,6,Sutton
+Outdoors,Cycling,Comfort Bikes,Web,United Kingdom,Birmingham,Emily Browne,Level 2 Sales Representative,Defective product,2011-07-28,4,Swansea
+Outdoors,Cycling,Comfort Bikes,Web,United States,Los Angeles,Corey Wright,Store Manager,Incomplete product,2011-05-16,2,Swindon
+Outdoors,Cycling,Cruiser Bikes,Catalog,Austria,Wien,Willi Seefelder,Level 2 Sales Representative,Defective product,2009-11-20,2,Tameside
+Outdoors,Cycling,Cruiser Bikes,Store,Italy,Milano,Silvano Allessori,Level 2 Sales Representative,Unsatisfactory product,2009-09-26,62,Telford and Wrekin
+Outdoors,Cycling,Cruiser Bikes,Store,Japan,Osaka City,Masuzo Kakui,Level 3 Sales Representative,Defective product,2010-02-22,2,Thurrock
+Outdoors,Cycling,Cruiser Bikes,Store,Taiwan,San Chung,Kwei-Ping  Kao ,Level 2 Sales Representative,Incomplete product,2010-10-20,2,Torbay
+Outdoors,Cycling,Cruiser Bikes,Store,United Kingdom,Birmingham,Janet Walker,Level 3 Sales Representative,Unsatisfactory product,2010-05-17,98,Torfaen
+Outdoors,Cycling,Cruiser Bikes,Store,United Kingdom,Birmingham,Josef Lopez,Level 1 Sales Representative,Defective product,2009-09-12,4,Tower Hamlets
+Outdoors,Cycling,Cruiser Bikes,Store,United States,Seattle,Ashley McCormick,Level 2 Sales Representative,Defective product,2011-08-19,4,Trafford
+Outdoors,Cycling,Cruiser Bikes,Web,Canada,Calgary,Harold Townsend,Level 3 Sales Representative,Defective product,2010-04-27,2,Vale of Glamorgan
+Outdoors,Cycling,Cruiser Bikes,Web,France,Paris,Étienne Jauvin,Level 2 Sales Representative,Defective product,2010-07-28,2,Wakefield
+Outdoors,Cycling,Cruiser Bikes,Web,Germany,München,Björn Winkler,Level 3 Sales Representative,Defective product,2011-01-04,8,Walsall
+Outdoors,Cycling,Cruiser Bikes,Web,United States,Boston,Eric Carson,Level 2 Sales Representative,Unsatisfactory product,2011-10-21,36,Waltham Forest
+Outdoors,Cycling,Mountain Bikes,Store,Brazil,São Paulo,Eduardo Guimarães,Level 2 Sales Representative,Defective product,2010-12-07,12,Wandsworth
+Outdoors,Cycling,Mountain Bikes,Store,Canada,Calgary,Sherry Rowland,Level 2 Sales Representative,Incomplete product,2009-04-14,6,Warrington
+Outdoors,Cycling,Mountain Bikes,Store,Japan,Osaka City,Masuzo Kakui,Level 3 Sales Representative,Defective product,2009-08-24,2,Warwickshire
+Outdoors,Cycling,Mountain Bikes,Store,Japan,Osaka City,Masuzo Kakui,Level 3 Sales Representative,Unsatisfactory product,2011-07-15,22,West Berkshire
+Outdoors,Cycling,Mountain Bikes,Store,Mexico,Distrito Federal,Ana Orozco,Level 2 Sales Representative,Incomplete product,2011-01-07,2,West Dunbartonshire
+Outdoors,Cycling,Mountain Bikes,Store,Mexico,Distrito Federal,Gabriela Rojas,Level 2 Sales Representative,Incomplete product,2010-05-12,2,West Lothian
+Outdoors,Cycling,Mountain Bikes,Store,United States,Boston,Pierre Lavoie,Level 3 Sales Representative,Incomplete product,2010-08-20,2,West Sussex
+Outdoors,Cycling,Mountain Bikes,Store,United States,Miami,Harold Germaine,Level 1 Sales Representative,Incomplete product,2009-10-16,4,Westminster
+Outdoors,Cycling,Road Bikes,Catalog,United States,Los Angeles,Lowell Johnson,Level 2 Sales Representative,Incomplete product,2010-06-28,2,Wigan
+Outdoors,Cycling,Road Bikes,Store,Brazil,São Paulo,Eduardo Guimarães,Level 2 Sales Representative,Wrong product ordered,2010-06-06,24,Wiltshire
+Outdoors,Cycling,Road Bikes,Store,Japan,Osaka City,Masuzo Kakui,Level 3 Sales Representative,Wrong product ordered,2011-08-24,32,Wirral
+Outdoors,Cycling,Road Bikes,Store,United States,Seattle,Ashley McCormick,Level 2 Sales Representative,Defective product,2009-07-19,2,Wokingham
+Outdoors,Cycling,Youth Bikes,Store,Japan,Osaka City,Masuzo Kakui,Level 3 Sales Representative,Incomplete product,2011-08-15,2,Wolverhampton
+Outdoors,Cycling,Youth Bikes,Web,Canada,Toronto,Donald Chow,Level 3 Sales Representative,Incomplete product,2010-05-15,6,Worcestershire
+Outdoors,Fishing,Baits and Lures,Store,France,Paris,Étienne Jauvin,Level 2 Sales Representative,Wrong product ordered,2010-10-21,106,Wrexham
+Outdoors,Fishing,Baits and Lures,Store,Japan,Tokyo,Genzo Imori,Level 3 Sales Representative,Incomplete product,2011-03-13,2,York
+Outdoors,Fishing,Baits and Lures,Store,Mexico,Distrito Federal,Gabriela Rojas,Level 2 Sales Representative,Wrong product shipped,2009-08-13,24,Aberdeen
+Outdoors,Fishing,Baits and Lures,Store,United Kingdom,London,James Ross-Hythe,Level 3 Sales Representative,Unsatisfactory product,2010-01-12,48,Aberdeenshire
+Outdoors,Fishing,Fishing Apparel,Store,China,Shanghai,Fei Meng,Level 3 Sales Representative,Unsatisfactory product,2011-05-01,68,Anglesey
+Outdoors,Fishing,Fishing Apparel,Store,Germany,München,Björn Winkler,Level 3 Sales Representative,Defective product,2009-08-21,8,Angus
+Outdoors,Fishing,Fishing Apparel,Store,Italy,Milano,Alessandra Torta,Level 3 Sales Representative,Defective product,2010-06-11,6,Antrim
+Outdoors,Fishing,Fishing Apparel,Store,Japan,Tokyo,Genzo Imori,Level 3 Sales Representative,Incomplete product,2011-03-17,2,Ards
+Outdoors,Fishing,Fishing Apparel,Store,Netherlands,Amsterdam,Jan Haverkamp,Level 2 Sales Representative,Unsatisfactory product,2010-07-13,86,Argyll and Bute
+Outdoors,Fishing,Fishing Apparel,Store,United Kingdom,London,Humphrey Willoughby,Level 2 Sales Representative,Defective product,2009-03-06,2,Armagh
+Outdoors,Fishing,Fishing Apparel,Store,United States,Los Angeles,Lowell Johnson,Level 2 Sales Representative,Defective product,2011-01-08,2,Ballymena
+Outdoors,Fishing,Fishing Apparel,Store,United States,Seattle,Ashley McCormick,Level 2 Sales Representative,Incomplete product,2010-01-27,4,Ballymoney
+Outdoors,Fishing,Fishing Apparel,Web,Australia,Melbourne,John Sinden,Level 3 Sales Representative,Incomplete product,2011-06-15,2,Banbridge
+Outdoors,Fishing,Fishing Apparel,Web,France,Lyon,Frédéric Samson,Level 3 Sales Representative,Wrong product shipped,2010-05-20,70,Barking and Dagenham
+Outdoors,Fishing,Fishing Apparel,Web,Japan,Tokyo,Machiko Iseya,Level 1 Sales Representative,Defective product,2010-11-06,4,Barnet
+Outdoors,Fishing,Fishing Apparel,Web,Netherlands,Amsterdam,Maria Laponder,Level 3 Sales Representative,Defective product,2011-12-29,10,Barnsley
+Outdoors,Fishing,Fishing Apparel,Web,Sweden,Kista,Anders Nilsson,Level 2 Sales Representative,Defective product,2010-04-21,4,Bath and North East Somerset
+Outdoors,Fishing,Fishing Electronics,Store,Japan,Osaka City,Masuzo Kakui,Level 3 Sales Representative,Incomplete product,2010-11-28,2,Bedford
+Outdoors,Fishing,Fishing Electronics,Store,Mexico,Distrito Federal,Ana Orozco,Level 2 Sales Representative,Incomplete product,2010-04-29,4,Belfast
+Outdoors,Fishing,Fishing Electronics,Store,United States,Boston,Allisia Wilcox,Level 2 Sales Representative,Incomplete product,2010-11-10,2,Bexley
+Outdoors,Fishing,Fishing Electronics,Store,United States,Seattle,Bart Scott,Level 2 Sales Representative,Defective product,2011-08-21,2,Birmingham
+Outdoors,Fishing,Fishing Electronics,Web,Canada,Calgary,Harold Townsend,Level 3 Sales Representative,Defective product,2011-09-25,2,Blackburn with Darwen
+Outdoors,Fishing,Fishing Electronics,Web,Japan,Osaka City,Masuzo Kakui,Level 3 Sales Representative,Unsatisfactory product,2011-06-16,50,Blackpool
+Outdoors,Fishing,Fishing Electronics,Web,United Kingdom,Birmingham,Janet Walker,Level 3 Sales Representative,Defective product,2009-07-29,4,Blaenau Gwent
+Outdoors,Fishing,Fishing Electronics,Web,United States,Boston,Allisia Wilcox,Level 2 Sales Representative,Defective product,2010-11-12,2,Bolton
+Outdoors,Fishing,Fishing Reels,Catalog,Switzerland,Zürich,Susanne Sommer,Level 2 Sales Representative,Unsatisfactory product,2011-10-23,74,Bournemouth
+Outdoors,Fishing,Fishing Reels,Store,Belgium,Heverlee,Yvette Lattrez,Level 3 Sales Representative,Incomplete product,2011-06-26,2,Bracknell Forest
+Outdoors,Fishing,Fishing Reels,Store,Canada,Toronto,Samantha Pierce,Level 2 Sales Representative,Defective product,2011-08-19,2,Bradford
+Outdoors,Fishing,Fishing Reels,Store,France,Paris,Élizabeth Michel,Level 3 Sales Representative,Incomplete product,2010-08-20,8,Brent
+Outdoors,Fishing,Fishing Reels,Store,Italy,Milano,Alessandra Torta,Level 3 Sales Representative,Defective product,2010-08-19,2,Bridgend
+Outdoors,Fishing,Fishing Reels,Store,Netherlands,Amsterdam,Belinda Jansen-Velasquez,Level 1 Sales Representative,Incomplete product,2009-06-17,2,Brighton and Hove
+Outdoors,Fishing,Fishing Reels,Store,Netherlands,Amsterdam,Maria Laponder,Level 3 Sales Representative,Wrong product ordered,2010-04-24,84,Bristol
+Outdoors,Fishing,Fishing Reels,Store,South Korea,Seoul,Jung-ho Choi,Level 3 Sales Representative,Incomplete product,2011-11-07,4,Bromley
+Outdoors,Fishing,Fishing Reels,Store,United Kingdom,Birmingham,Janet Walker,Level 3 Sales Representative,Defective product,2010-12-12,2,Buckinghamshire
+Outdoors,Fishing,Fishing Reels,Store,United States,Boston,Pierre Lavoie,Level 3 Sales Representative,Defective product,2011-11-02,8,Bury
+Outdoors,Fishing,Fishing Reels,Store,United States,Boston,Pierre Lavoie,Level 3 Sales Representative,Unsatisfactory product,2009-02-08,4,Caerphilly
+Outdoors,Fishing,Fishing Reels,Store,United States,Boston,Pierre Lavoie,Level 3 Sales Representative,Unsatisfactory product,2009-02-12,72,Calderdale
+Outdoors,Fishing,Fishing Reels,Store,United States,Los Angeles,Janice Thomas,Level 1 Sales Representative,Incomplete product,2010-09-22,4,Cambridgeshire
+Outdoors,Fishing,Fishing Reels,Web,Sweden,Kista,Bengt Gradin,Level 1 Sales Representative,Unsatisfactory product,2009-05-03,48,Camden
+Outdoors,Fishing,Fishing Reels,Web,Sweden,Kista,Irene Engelbrektsson,Level 2 Sales Representative,Incomplete product,2010-09-03,2,Cardiff
+Outdoors,Fishing,Fishing Reels,Web,United Kingdom,Birmingham,Janet Walker,Level 3 Sales Representative,Defective product,2010-07-18,2,Carmarthenshire
+Outdoors,Fishing,Fishing Reels,Web,United States,Miami,Chad Michaels,Level 3 Sales Representative,Defective product,2011-09-29,4,Carrickfergus
+Outdoors,Fishing,Fishing Rods,Catalog,Mexico,Distrito Federal,Gabriela Rojas,Level 2 Sales Representative,Defective product,2010-01-01,2,Castlereagh
+Outdoors,Fishing,Fishing Rods,Catalog,Taiwan,San Chung,Kwei-Ping  Kao ,Level 2 Sales Representative,Unsatisfactory product,2009-10-19,30,Central Bedfordshire
+Outdoors,Fishing,Fishing Rods,Store,Brazil,São Paulo,Eduardo Guimarães,Level 2 Sales Representative,Wrong product shipped,2011-03-31,64,Ceredigion
+Outdoors,Fishing,Fishing Rods,Store,Canada,Toronto,Donald Chow,Level 3 Sales Representative,Unsatisfactory product,2011-10-24,32,Cheshire East
+Outdoors,Fishing,Fishing Rods,Store,France,Paris,Élizabeth Michel,Level 3 Sales Representative,Defective product,2010-09-18,2,Cheshire West and Chester
+Outdoors,Fishing,Fishing Rods,Store,Mexico,Distrito Federal,Ana Orozco,Level 2 Sales Representative,Defective product,2011-09-01,2,City
+Outdoors,Fishing,Fishing Rods,Store,Sweden,Kista,Bengt Gradin,Level 1 Sales Representative,Wrong product shipped,2009-09-27,24,Clackmannanshire
+Outdoors,Fishing,Fishing Rods,Store,United Kingdom,London,Humphrey Willoughby,Level 2 Sales Representative,Wrong product shipped,2011-10-23,26,Coleraine
+Outdoors,Fishing,Fishing Rods,Web,France,Paris,Élizabeth Michel,Level 3 Sales Representative,Defective product,2010-11-25,2,Conwy
+Outdoors,Fishing,Fishing Rods,Web,Mexico,Distrito Federal,Ana Orozco,Level 2 Sales Representative,Defective product,2011-12-01,2,Cookstown
+Outdoors,Fishing,Fishing Rods,Web,Mexico,Distrito Federal,Ana Orozco,Level 2 Sales Representative,Unsatisfactory product,2010-10-22,28,Cornwall
+Outdoors,Fishing,Fishing Rods,Web,Switzerland,Zürich,Gianni Vertemati,Level 1 Sales Representative,Incomplete product,2010-05-14,2,Coventry
+Outdoors,Fishing,Fishing Rods,Web,Switzerland,Zürich,Gianni Vertemati,Level 1 Sales Representative,Wrong product ordered,2011-10-10,34,Craigavon
+Outdoors,Fishing,Fishing Rods,Web,United States,Los Angeles,Lowell Johnson,Level 2 Sales Representative,Defective product,2011-06-04,4,Croydon
+Outdoors,Fishing,Fishing Rods,Web,United States,Miami,Chad Michaels,Level 3 Sales Representative,Incomplete product,2010-10-14,2,Cumbria
+Outdoors,Hunting and Shooting,Archery,Store,France,Lyon,Frédéric Samson,Level 3 Sales Representative,Defective product,2009-11-05,4,Darlington
+Outdoors,Hunting and Shooting,Archery,Store,Japan,Osaka City,Masuzo Kakui,Level 3 Sales Representative,Defective product,2011-08-07,2,Denbighshire
+Outdoors,Hunting and Shooting,Archery,Store,South Korea,Seoul,Jung-ho Choi,Level 3 Sales Representative,Defective product,2010-06-10,2,Derby
+Outdoors,Hunting and Shooting,Archery,Web,Australia,Melbourne,Donald Ward,Level 2 Sales Representative,Incomplete product,2010-03-14,2,Derbyshire
+Outdoors,Hunting and Shooting,Archery,Web,Australia,Melbourne,John Sinden,Level 3 Sales Representative,Incomplete product,2011-07-22,4,Derry
+Outdoors,Hunting and Shooting,Archery,Web,Australia,Melbourne,John Sinden,Level 3 Sales Representative,Unsatisfactory product,2011-12-20,40,Devon
+Outdoors,Hunting and Shooting,Archery,Web,Belgium,Heverlee,Yvette Lattrez,Level 3 Sales Representative,Incomplete product,2011-06-16,2,Doncaster
+Outdoors,Hunting and Shooting,Archery,Web,France,Lyon,Frédéric Samson,Level 3 Sales Representative,Wrong product ordered,2011-09-15,92,Dorset
+Outdoors,Hunting and Shooting,Archery,Web,Mexico,Distrito Federal,Gabriela Rojas,Level 2 Sales Representative,Incomplete product,2011-05-22,2,Down
+Outdoors,Hunting and Shooting,Archery,Web,South Korea,Seoul,Jung-ho Choi,Level 3 Sales Representative,Incomplete product,2009-04-14,4,Dudley
+Outdoors,Hunting and Shooting,Archery,Web,United States,Los Angeles,Janice Thomas,Level 1 Sales Representative,Incomplete product,2011-09-17,4,Dumfries and Galloway
+Outdoors,Hunting and Shooting,Archery,Web,United States,Los Angeles,Valerie Cohen,Level 2 Sales Representative,Incomplete product,2009-10-05,2,Dundee
+Outdoors,Hunting and Shooting,Guns and Ammunition,Catalog,Belgium,Heverlee,Giele Laermans,Level 1 Sales Representative,Defective product,2010-04-17,2,Dungannon
+Outdoors,Hunting and Shooting,Guns and Ammunition,Store,Canada,Toronto,Donald Chow,Level 3 Sales Representative,Defective product,2009-12-18,2,Durham
+Outdoors,Hunting and Shooting,Guns and Ammunition,Store,Japan,Osaka City,Masuzo Kakui,Level 3 Sales Representative,Incomplete product,2011-04-17,2,Ealing
+Outdoors,Hunting and Shooting,Guns and Ammunition,Store,United Kingdom,London,James Ross-Hythe,Level 3 Sales Representative,Incomplete product,2011-11-10,4,East Ayrshire
+Outdoors,Hunting and Shooting,Guns and Ammunition,Store,United States,Seattle,Ashley McCormick,Level 2 Sales Representative,Unsatisfactory product,2009-07-17,24,East Dunbartonshire
+Outdoors,Hunting and Shooting,Guns and Ammunition,Store,United States,Seattle,Audrey Lastman,Level 3 Sales Representative,Defective product,2010-06-26,2,East Lothian
+Outdoors,Hunting and Shooting,Guns and Ammunition,Web,Canada,Toronto,Brendon Pike,Level 1 Sales Representative,Wrong product ordered,2010-12-03,72,East Renfrewshire
+Outdoors,Hunting and Shooting,Guns and Ammunition,Web,Netherlands,Amsterdam,Jan Haverkamp,Level 2 Sales Representative,Unsatisfactory product,2009-10-28,28,East Riding of Yorkshire
+Outdoors,Hunting and Shooting,Hunting Accessories,Store,Australia,Melbourne,John Sinden,Level 3 Sales Representative,Defective product,2010-10-26,2,East Sussex
+Outdoors,Hunting and Shooting,Hunting Accessories,Store,Australia,Melbourne,John Sinden,Level 3 Sales Representative,Incomplete product,2011-12-14,2,Edinburgh
+Outdoors,Hunting and Shooting,Hunting Accessories,Store,Canada,Toronto,Donald Chow,Level 3 Sales Representative,Incomplete product,2009-08-23,2,Eilean Siar
+Outdoors,Hunting and Shooting,Hunting Accessories,Store,France,Lyon,Daniel Turpin,Level 2 Sales Representative,Unsatisfactory product,2009-02-19,24,Enfield
+Outdoors,Hunting and Shooting,Hunting Accessories,Store,Italy,Milano,Silvano Allessori,Level 2 Sales Representative,Unsatisfactory product,2009-05-22,22,Essex
+Outdoors,Hunting and Shooting,Hunting Accessories,Web,United Kingdom,London,James Ross-Hythe,Level 3 Sales Representative,Defective product,2009-10-20,2,Falkirk
+Outdoors,Hunting and Shooting,Hunting Accessories,Web,United States,Los Angeles,Corey Wright,Store Manager,Defective product,2011-06-16,2,Fermanagh
+Outdoors,Hunting and Shooting,Hunting Apparel,Store,United Kingdom,Birmingham,Josef Lopez,Level 1 Sales Representative,Wrong product shipped,2009-12-02,14,Fife
+Outdoors,Hunting and Shooting,Hunting Apparel,Store,United States,Boston,Eric Carson,Level 2 Sales Representative,Unsatisfactory product,2011-07-21,12,Flintshire
+Outdoors,Hunting and Shooting,Hunting Apparel,Web,Canada,Calgary,Sherry Rowland,Level 2 Sales Representative,Incomplete product,2011-07-27,2,Gateshead
+Outdoors,Hunting and Shooting,Hunting Apparel,Web,Canada,Toronto,Carole Claudel,Level 2 Sales Representative,Incomplete product,2011-02-09,2,Glasgow
+Outdoors,Hunting and Shooting,Hunting Apparel,Web,Italy,Milano,Silvano Allessori,Level 2 Sales Representative,Unsatisfactory product,2011-05-07,48,Gloucestershire
+Outdoors,Paddle and Water,Canoes,Store,Switzerland,Zürich,Frank Jever,Level 3 Sales Representative,Defective product,2010-10-02,2,Greenwich
+Outdoors,Paddle and Water,Canoes,Web,Austria,Wien,Sabine Grüner,Level 3 Sales Representative,Defective product,2011-10-05,2,Gwynedd
+Outdoors,Paddle and Water,Canoes,Web,Germany,München,Björn Winkler,Level 3 Sales Representative,Defective product,2011-10-14,2,Hackney
+Outdoors,Paddle and Water,Canoes,Web,Sweden,Kista,Anders Nilsson,Level 2 Sales Representative,Incomplete product,2010-06-28,2,Halton
+Outdoors,Paddle and Water,Kayaks,Store,Belgium,Heverlee,Yvette Lattrez,Level 3 Sales Representative,Incomplete product,2011-11-20,2,Hammersmith and Fulham
+Outdoors,Paddle and Water,Kayaks,Store,Canada,Toronto,Carole Claudel,Level 2 Sales Representative,Defective product,2009-12-28,2,Hampshire
+Outdoors,Paddle and Water,Kayaks,Store,Netherlands,Amsterdam,Maria Laponder,Level 3 Sales Representative,Incomplete product,2011-01-20,2,Haringey
+Outdoors,Paddle and Water,Kayaks,Web,China,Shanghai,Xiangyong Wang,Level 2 Sales Representative,Defective product,2010-06-14,2,Harrow
+Outdoors,Paddle and Water,Kayaks,Web,Germany,Hamburg,Elsbeth Wiesinger,Level 2 Sales Representative,Defective product,2011-12-05,6,Hartlepool
+Outdoors,Paddle and Water,Kayaks,Web,Switzerland,Zürich,Frank Jever,Level 3 Sales Representative,Defective product,2011-10-17,4,Havering
+Outdoors,Paddle and Water,Paddle Accessories,Catalog,Canada,Toronto,Donald Chow,Level 3 Sales Representative,Incomplete product,2010-05-02,2,Herefordshire
+Outdoors,Paddle and Water,Paddle Accessories,Store,Japan,Osaka City,Masuzo Kakui,Level 3 Sales Representative,Wrong product ordered,2011-09-10,30,Hertfordshire
+Outdoors,Paddle and Water,Paddle Accessories,Web,United Kingdom,London,James Ross-Hythe,Level 3 Sales Representative,Unsatisfactory product,2011-03-30,28,Highland
+Outdoors,Paddle and Water,Paddles and Oars,Store,France,Paris,Élizabeth Michel,Level 3 Sales Representative,Defective product,2010-05-04,4,Hillingdon
+Outdoors,Paddle and Water,Paddles and Oars,Store,Netherlands,Amsterdam,Jan Haverkamp,Level 2 Sales Representative,Defective product,2009-08-19,2,Hounslow
+Outdoors,Paddle and Water,Paddles and Oars,Store,Switzerland,Zürich,Gianni Vertemati,Level 1 Sales Representative,Defective product,2010-10-05,4,Inverclyde
+Team Sports,Baseball and Softball,Baseball Apparel,Catalog,United Kingdom,Birmingham,Emily Browne,Level 2 Sales Representative,Wrong product ordered,2010-12-19,8,Isle of Wight
+Team Sports,Baseball and Softball,Baseball Apparel,Store,Belgium,Heverlee,Yvette Lattrez,Level 3 Sales Representative,Wrong product ordered,2010-08-26,10,Isles of Scilly
+Team Sports,Baseball and Softball,Baseball Apparel,Store,Germany,Hamburg,Gunter Erler,Level 2 Sales Representative,Incomplete product,2009-07-22,2,Islington
+Team Sports,Baseball and Softball,Baseball Apparel,Store,Mexico,Distrito Federal,Gabriela Rojas,Level 2 Sales Representative,Wrong product ordered,2010-11-18,8,Kensington and Chelsea
+Team Sports,Baseball and Softball,Baseball Apparel,Web,Brazil,São Paulo,Eduardo Guimarães,Level 2 Sales Representative,Unsatisfactory product,2009-11-29,22,Kent
+Team Sports,Baseball and Softball,Baseball Apparel,Web,Sweden,Kista,Irene Engelbrektsson,Level 2 Sales Representative,Wrong product shipped,2010-05-09,8,Kingston upon Hull
+Team Sports,Baseball and Softball,Baseball Cleats,Store,United Kingdom,London,James Ross-Hythe,Level 3 Sales Representative,Unsatisfactory product,2010-08-21,8,Kingston upon Thames
+Team Sports,Baseball and Softball,Baseball Cleats,Web,Sweden,Kista,Anders Nilsson,Level 2 Sales Representative,Wrong product ordered,2009-10-31,8,Kirklees
+Team Sports,Baseball and Softball,Baseball Gloves,Store,France,Paris,Élizabeth Michel,Level 3 Sales Representative,Unsatisfactory product,2010-10-14,56,Knowsley
+Team Sports,Baseball and Softball,Baseball Gloves,Store,Germany,München,Björn Winkler,Level 3 Sales Representative,Incomplete product,2010-07-18,6,Lambeth
+Team Sports,Baseball and Softball,Baseball Gloves,Store,Italy,Milano,Alessandra Torta,Level 3 Sales Representative,Defective product,2010-01-31,2,Lancashire
+Team Sports,Baseball and Softball,Baseball Gloves,Store,Switzerland,Zürich,Frank Jever,Level 3 Sales Representative,Defective product,2011-11-19,2,Larne
+Team Sports,Baseball and Softball,Baseball Gloves,Store,United States,Boston,Pierre Lavoie,Level 3 Sales Representative,Incomplete product,2009-07-27,2,Leeds
+Team Sports,Baseball and Softball,Baseball Gloves,Store,United States,Seattle,Bart Scott,Level 2 Sales Representative,Incomplete product,2009-02-27,4,Leicester
+Team Sports,Baseball and Softball,Baseball Gloves,Web,Austria,Wien,Sabine Grüner,Level 3 Sales Representative,Defective product,2009-08-07,2,Leicestershire
+Team Sports,Baseball and Softball,Baseball Gloves,Web,Mexico,Distrito Federal,Gabriela Rojas,Level 2 Sales Representative,Incomplete product,2011-08-21,2,Lewisham
+Team Sports,Baseball and Softball,Baseball Gloves,Web,Spain,Bilbao,Yolanda Torres,Level 3 Sales Representative,Defective product,2011-08-23,2,Limavady
+Team Sports,Baseball and Softball,Baseball Gloves,Web,United Kingdom,Birmingham,Keith Reed,Level 1 Sales Representative,Unsatisfactory product,2011-11-05,64,Lincolnshire
+Team Sports,Baseball and Softball,Baseball Gloves,Web,United States,Boston,Pierre Lavoie,Level 3 Sales Representative,Defective product,2009-11-27,2,Lisburn
+Team Sports,Baseball and Softball,Baseballs,Web,Sweden,Kista,Anders Nilsson,Level 2 Sales Representative,Wrong product shipped,2010-08-24,46,Liverpool
+Team Sports,Baseball and Softball,Baseballs,Web,United States,Seattle,Audrey Lastman,Level 3 Sales Representative,Defective product,2011-05-06,4,Luton
+Team Sports,Baseball and Softball,Baseballs,Web,United States,Seattle,Audrey Lastman,Level 3 Sales Representative,Unsatisfactory product,2011-12-05,48,Magherafelt
+Team Sports,Baseball and Softball,Bats,Catalog,Australia,Melbourne,John Sinden,Level 3 Sales Representative,Unsatisfactory product,2010-10-14,30,Manchester
+Team Sports,Baseball and Softball,Bats,Catalog,United Kingdom,London,James Ross-Hythe,Level 3 Sales Representative,Defective product,2011-09-09,2,Medway
+Team Sports,Baseball and Softball,Bats,Store,Australia,Melbourne,Dave Smythe,Level 1 Sales Representative,Wrong product ordered,2011-02-07,34,Merseyside
+Team Sports,Baseball and Softball,Bats,Store,Austria,Wien,Willi Seefelder,Level 2 Sales Representative,Defective product,2009-10-07,2,Merthyr Tydfil
+Team Sports,Baseball and Softball,Bats,Store,France,Paris,Élizabeth Michel,Level 3 Sales Representative,Unsatisfactory product,2010-08-21,46,Merton
+Team Sports,Baseball and Softball,Bats,Store,Italy,Milano,Silvano Allessori,Level 2 Sales Representative,Defective product,2010-11-16,2,Middlesbrough
+Team Sports,Baseball and Softball,Bats,Store,Spain,Bilbao,Yolanda Torres,Level 3 Sales Representative,Defective product,2009-08-18,2,Midlothian
+Team Sports,Baseball and Softball,Bats,Store,United Kingdom,Birmingham,Emily Browne,Level 2 Sales Representative,Wrong product shipped,2009-12-25,34,Milton Keynes
+Team Sports,Baseball and Softball,Bats,Store,United Kingdom,Birmingham,Janet Walker,Level 3 Sales Representative,Incomplete product,2010-12-26,2,Monmouthshire
+Team Sports,Baseball and Softball,Bats,Store,United States,Los Angeles,Janice Thomas,Level 1 Sales Representative,Wrong product shipped,2010-09-05,18,Moray
+Team Sports,Baseball and Softball,Bats,Store,United States,Los Angeles,Lowell Johnson,Level 2 Sales Representative,Wrong product shipped,2010-12-25,28,Moyle
+Team Sports,Baseball and Softball,Bats,Web,Finland,Kuopio,Tuomas Savolainen,Level 2 Sales Representative,Wrong product shipped,2011-08-31,24,Neath Port Talbot
+Team Sports,Baseball and Softball,Bats,Web,United States,Los Angeles,Corey Wright,Store Manager,Wrong product shipped,2011-08-05,26,Newcastle upon Tyne
+Team Sports,Baseball and Softball,Bats,Web,United States,Los Angeles,Valerie Cohen,Level 2 Sales Representative,Defective product,2011-03-10,2,Newham
+Team Sports,Baseball and Softball,Bats,Web,United States,Miami,Maureen Hoffman,Level 2 Sales Representative,Wrong product shipped,2009-06-05,26,Newport
+Team Sports,Baseball and Softball,Batting Gloves,Store,Australia,Melbourne,Jake Cartel,Level 2 Sales Representative,Wrong product shipped,2011-12-26,18,Newry and Mourne
+Team Sports,Baseball and Softball,Batting Gloves,Store,Italy,Milano,Alessandra Torta,Level 3 Sales Representative,Unsatisfactory product,2009-07-30,18,Newtownabbey
+Team Sports,Baseball and Softball,Batting Gloves,Store,Netherlands,Amsterdam,Jan Haverkamp,Level 2 Sales Representative,Wrong product shipped,2009-05-02,18,Norfolk
+Team Sports,Baseball and Softball,Batting Gloves,Web,France,Paris,Étienne Jauvin,Level 2 Sales Representative,Defective product,2011-01-07,2,North Ayshire
+Team Sports,Baseball and Softball,Softballs,Store,United Kingdom,London,James Ross-Hythe,Level 3 Sales Representative,Incomplete product,2010-11-08,2,North Down
+Team Sports,Baseball and Softball,Softballs,Web,Canada,Calgary,Harold Townsend,Level 3 Sales Representative,Unsatisfactory product,2011-02-16,160,North East Lincolnshire
+Team Sports,Baseball and Softball,Softballs,Web,Sweden,Kista,Anders Nilsson,Level 2 Sales Representative,Wrong product shipped,2011-09-18,38,North Lanarkshire
+Team Sports,Baseball and Softball,Softballs,Web,United States,Los Angeles,Valerie Cohen,Level 2 Sales Representative,Wrong product ordered,2009-04-06,14,North Lincolnshire
+Team Sports,Basketball,Arm and Shooter Sleeves,Store,Austria,Wien,Sabine Grüner,Level 3 Sales Representative,Incomplete product,2010-11-04,2,North Somerset
+Team Sports,Basketball,Arm and Shooter Sleeves,Store,Italy,Milano,Silvano Allessori,Level 2 Sales Representative,Unsatisfactory product,2010-10-19,28,North Tyneside
+Team Sports,Basketball,Arm and Shooter Sleeves,Store,Mexico,Distrito Federal,Gabriela Rojas,Level 2 Sales Representative,Incomplete product,2009-04-24,2,North Yorkshire
+Team Sports,Basketball,Arm and Shooter Sleeves,Store,Netherlands,Amsterdam,Maria Laponder,Level 3 Sales Representative,Defective product,2011-08-31,2,Northamptonshire
+Team Sports,Basketball,Arm and Shooter Sleeves,Store,Sweden,Kista,Irene Engelbrektsson,Level 2 Sales Representative,Incomplete product,2011-05-06,2,Northumberland
+Team Sports,Basketball,Arm and Shooter Sleeves,Web,United States,Los Angeles,Valerie Cohen,Level 2 Sales Representative,Defective product,2010-07-02,2,Nottingham
+Team Sports,Basketball,Basketball Apparel,Store,Italy,Milano,Alessandra Torta,Level 3 Sales Representative,Wrong product ordered,2009-12-26,10,Nottinghamshire
+Team Sports,Basketball,Basketball Apparel,Web,Germany,München,Björn Winkler,Level 3 Sales Representative,Incomplete product,2011-08-19,6,Oldham
+Team Sports,Basketball,Basketball Footwear,Store,Austria,Wien,Sabine Grüner,Level 3 Sales Representative,Incomplete product,2010-10-28,4,Omagh
+Team Sports,Basketball,Basketball Footwear,Store,Austria,Wien,Sabine Grüner,Level 3 Sales Representative,Wrong product ordered,2009-07-29,16,Orkney
+Team Sports,Basketball,Basketball Footwear,Store,Canada,Calgary,Martine Vachon,Level 2 Sales Representative,Wrong product shipped,2010-04-17,152,Oxfordshire
+Team Sports,Basketball,Basketball Footwear,Store,Germany,München,Björn Winkler,Level 3 Sales Representative,Incomplete product,2011-08-01,2,Pembrokeshire
+Team Sports,Basketball,Basketball Footwear,Store,Germany,München,Björn Winkler,Level 3 Sales Representative,Wrong product ordered,2009-07-22,30,Perthshire and Kinross
+Team Sports,Basketball,Basketball Footwear,Store,United States,Los Angeles,Dale Fowler,Level 2 Sales Representative,Defective product,2009-08-31,2,Peterborough
+Team Sports,Basketball,Basketball Footwear,Store,United States,Los Angeles,Valerie Cohen,Level 2 Sales Representative,Incomplete product,2010-07-14,2,Plymouth
+Team Sports,Basketball,Basketball Footwear,Store,United States,Miami,Harold Germaine,Level 1 Sales Representative,Unsatisfactory product,2009-10-05,18,Poole
+Team Sports,Basketball,Basketball Footwear,Store,United States,Seattle,Ashley McCormick,Level 2 Sales Representative,Unsatisfactory product,2011-12-10,12,Portsmouth
+Team Sports,Basketball,Basketball Footwear,Web,Austria,Wien,Willi Seefelder,Level 2 Sales Representative,Unsatisfactory product,2011-08-27,30,Powys
+Team Sports,Basketball,Basketball Footwear,Web,Canada,Toronto,Donald Chow,Level 3 Sales Representative,Defective product,2011-07-01,2,Reading
+Team Sports,Basketball,Basketball Footwear,Web,United States,Boston,Pierre Lavoie,Level 3 Sales Representative,Unsatisfactory product,2010-06-01,20,Redbridge
+Team Sports,Basketball,Basketball Footwear,Web,United States,Los Angeles,Dale Fowler,Level 2 Sales Representative,Incomplete product,2011-01-15,2,Redcar and Cleveland
+Team Sports,Basketball,Basketball Footwear,Web,United States,Seattle,Bart Scott,Level 2 Sales Representative,Defective product,2009-01-26,2,Renfrewshire
+Team Sports,Basketball,Basketball Systems,Catalog,Sweden,Kista,Irene Engelbrektsson,Level 2 Sales Representative,Incomplete product,2009-06-12,2,Rhondda Cynon Taff
+Team Sports,Basketball,Basketball Systems,Store,Germany,München,Björn Winkler,Level 3 Sales Representative,Defective product,2010-04-20,8,Richmond upon Thames
+Team Sports,Basketball,Basketball Systems,Store,Germany,München,Björn Winkler,Level 3 Sales Representative,Incomplete product,2011-10-22,2,Rochdale
+Team Sports,Basketball,Basketball Systems,Store,United States,Boston,Pierre Lavoie,Level 3 Sales Representative,Wrong product shipped,2011-09-26,42,Rotherham
+Team Sports,Basketball,Basketball Systems,Web,France,Paris,Élizabeth Michel,Level 3 Sales Representative,Defective product,2011-09-09,2,Royal Borough of Windsor and Maidenhead
+Team Sports,Basketball,Basketball Systems,Web,Netherlands,Amsterdam,Ellen Shapiro,Level 2 Sales Representative,Incomplete product,2010-06-28,2,Rutland
+Team Sports,Basketball,Basketball Systems,Web,United Kingdom,London,Humphrey Willoughby,Level 2 Sales Representative,Incomplete product,2011-09-15,2,Salford
+Team Sports,Basketball,Basketballs,Catalog,Germany,München,Björn Winkler,Level 3 Sales Representative,Incomplete product,2010-04-27,16,Sandwell
+Team Sports,Basketball,Basketballs,Store,Italy,Milano,Silvano Allessori,Level 2 Sales Representative,Unsatisfactory product,2010-10-21,38,Scottish Borders
+Team Sports,Basketball,Basketballs,Store,Mexico,Distrito Federal,Ana Orozco,Level 2 Sales Representative,Incomplete product,2010-09-09,4,Sefton
+Team Sports,Basketball,Basketballs,Store,United States,Boston,Pierre Lavoie,Level 3 Sales Representative,Defective product,2011-07-26,2,Sheffield
+Team Sports,Basketball,Basketballs,Store,United States,Boston,Pierre Lavoie,Level 3 Sales Representative,Unsatisfactory product,2010-12-20,28,Shetland Islands
+Team Sports,Basketball,Basketballs,Store,United States,Boston,Pierre Lavoie,Level 3 Sales Representative,Wrong product ordered,2009-02-08,30,Shropshire
+Team Sports,Basketball,Basketballs,Web,France,Lyon,Florence Martin,Level 2 Sales Representative,Defective product,2010-10-29,4,Slough
+Team Sports,Basketball,Basketballs,Web,France,Lyon,Frédéric Samson,Level 3 Sales Representative,Defective product,2010-05-06,6,Solihull
+Team Sports,Basketball,Basketballs,Web,United Kingdom,London,Humphrey Willoughby,Level 2 Sales Representative,Unsatisfactory product,2009-05-03,42,Somerset
+Team Sports,Basketball,Basketballs,Web,United States,Miami,Harold Germaine,Level 1 Sales Representative,Wrong product shipped,2009-12-08,20,South Ayrshire
+Team Sports,Basketball,Rims and Nets,Catalog,Sweden,Kista,Bengt Gradin,Level 1 Sales Representative,Defective product,2010-07-20,2,South Gloucestershire
+Team Sports,Basketball,Rims and Nets,Web,Netherlands,Amsterdam,Maria Laponder,Level 3 Sales Representative,Wrong product shipped,2011-09-23,20,South Lanarkshire
+Team Sports,Football,Football Apparel,Catalog,Finland,Kuopio,Helena Lindholm,Level 3 Sales Representative,Wrong product ordered,2010-06-19,12,South Tyneside
+Team Sports,Football,Football Apparel,Store,Netherlands,Amsterdam,Ellen Shapiro,Level 2 Sales Representative,Incomplete product,2011-04-24,4,Southampton
+Team Sports,Football,Football Apparel,Store,United States,Boston,Eric Carson,Level 2 Sales Representative,Unsatisfactory product,2010-10-11,10,Southend-on-Sea
+Team Sports,Football,Football Cleats,Catalog,Sweden,Kista,Irene Engelbrektsson,Level 2 Sales Representative,Wrong product shipped,2009-07-05,34,Southwark
+Team Sports,Football,Football Cleats,Store,Australia,Melbourne,Donald Ward,Level 2 Sales Representative,Incomplete product,2011-05-31,6,Staffordshire
+Team Sports,Football,Football Cleats,Store,Mexico,Distrito Federal,Gabriela Rojas,Level 2 Sales Representative,Incomplete product,2010-09-11,2,Stirling
+Team Sports,Football,Football Cleats,Store,Sweden,Kista,Irene Engelbrektsson,Level 2 Sales Representative,Defective product,2010-11-12,4,Stockport
+Team Sports,Football,Football Cleats,Store,United Kingdom,London,James Ross-Hythe,Level 3 Sales Representative,Incomplete product,2010-10-15,2,Stockton-on-Tees
+Team Sports,Football,Football Cleats,Web,Finland,Kuopio,Tuomas Savolainen,Level 2 Sales Representative,Defective product,2011-12-11,2,Stoke-on-Trent
+Team Sports,Football,Football Cleats,Web,Germany,Hamburg,Elsbeth Wiesinger,Level 2 Sales Representative,Incomplete product,2011-01-19,2,Strabane
+Team Sports,Football,Football Cleats,Web,Italy,Milano,Silvano Allessori,Level 2 Sales Representative,Incomplete product,2010-11-06,6,Suffolk
+Team Sports,Football,Football Cleats,Web,Netherlands,Amsterdam,Maria Laponder,Level 3 Sales Representative,Wrong product shipped,2011-10-30,112,Sunderland
+Team Sports,Football,Football Cleats,Web,United Kingdom,Birmingham,Janet Walker,Level 3 Sales Representative,Defective product,2009-08-19,6,Surrey
+Team Sports,Football,Football Helmets,Catalog,Germany,Hamburg,Elsbeth Wiesinger,Level 2 Sales Representative,Defective product,2010-07-14,22,Sutton
+Team Sports,Football,Football Helmets,Store,Canada,Toronto,Carole Claudel,Level 2 Sales Representative,Incomplete product,2010-02-12,4,Swansea
+Team Sports,Football,Football Helmets,Store,Netherlands,Amsterdam,Belinda Jansen-Velasquez,Level 1 Sales Representative,Defective product,2011-11-01,6,Swindon
+Team Sports,Football,Football Helmets,Store,Switzerland,Zürich,Frank Jever,Level 3 Sales Representative,Unsatisfactory product,2011-03-28,90,Tameside
+Team Sports,Football,Football Helmets,Store,United States,Los Angeles,Dale Fowler,Level 2 Sales Representative,Incomplete product,2010-11-29,2,Telford and Wrekin
+Team Sports,Football,Football Helmets,Store,United States,Los Angeles,Margaret Lewiston,Level 2 Sales Representative,Incomplete product,2011-05-03,2,Thurrock
+Team Sports,Football,Football Helmets,Web,Japan,Osaka City,Masuzo Kakui,Level 3 Sales Representative,Incomplete product,2010-04-24,2,Torbay
+Team Sports,Football,Football Helmets,Web,United States,Miami,Maureen Hoffman,Level 2 Sales Representative,Unsatisfactory product,2010-11-06,40,Torfaen
+Team Sports,Football,Football Inflation Devices,Store,United Kingdom,Birmingham,Janet Walker,Level 3 Sales Representative,Incomplete product,2009-12-01,2,Tower Hamlets
+Team Sports,Football,Football Inflation Devices,Store,United Kingdom,London,James Ross-Hythe,Level 3 Sales Representative,Unsatisfactory product,2009-08-02,22,Trafford
+Team Sports,Football,Football Inflation Devices,Store,United States,Boston,Eric Carson,Level 2 Sales Representative,Unsatisfactory product,2011-06-21,20,Vale of Glamorgan
+Team Sports,Football,Football Inflation Devices,Web,Brazil,São Paulo,Eduardo Guimarães,Level 2 Sales Representative,Incomplete product,2011-02-13,2,Wakefield
+Team Sports,Football,Football Inflation Devices,Web,Brazil,São Paulo,Eduardo Guimarães,Level 2 Sales Representative,Unsatisfactory product,2011-09-30,170,Walsall
+Team Sports,Football,Football Inflation Devices,Web,Germany,Hamburg,Elsbeth Wiesinger,Level 2 Sales Representative,Defective product,2011-10-27,6,Waltham Forest
+Team Sports,Football,Football Inflation Devices,Web,Mexico,Distrito Federal,Ana Orozco,Level 2 Sales Representative,Wrong product shipped,2011-01-16,22,Wandsworth
+Team Sports,Football,Football Inflation Devices,Web,United Kingdom,Birmingham,Janet Walker,Level 3 Sales Representative,Defective product,2010-12-19,2,Warrington
+Team Sports,Football,Football Inflation Devices,Web,United Kingdom,Birmingham,Janet Walker,Level 3 Sales Representative,Defective product,2011-03-19,2,Warwickshire
+Team Sports,Football,Footballs - Junior,Catalog,Austria,Wien,Sabine Grüner,Level 3 Sales Representative,Wrong product shipped,2010-06-24,22,West Berkshire
+Team Sports,Football,Footballs - Junior,Catalog,Netherlands,Amsterdam,Jan Haverkamp,Level 2 Sales Representative,Defective product,2011-08-27,2,West Dunbartonshire
+Team Sports,Football,Footballs - Junior,Catalog,Sweden,Kista,Anders Nilsson,Level 2 Sales Representative,Wrong product shipped,2011-07-23,22,West Lothian
+Team Sports,Football,Footballs - Junior,Store,Austria,Wien,Sabine Grüner,Level 3 Sales Representative,Incomplete product,2009-12-06,2,West Sussex
+Team Sports,Football,Footballs - Junior,Store,Austria,Wien,Sabine Grüner,Level 3 Sales Representative,Wrong product ordered,2010-07-21,20,Westminster
+Team Sports,Football,Footballs - Junior,Store,United States,Seattle,Audrey Lastman,Level 3 Sales Representative,Unsatisfactory product,2011-10-09,18,Wigan
+Team Sports,Football,Footballs - Junior,Web,Finland,Kuopio,Helena Lindholm,Level 3 Sales Representative,Incomplete product,2010-10-09,2,Wiltshire
+Team Sports,Football,Footballs - Junior,Web,Sweden,Kista,Bengt Gradin,Level 1 Sales Representative,Incomplete product,2010-08-18,2,Wirral
+Team Sports,Football,Footballs - Junior,Web,United States,Boston,Pierre Lavoie,Level 3 Sales Representative,Defective product,2010-11-23,7,Wokingham
+Team Sports,Football,Footballs - Official,Catalog,Australia,Melbourne,John Sinden,Level 3 Sales Representative,Defective product,2011-06-09,10,Wolverhampton
+Team Sports,Football,Footballs - Official,Catalog,Italy,Milano,Silvano Allessori,Level 2 Sales Representative,Unsatisfactory product,2011-10-18,154,Worcestershire
+Team Sports,Football,Footballs - Official,Store,Finland,Kuopio,Tuomas Savolainen,Level 2 Sales Representative,Defective product,2011-07-07,8,Wrexham
+Team Sports,Football,Footballs - Official,Store,Switzerland,Zürich,Frank Jever,Level 3 Sales Representative,Defective product,2011-10-15,6,York
+Team Sports,Football,Footballs - Official,Store,United Kingdom,London,James Ross-Hythe,Level 3 Sales Representative,Defective product,2009-10-15,2,Aberdeen
+Team Sports,Football,Footballs - Official,Store,United States,Boston,Eric Carson,Level 2 Sales Representative,Defective product,2011-07-29,4,Aberdeenshire
+Team Sports,Football,Footballs - Official,Store,United States,Miami,Harold Germaine,Level 1 Sales Representative,Wrong product ordered,2010-06-04,40,Anglesey
+Team Sports,Football,Footballs - Official,Web,Canada,Toronto,Samantha Pierce,Level 2 Sales Representative,Wrong product ordered,2009-12-23,104,Angus
+Team Sports,Football,Footballs - Official,Web,Germany,Hamburg,Gunter Erler,Level 2 Sales Representative,Incomplete product,2010-04-21,12,Antrim
+Team Sports,Football,Footballs - Official,Web,Netherlands,Amsterdam,Maria Laponder,Level 3 Sales Representative,Defective product,2010-09-29,12,Ards
+Team Sports,Football,Footballs - Official,Web,Spain,Bilbao,Yolanda Torres,Level 3 Sales Representative,Incomplete product,2009-07-20,2,Argyll and Bute
+Team Sports,Football,Footballs - Official,Web,United States,Boston,Eric Carson,Level 2 Sales Representative,Unsatisfactory product,2010-12-19,40,Armagh
+Team Sports,Football,Footballs - Youth,Store,Belgium,Heverlee,Giele Laermans,Level 1 Sales Representative,Defective product,2010-07-11,2,Ballymena
+Team Sports,Football,Footballs - Youth,Store,Canada,Toronto,Donald Chow,Level 3 Sales Representative,Unsatisfactory product,2009-07-19,38,Ballymoney
+Team Sports,Football,Footballs - Youth,Store,Germany,Hamburg,Elsbeth Wiesinger,Level 2 Sales Representative,Defective product,2011-03-14,6,Banbridge
+Team Sports,Football,Footballs - Youth,Store,Netherlands,Amsterdam,Maria Laponder,Level 3 Sales Representative,Unsatisfactory product,2009-05-28,18,Barking and Dagenham
+Team Sports,Football,Footballs - Youth,Store,United States,Boston,Pierre Lavoie,Level 3 Sales Representative,Unsatisfactory product,2010-12-20,14,Barnet
+Team Sports,Football,Footballs - Youth,Web,Spain,Bilbao,Yolanda Torres,Level 3 Sales Representative,Defective product,2011-09-04,2,Barnsley
+Team Sports,Football,Footballs - Youth,Web,United Kingdom,Birmingham,Keith Reed,Level 1 Sales Representative,Wrong product ordered,2011-10-30,28,Bath and North East Somerset
+Team Sports,Football,Gloves,Store,Canada,Toronto,Donald Chow,Level 3 Sales Representative,Incomplete product,2009-04-07,6,Bedford
+Team Sports,Football,Gloves,Store,France,Lyon,Daniel Turpin,Level 2 Sales Representative,Wrong product shipped,2009-07-30,68,Belfast
+Team Sports,Football,Gloves,Store,Italy,Milano,Silvano Allessori,Level 2 Sales Representative,Incomplete product,2011-07-03,6,Bexley
+Team Sports,Football,Gloves,Store,Mexico,Distrito Federal,Gabriela Rojas,Level 2 Sales Representative,Incomplete product,2009-03-05,2,Birmingham
+Team Sports,Football,Gloves,Store,Netherlands,Amsterdam,Ellen Shapiro,Level 2 Sales Representative,Unsatisfactory product,2011-04-15,164,Blackburn with Darwen
+Team Sports,Football,Gloves,Store,United Kingdom,Birmingham,Janet Walker,Level 3 Sales Representative,Unsatisfactory product,2011-07-11,62,Blackpool
+Team Sports,Football,Gloves,Web,Australia,Melbourne,Jake Cartel,Level 2 Sales Representative,Defective product,2011-04-27,8,Blaenau Gwent
+Team Sports,Football,Gloves,Web,Germany,München,Björn Winkler,Level 3 Sales Representative,Unsatisfactory product,2010-10-17,80,Bolton
+Team Sports,Football,Gloves,Web,Netherlands,Amsterdam,Ellen Shapiro,Level 2 Sales Representative,Incomplete product,2010-12-08,8,Bournemouth
+Team Sports,Football,Gloves,Web,Netherlands,Amsterdam,Maria Laponder,Level 3 Sales Representative,Incomplete product,2011-03-31,26,Bracknell Forest
+Team Sports,Football,Gloves,Web,Spain,Bilbao,Yolanda Torres,Level 3 Sales Representative,Defective product,2009-06-22,4,Bradford
+Team Sports,Football,Mouthguards,Store,Austria,Wien,Willi Seefelder,Level 2 Sales Representative,Unsatisfactory product,2010-08-01,8,Brent
+Team Sports,Football,Mouthguards,Store,Netherlands,Amsterdam,Ellen Shapiro,Level 2 Sales Representative,Unsatisfactory product,2011-04-25,22,Bridgend
+Team Sports,Football,Mouthguards,Store,Netherlands,Amsterdam,Maria Laponder,Level 3 Sales Representative,Wrong product ordered,2011-10-15,28,Brighton and Hove
+Team Sports,Football,Mouthguards,Web,Canada,Toronto,Samantha Pierce,Level 2 Sales Representative,Wrong product shipped,2009-07-28,20,Bristol
+Team Sports,Football,Protective Gear,Store,Australia,Melbourne,Donald Ward,Level 2 Sales Representative,Wrong product shipped,2010-12-10,16,Bromley
+Team Sports,Football,Protective Gear,Store,Canada,Toronto,Donald Chow,Level 3 Sales Representative,Wrong product ordered,2009-01-25,52,Buckinghamshire
+Team Sports,Football,Protective Gear,Store,Germany,Hamburg,Elsbeth Wiesinger,Level 2 Sales Representative,Defective product,2011-02-18,2,Bury
+Team Sports,Football,Protective Gear,Store,Italy,Milano,Alessandra Torta,Level 3 Sales Representative,Defective product,2009-09-21,2,Caerphilly
+Team Sports,Football,Protective Gear,Store,Italy,Milano,Alessandra Torta,Level 3 Sales Representative,Defective product,2011-10-04,4,Calderdale
+Team Sports,Football,Protective Gear,Store,Netherlands,Amsterdam,Maria Laponder,Level 3 Sales Representative,Defective product,2011-01-18,4,Cambridgeshire
+Team Sports,Football,Protective Gear,Store,Spain,Bilbao,Tomás Iglesias,Level 2 Sales Representative,Incomplete product,2011-12-02,2,Camden
+Team Sports,Football,Protective Gear,Store,Sweden,Kista,Irene Engelbrektsson,Level 2 Sales Representative,Incomplete product,2009-12-12,2,Cardiff
+Team Sports,Football,Protective Gear,Web,Australia,Melbourne,John Sinden,Level 3 Sales Representative,Incomplete product,2011-12-07,2,Carmarthenshire
+Team Sports,Football,Protective Gear,Web,Sweden,Kista,Bengt Gradin,Level 1 Sales Representative,Incomplete product,2010-07-01,2,Carrickfergus
+Team Sports,Football,Protective Gear,Web,United Kingdom,Birmingham,Janet Walker,Level 3 Sales Representative,Incomplete product,2010-09-02,2,Castlereagh
+Team Sports,Hockey,Hockey Tape,Catalog,United Kingdom,London,Humphrey Willoughby,Level 2 Sales Representative,Defective product,2011-06-22,2,Central Bedfordshire
+Team Sports,Hockey,Hockey Tape,Store,Austria,Wien,Sabine Grüner,Level 3 Sales Representative,Incomplete product,2009-06-26,2,Ceredigion
+Team Sports,Hockey,Hockey Tape,Store,Canada,Calgary,Martine Vachon,Level 2 Sales Representative,Incomplete product,2011-04-20,8,Cheshire East
+Team Sports,Hockey,Hockey Tape,Store,France,Lyon,Frédéric Samson,Level 3 Sales Representative,Incomplete product,2010-07-25,4,Cheshire West and Chester
+Team Sports,Hockey,Hockey Tape,Store,Netherlands,Amsterdam,Maria Laponder,Level 3 Sales Representative,Defective product,2011-11-10,4,City
+Team Sports,Hockey,Hockey Tape,Store,Sweden,Kista,Anders Nilsson,Level 2 Sales Representative,Incomplete product,2011-02-16,4,Clackmannanshire
+Team Sports,Hockey,Hockey Tape,Store,United States,Los Angeles,Lowell Johnson,Level 2 Sales Representative,Incomplete product,2011-10-22,8,Coleraine
+Team Sports,Hockey,Hockey Tape,Web,Finland,Kuopio,Helena Lindholm,Level 3 Sales Representative,Incomplete product,2009-10-12,2,Conwy
+Team Sports,Hockey,Hockey Tape,Web,Finland,Kuopio,Tuomas Savolainen,Level 2 Sales Representative,Wrong product shipped,2010-08-14,62,Cookstown
+Team Sports,Hockey,Hockey Tape,Web,Netherlands,Amsterdam,Jan Haverkamp,Level 2 Sales Representative,Wrong product ordered,2009-07-20,46,Cornwall
+Team Sports,Hockey,Hockey Tape,Web,Spain,Bilbao,Yolanda Torres,Level 3 Sales Representative,Wrong product ordered,2009-10-17,54,Coventry
+Team Sports,Hockey,Hockey Tape,Web,Switzerland,Zürich,Frank Jever,Level 3 Sales Representative,Defective product,2010-08-01,10,Craigavon
+Team Sports,Hockey,Hockey Tape,Web,United Kingdom,Birmingham,Emily Browne,Level 2 Sales Representative,Incomplete product,2011-10-31,8,Croydon
+Team Sports,Hockey,Hockey Tape,Web,United Kingdom,London,James Ross-Hythe,Level 3 Sales Representative,Defective product,2010-10-05,4,Cumbria
+Team Sports,Hockey,Ice Hockey Apparel,Store,Germany,München,Björn Winkler,Level 3 Sales Representative,Defective product,2011-09-01,2,Darlington
+Team Sports,Hockey,Ice Hockey Apparel,Store,Sweden,Kista,Irene Engelbrektsson,Level 2 Sales Representative,Incomplete product,2011-04-20,2,Denbighshire
+Team Sports,Hockey,Ice Hockey Apparel,Web,Netherlands,Amsterdam,Ellen Shapiro,Level 2 Sales Representative,Unsatisfactory product,2009-09-16,18,Derby
+Team Sports,Hockey,Ice Hockey Apparel,Web,Sweden,Kista,Anders Nilsson,Level 2 Sales Representative,Incomplete product,2011-03-12,2,Derbyshire
+Team Sports,Hockey,Ice Hockey Apparel,Web,United Kingdom,Birmingham,Janet Walker,Level 3 Sales Representative,Defective product,2009-08-02,2,Derry
+Team Sports,Hockey,Ice Hockey Apparel,Web,United Kingdom,London,Humphrey Willoughby,Level 2 Sales Representative,Incomplete product,2010-06-01,2,Devon
+Team Sports,Hockey,Ice Hockey Apparel,Web,United States,Seattle,Audrey Lastman,Level 3 Sales Representative,Incomplete product,2011-07-05,2,Doncaster
+Team Sports,Hockey,Ice Hockey Equipment,Catalog,Austria,Wien,Sabine Grüner,Level 3 Sales Representative,Defective product,2010-06-23,4,Dorset
+Team Sports,Hockey,Ice Hockey Equipment,Catalog,Sweden,Kista,Anders Nilsson,Level 2 Sales Representative,Defective product,2009-11-22,2,Down
+Team Sports,Hockey,Ice Hockey Equipment,Store,Australia,Melbourne,Dave Smythe,Level 1 Sales Representative,Defective product,2010-12-02,4,Dudley
+Team Sports,Hockey,Ice Hockey Equipment,Store,Australia,Melbourne,John Sinden,Level 3 Sales Representative,Defective product,2010-05-06,12,Dumfries and Galloway
+Team Sports,Hockey,Ice Hockey Equipment,Store,Brazil,São Paulo,Eduardo Guimarães,Level 2 Sales Representative,Wrong product ordered,2011-11-07,492,Dundee
+Team Sports,Hockey,Ice Hockey Equipment,Store,Italy,Milano,Silvano Allessori,Level 2 Sales Representative,Wrong product ordered,2010-10-29,90,Dungannon
+Team Sports,Hockey,Ice Hockey Equipment,Store,Netherlands,Amsterdam,Maria Laponder,Level 3 Sales Representative,Incomplete product,2009-07-07,2,Durham
+Team Sports,Hockey,Ice Hockey Equipment,Store,United Kingdom,Birmingham,Janet Walker,Level 3 Sales Representative,Incomplete product,2010-11-29,4,Ealing
+Team Sports,Hockey,Ice Hockey Equipment,Store,United States,Boston,Pierre Lavoie,Level 3 Sales Representative,Defective product,2009-11-15,4,East Ayrshire
+Team Sports,Hockey,Ice Hockey Equipment,Web,Australia,Melbourne,John Sinden,Level 3 Sales Representative,Incomplete product,2011-12-22,6,East Dunbartonshire
+Team Sports,Hockey,Ice Hockey Equipment,Web,Finland,Kuopio,Helena Lindholm,Level 3 Sales Representative,Incomplete product,2011-12-02,4,East Lothian
+Team Sports,Hockey,Ice Hockey Equipment,Web,Mexico,Distrito Federal,Ana Orozco,Level 2 Sales Representative,Incomplete product,2010-11-17,4,East Renfrewshire
+Team Sports,Hockey,Ice Hockey Equipment,Web,United Kingdom,Birmingham,Emily Browne,Level 2 Sales Representative,Defective product,2011-12-07,8,East Riding of Yorkshire
+Team Sports,Hockey,Ice Hockey Equipment,Web,United Kingdom,London,James Ross-Hythe,Level 3 Sales Representative,Defective product,2011-06-24,4,East Sussex
+Team Sports,Hockey,Ice Hockey Equipment,Web,United States,Boston,Pierre Lavoie,Level 3 Sales Representative,Incomplete product,2010-06-20,4,Edinburgh
+Team Sports,Hockey,Ice Hockey Equipment,Web,United States,Seattle,Audrey Lastman,Level 3 Sales Representative,Wrong product ordered,2011-02-18,60,Eilean Siar
+Team Sports,Hockey,Ice Hockey Goals and Nets,Catalog,Sweden,Kista,Irene Engelbrektsson,Level 2 Sales Representative,Incomplete product,2011-11-08,6,Enfield
+Team Sports,Hockey,Ice Hockey Goals and Nets,Store,Germany,München,Björn Winkler,Level 3 Sales Representative,Defective product,2010-11-17,6,Essex
+Team Sports,Hockey,Ice Hockey Goals and Nets,Store,Japan,Tokyo,Genzo Imori,Level 3 Sales Representative,Unsatisfactory product,2011-03-02,18,Falkirk
+Team Sports,Hockey,Ice Hockey Goals and Nets,Store,Mexico,Distrito Federal,Ana Orozco,Level 2 Sales Representative,Defective product,2010-01-17,2,Fermanagh
+Team Sports,Hockey,Ice Hockey Goals and Nets,Store,United States,Seattle,Audrey Lastman,Level 3 Sales Representative,Defective product,2010-04-08,2,Fife
+Team Sports,Hockey,Ice Hockey Goals and Nets,Web,Austria,Wien,Sabine Grüner,Level 3 Sales Representative,Incomplete product,2011-12-08,2,Flintshire
+Team Sports,Hockey,Ice Hockey Goals and Nets,Web,France,Lyon,Florence Martin,Level 2 Sales Representative,Incomplete product,2011-05-20,10,Gateshead
+Team Sports,Hockey,Ice Hockey Goals and Nets,Web,Germany,Hamburg,Gunter Erler,Level 2 Sales Representative,Wrong product ordered,2010-04-13,54,Glasgow
+Team Sports,Hockey,Ice Hockey Goals and Nets,Web,Netherlands,Amsterdam,Ellen Shapiro,Level 2 Sales Representative,Unsatisfactory product,2009-09-18,28,Gloucestershire
+Team Sports,Hockey,Ice Hockey Goals and Nets,Web,United Kingdom,London,James Ross-Hythe,Level 3 Sales Representative,Defective product,2011-06-19,2,Greenwich
+Team Sports,Hockey,Ice Hockey Goals and Nets,Web,United States,Seattle,Ashley McCormick,Level 2 Sales Representative,Defective product,2009-01-31,2,Gwynedd
+Team Sports,Hockey,Ice Hockey Sticks,Catalog,Belgium,Heverlee,Yvette Lattrez,Level 3 Sales Representative,Incomplete product,2010-07-15,2,Hackney
+Team Sports,Hockey,Ice Hockey Sticks,Catalog,United Kingdom,Birmingham,Emily Browne,Level 2 Sales Representative,Incomplete product,2010-10-18,6,Halton
+Team Sports,Hockey,Ice Hockey Sticks,Store,Australia,Melbourne,Dave Smythe,Level 1 Sales Representative,Defective product,2010-05-13,4,Hammersmith and Fulham
+Team Sports,Hockey,Ice Hockey Sticks,Store,Brazil,São Paulo,Eduardo Guimarães,Level 2 Sales Representative,Defective product,2010-06-08,18,Hampshire
+Team Sports,Hockey,Ice Hockey Sticks,Store,Canada,Toronto,Donald Chow,Level 3 Sales Representative,Wrong product shipped,2009-08-12,208,Haringey
+Team Sports,Hockey,Ice Hockey Sticks,Store,Finland,Kuopio,Helena Lindholm,Level 3 Sales Representative,Wrong product ordered,2010-07-26,60,Harrow
+Team Sports,Hockey,Ice Hockey Sticks,Store,France,Paris,Émile Clermont,Level 1 Sales Representative,Defective product,2009-04-06,14,Hartlepool
+Team Sports,Hockey,Ice Hockey Sticks,Store,Italy,Milano,Silvano Allessori,Level 2 Sales Representative,Incomplete product,2009-04-29,6,Havering
+Team Sports,Hockey,Ice Hockey Sticks,Store,Netherlands,Amsterdam,Ellen Shapiro,Level 2 Sales Representative,Unsatisfactory product,2011-04-10,112,Herefordshire
+Team Sports,Hockey,Ice Hockey Sticks,Store,Spain,Bilbao,Tomás Iglesias,Level 2 Sales Representative,Defective product,2009-11-22,6,Hertfordshire
+Team Sports,Hockey,Ice Hockey Sticks,Store,Sweden,Kista,Irene Engelbrektsson,Level 2 Sales Representative,Defective product,2010-05-07,6,Highland
+Team Sports,Hockey,Ice Hockey Sticks,Store,Sweden,Kista,Irene Engelbrektsson,Level 2 Sales Representative,Incomplete product,2009-10-24,4,Hillingdon
+Team Sports,Hockey,Ice Hockey Sticks,Store,United Kingdom,London,Humphrey Willoughby,Level 2 Sales Representative,Defective product,2009-05-30,6,Hounslow
+Team Sports,Hockey,Ice Hockey Sticks,Store,United Kingdom,London,James Ross-Hythe,Level 3 Sales Representative,Incomplete product,2010-09-07,4,Inverclyde
+Team Sports,Hockey,Ice Hockey Sticks,Store,United States,Los Angeles,Valerie Cohen,Level 2 Sales Representative,Defective product,2009-10-11,4,Isle of Wight
+Team Sports,Hockey,Ice Hockey Sticks,Web,United Kingdom,Birmingham,Emily Browne,Level 2 Sales Representative,Wrong product ordered,2009-12-14,60,Isles of Scilly
+Team Sports,Hockey,Ice Hockey Sticks,Web,United States,Seattle,Bart Scott,Level 2 Sales Representative,Wrong product ordered,2011-10-26,60,Islington
+Team Sports,Hockey,Ice Skates,Store,Austria,Wien,Sabine Grüner,Level 3 Sales Representative,Wrong product ordered,2010-04-12,32,Kensington and Chelsea
+Team Sports,Hockey,Ice Skates,Store,Canada,Calgary,Harold Townsend,Level 3 Sales Representative,Wrong product shipped,2011-12-22,128,Kent
+Team Sports,Hockey,Ice Skates,Store,Italy,Milano,Silvano Allessori,Level 2 Sales Representative,Unsatisfactory product,2009-04-14,36,Kingston upon Hull
+Team Sports,Hockey,Ice Skates,Store,Italy,Milano,Silvano Allessori,Level 2 Sales Representative,Wrong product shipped,2009-08-28,30,Kingston upon Thames
+Team Sports,Hockey,Ice Skates,Store,United States,Boston,Eric Carson,Level 2 Sales Representative,Unsatisfactory product,2011-04-19,24,Kirklees
+Team Sports,Hockey,Ice Skates,Web,Brazil,São Paulo,Eduardo Guimarães,Level 2 Sales Representative,Defective product,2011-01-30,10,Knowsley
+Team Sports,Hockey,Ice Skates,Web,Spain,Bilbao,Yolanda Torres,Level 3 Sales Representative,Wrong product shipped,2010-07-06,22,Lambeth
+Team Sports,Hockey,Ice Skates,Web,United Kingdom,London,James Ross-Hythe,Level 3 Sales Representative,Wrong product shipped,2010-03-25,28,Lancashire
+Team Sports,Hockey,Ice Skates,Web,United States,Los Angeles,Valerie Cohen,Level 2 Sales Representative,Defective product,2010-07-21,2,Larne
+Team Sports,Hockey,Pucks/Balls,Catalog,Austria,Wien,Willi Seefelder,Level 2 Sales Representative,Wrong product shipped,2010-09-22,64,Leeds
+Team Sports,Hockey,Pucks/Balls,Catalog,France,Lyon,Daniel Turpin,Level 2 Sales Representative,Unsatisfactory product,2009-04-07,194,Leicester
+Team Sports,Hockey,Pucks/Balls,Store,Austria,Wien,Willi Seefelder,Level 2 Sales Representative,Defective product,2010-08-15,8,Leicestershire
+Team Sports,Hockey,Pucks/Balls,Store,Belgium,Heverlee,Yvette Lattrez,Level 3 Sales Representative,Defective product,2011-08-29,6,Lewisham
+Team Sports,Hockey,Pucks/Balls,Store,Netherlands,Amsterdam,Maria Laponder,Level 3 Sales Representative,Wrong product ordered,2011-10-20,172,Limavady
+Team Sports,Hockey,Pucks/Balls,Store,Spain,Bilbao,Yolanda Torres,Level 3 Sales Representative,Defective product,2011-08-15,4,Lincolnshire
+Team Sports,Hockey,Pucks/Balls,Store,Sweden,Kista,Bengt Gradin,Level 1 Sales Representative,Defective product,2010-12-19,6,Lisburn
+Team Sports,Hockey,Pucks/Balls,Store,Sweden,Kista,Bengt Gradin,Level 1 Sales Representative,Incomplete product,2010-04-12,78,Liverpool
+Team Sports,Hockey,Pucks/Balls,Store,Sweden,Kista,Irene Engelbrektsson,Level 2 Sales Representative,Incomplete product,2009-04-17,4,Luton
+Team Sports,Hockey,Pucks/Balls,Store,Sweden,Kista,Irene Engelbrektsson,Level 2 Sales Representative,Incomplete product,2010-01-23,80,Magherafelt
+Team Sports,Hockey,Pucks/Balls,Store,United States,Los Angeles,Janice Thomas,Level 1 Sales Representative,Incomplete product,2009-05-25,6,Manchester
+Team Sports,Hockey,Pucks/Balls,Store,United States,Los Angeles,Lowell Johnson,Level 2 Sales Representative,Incomplete product,2010-04-10,52,Medway
+Team Sports,Hockey,Pucks/Balls,Web,Brazil,São Paulo,Eduardo Guimarães,Level 2 Sales Representative,Incomplete product,2009-11-16,252,Merseyside
+Team Sports,Hockey,Pucks/Balls,Web,Mexico,Distrito Federal,Gabriela Rojas,Level 2 Sales Representative,Incomplete product,2010-01-02,68,Merthyr Tydfil
+Team Sports,Hockey,Pucks/Balls,Web,United States,Boston,Pierre Lavoie,Level 3 Sales Representative,Defective product,2010-06-14,2,Merton
+Team Sports,Hockey,Pucks/Balls,Web,United States,Boston,Rhonda Cummings,Level 2 Sales Representative,Defective product,2011-12-11,4,Middlesbrough
+Team Sports,Hockey,Roller Hockey Apparel,Catalog,Sweden,Kista,Anders Nilsson,Level 2 Sales Representative,Defective product,2010-05-18,2,Midlothian
+Team Sports,Hockey,Roller Hockey Apparel,Store,Canada,Toronto,Carole Claudel,Level 2 Sales Representative,Unsatisfactory product,2010-01-08,88,Milton Keynes
+Team Sports,Hockey,Roller Hockey Apparel,Store,Italy,Milano,Alessandra Torta,Level 3 Sales Representative,Defective product,2010-05-18,2,Monmouthshire
+Team Sports,Hockey,Roller Hockey Apparel,Store,Netherlands,Amsterdam,Maria Laponder,Level 3 Sales Representative,Defective product,2011-05-16,8,Moray
+Team Sports,Hockey,Roller Hockey Apparel,Store,Sweden,Kista,Irene Engelbrektsson,Level 2 Sales Representative,Defective product,2009-07-02,2,Moyle
+Team Sports,Hockey,Roller Hockey Apparel,Store,Sweden,Kista,Irene Engelbrektsson,Level 2 Sales Representative,Defective product,2011-09-09,2,Neath Port Talbot
+Team Sports,Hockey,Roller Hockey Apparel,Store,United Kingdom,London,James Ross-Hythe,Level 3 Sales Representative,Incomplete product,2010-06-08,4,Newcastle upon Tyne
+Team Sports,Hockey,Roller Hockey Apparel,Store,United Kingdom,London,James Ross-Hythe,Level 3 Sales Representative,Incomplete product,2011-11-26,4,Newham
+Team Sports,Hockey,Roller Hockey Apparel,Web,Canada,Toronto,Brendon Pike,Level 1 Sales Representative,Defective product,2010-12-02,24,Newport
+Team Sports,Hockey,Roller Hockey Apparel,Web,Finland,Kuopio,Helena Lindholm,Level 3 Sales Representative,Unsatisfactory product,2010-04-03,48,Newry and Mourne
+Team Sports,Hockey,Roller Hockey Apparel,Web,Sweden,Kista,Bengt Gradin,Level 1 Sales Representative,Incomplete product,2010-05-11,2,Newtownabbey
+Team Sports,Hockey,Roller Hockey Equipment,Store,Canada,Toronto,Donald Chow,Level 3 Sales Representative,Defective product,2009-03-11,8,Norfolk
+Team Sports,Hockey,Roller Hockey Equipment,Store,Germany,Hamburg,Gunter Erler,Level 2 Sales Representative,Incomplete product,2011-11-25,4,North Ayshire
+Team Sports,Hockey,Roller Hockey Equipment,Store,Mexico,Distrito Federal,Ana Orozco,Level 2 Sales Representative,Incomplete product,2009-03-01,2,North Down
+Team Sports,Hockey,Roller Hockey Equipment,Store,United Kingdom,London,James Ross-Hythe,Level 3 Sales Representative,Defective product,2011-11-17,2,North East Lincolnshire
+Team Sports,Hockey,Roller Hockey Equipment,Web,Australia,Melbourne,John Sinden,Level 3 Sales Representative,Incomplete product,2011-06-11,10,North Lanarkshire
+Team Sports,Hockey,Roller Hockey Equipment,Web,Canada,Toronto,Donald Chow,Level 3 Sales Representative,Wrong product ordered,2011-09-03,90,North Lincolnshire
+Team Sports,Hockey,Roller Hockey Goals and Nets,Catalog,Germany,Hamburg,Elsbeth Wiesinger,Level 2 Sales Representative,Unsatisfactory product,2009-12-03,66,North Somerset
+Team Sports,Hockey,Roller Hockey Goals and Nets,Store,Austria,Wien,Sabine Grüner,Level 3 Sales Representative,Defective product,2010-07-07,4,North Tyneside
+Team Sports,Hockey,Roller Hockey Goals and Nets,Store,Belgium,Heverlee,Giele Laermans,Level 1 Sales Representative,Incomplete product,2010-05-19,2,North Yorkshire
+Team Sports,Hockey,Roller Hockey Goals and Nets,Web,Australia,Melbourne,Jake Cartel,Level 2 Sales Representative,Incomplete product,2011-05-26,2,Northamptonshire
+Team Sports,Hockey,Roller Hockey Goals and Nets,Web,United Kingdom,Birmingham,Keith Reed,Level 1 Sales Representative,Unsatisfactory product,2011-10-18,38,Northumberland
+Team Sports,Hockey,Roller Hockey Sticks,Catalog,Australia,Melbourne,John Sinden,Level 3 Sales Representative,Incomplete product,2010-11-27,2,Nottingham
+Team Sports,Hockey,Roller Hockey Sticks,Catalog,Austria,Wien,Sabine Grüner,Level 3 Sales Representative,Defective product,2010-07-09,2,Nottinghamshire
+Team Sports,Hockey,Roller Hockey Sticks,Store,Belgium,Heverlee,Yvette Lattrez,Level 3 Sales Representative,Incomplete product,2011-06-07,4,Oldham
+Team Sports,Hockey,Roller Hockey Sticks,Store,Mexico,Distrito Federal,Ana Orozco,Level 2 Sales Representative,Wrong product ordered,2010-04-06,48,Omagh
+Team Sports,Hockey,Roller Hockey Sticks,Store,Mexico,Distrito Federal,Gabriela Rojas,Level 2 Sales Representative,Defective product,2011-11-07,4,Orkney
+Team Sports,Hockey,Roller Hockey Sticks,Store,Netherlands,Amsterdam,Ellen Shapiro,Level 2 Sales Representative,Defective product,2011-08-31,6,Oxfordshire
+Team Sports,Hockey,Roller Hockey Sticks,Store,Spain,Bilbao,Yolanda Torres,Level 3 Sales Representative,Wrong product shipped,2009-06-02,42,Pembrokeshire
+Team Sports,Hockey,Roller Hockey Sticks,Store,United States,Los Angeles,Dale Fowler,Level 2 Sales Representative,Defective product,2009-07-03,4,Perthshire and Kinross
+Team Sports,Hockey,Roller Hockey Sticks,Store,United States,Los Angeles,Dale Fowler,Level 2 Sales Representative,Wrong product shipped,2010-10-26,56,Peterborough
+Team Sports,Hockey,Roller Hockey Sticks,Store,United States,Los Angeles,Lowell Johnson,Level 2 Sales Representative,Defective product,2009-10-27,4,Plymouth
+Team Sports,Hockey,Roller Hockey Sticks,Web,France,Paris,Élizabeth Michel,Level 3 Sales Representative,Incomplete product,2010-04-06,14,Poole
+Team Sports,Hockey,Roller Hockey Sticks,Web,Spain,Bilbao,Yolanda Torres,Level 3 Sales Representative,Unsatisfactory product,2011-08-11,40,Portsmouth
+Team Sports,Hockey,Roller Hockey Sticks,Web,Sweden,Kista,Anders Nilsson,Level 2 Sales Representative,Unsatisfactory product,2011-12-20,90,Powys
+Team Sports,Hockey,Roller Hockey Sticks,Web,United States,Boston,Pierre Lavoie,Level 3 Sales Representative,Defective product,2009-06-03,2,Reading
+Team Sports,Hockey,Roller Hockey Sticks,Web,United States,Boston,Pierre Lavoie,Level 3 Sales Representative,Unsatisfactory product,2010-11-23,1,Redbridge
+Team Sports,Hockey,Roller Hockey Sticks,Web,United States,Boston,Pierre Lavoie,Level 3 Sales Representative,Unsatisfactory product,2010-12-07,16,Redcar and Cleveland
+Team Sports,Hockey,Roller/Street Hockey Skates,Catalog,France,Paris,Étienne Jauvin,Level 2 Sales Representative,Defective product,2009-10-22,6,Renfrewshire
+Team Sports,Hockey,Roller/Street Hockey Skates,Store,Germany,München,Björn Winkler,Level 3 Sales Representative,Defective product,2011-11-10,2,Rhondda Cynon Taff
+Team Sports,Hockey,Roller/Street Hockey Skates,Store,Mexico,Distrito Federal,Ana Orozco,Level 2 Sales Representative,Defective product,2011-07-25,2,Richmond upon Thames
+Team Sports,Hockey,Roller/Street Hockey Skates,Store,Mexico,Distrito Federal,Ana Orozco,Level 2 Sales Representative,Incomplete product,2010-09-06,2,Rochdale
+Team Sports,Hockey,Roller/Street Hockey Skates,Store,Sweden,Kista,Irene Engelbrektsson,Level 2 Sales Representative,Incomplete product,2010-10-05,2,Rotherham
+Team Sports,Hockey,Roller/Street Hockey Skates,Web,Brazil,São Paulo,Eduardo Guimarães,Level 2 Sales Representative,Incomplete product,2011-02-04,8,Royal Borough of Windsor and Maidenhead
+Team Sports,Hockey,Roller/Street Hockey Skates,Web,Canada,Toronto,Donald Chow,Level 3 Sales Representative,Incomplete product,2010-04-17,12,Rutland
+Team Sports,Hockey,Roller/Street Hockey Skates,Web,Canada,Toronto,Donald Chow,Level 3 Sales Representative,Incomplete product,2011-07-27,6,Salford
+Team Sports,Soccer,Goalie Gear,Catalog,Sweden,Kista,Bengt Gradin,Level 1 Sales Representative,Wrong product shipped,2010-12-12,44,Sandwell
+Team Sports,Soccer,Goalie Gear,Store,Brazil,São Paulo,Eduardo Guimarães,Level 2 Sales Representative,Defective product,2011-01-04,20,Scottish Borders
+Team Sports,Soccer,Goalie Gear,Store,Germany,Hamburg,Elsbeth Wiesinger,Level 2 Sales Representative,Defective product,2009-06-16,4,Sefton
+Team Sports,Soccer,Goalie Gear,Store,Italy,Milano,Silvano Allessori,Level 2 Sales Representative,Incomplete product,2009-12-03,2,Sheffield
+Team Sports,Soccer,Goalie Gear,Store,United States,Boston,Allisia Wilcox,Level 2 Sales Representative,Wrong product ordered,2011-11-13,34,Shetland Islands
+Team Sports,Soccer,Goalie Gear,Web,France,Lyon,Florence Martin,Level 2 Sales Representative,Incomplete product,2010-09-10,2,Shropshire
+Team Sports,Soccer,Goalie Gear,Web,United Kingdom,London,James Ross-Hythe,Level 3 Sales Representative,Incomplete product,2010-01-07,2,Slough
+Team Sports,Soccer,Goalie Gear,Web,United States,Boston,Pierre Lavoie,Level 3 Sales Representative,Unsatisfactory product,2010-04-26,32,Solihull
+Team Sports,Soccer,Goals and Nets,Store,Belgium,Heverlee,Giele Laermans,Level 1 Sales Representative,Unsatisfactory product,2010-09-03,82,Somerset
+Team Sports,Soccer,Goals and Nets,Store,Canada,Toronto,Donald Chow,Level 3 Sales Representative,Wrong product ordered,2010-09-25,388,South Ayrshire
+Team Sports,Soccer,Goals and Nets,Store,Spain,Bilbao,Tomás Iglesias,Level 2 Sales Representative,Unsatisfactory product,2010-07-06,64,South Gloucestershire
+Team Sports,Soccer,Goals and Nets,Store,United States,Boston,Pierre Lavoie,Level 3 Sales Representative,Defective product,2011-06-06,12,South Lanarkshire
+Team Sports,Soccer,Goals and Nets,Web,Germany,Hamburg,Gunter Erler,Level 2 Sales Representative,Defective product,2010-04-26,12,South Tyneside
+Team Sports,Soccer,Goals and Nets,Web,Sweden,Kista,Irene Engelbrektsson,Level 2 Sales Representative,Defective product,2010-09-07,8,Southampton
+Team Sports,Soccer,Goals and Nets,Web,United Kingdom,London,James Ross-Hythe,Level 3 Sales Representative,Unsatisfactory product,2011-06-15,108,Southend-on-Sea
+Team Sports,Soccer,Goals and Nets,Web,United States,Seattle,Ashley McCormick,Level 2 Sales Representative,Unsatisfactory product,2009-10-28,112,Southwark
+Team Sports,Soccer,Shin Guards,Store,Brazil,São Paulo,Eduardo Guimarães,Level 2 Sales Representative,Incomplete product,2011-03-28,10,Staffordshire
+Team Sports,Soccer,Shin Guards,Store,Spain,Bilbao,Tomás Iglesias,Level 2 Sales Representative,Incomplete product,2009-10-19,4,Stirling
+Team Sports,Soccer,Shin Guards,Store,Sweden,Kista,Bengt Gradin,Level 1 Sales Representative,Incomplete product,2010-09-29,4,Stockport
+Team Sports,Soccer,Shin Guards,Store,Sweden,Kista,Irene Engelbrektsson,Level 2 Sales Representative,Defective product,2010-05-21,2,Stockton-on-Tees
+Team Sports,Soccer,Shin Guards,Store,Switzerland,Zürich,Gianni Vertemati,Level 1 Sales Representative,Incomplete product,2011-05-29,4,Stoke-on-Trent
+Team Sports,Soccer,Shin Guards,Store,United States,Seattle,Audrey Lastman,Level 3 Sales Representative,Wrong product ordered,2010-04-10,28,Strabane
+Team Sports,Soccer,Shin Guards,Web,Brazil,São Paulo,Eduardo Guimarães,Level 2 Sales Representative,Defective product,2009-02-10,2,Suffolk
+Team Sports,Soccer,Shin Guards,Web,Italy,Milano,Silvano Allessori,Level 2 Sales Representative,Unsatisfactory product,2011-07-27,36,Sunderland
+Team Sports,Soccer,Shin Guards,Web,Switzerland,Zürich,Gianni Vertemati,Level 1 Sales Representative,Defective product,2011-09-18,4,Surrey
+Team Sports,Soccer,Soccer Apparel,Store,Canada,Toronto,Brendon Pike,Level 1 Sales Representative,Defective product,2010-08-19,8,Sutton
+Team Sports,Soccer,Soccer Apparel,Store,Canada,Toronto,Donald Chow,Level 3 Sales Representative,Unsatisfactory product,2011-01-03,32,Swansea
+Team Sports,Soccer,Soccer Apparel,Store,France,Paris,Élizabeth Michel,Level 3 Sales Representative,Wrong product shipped,2010-08-04,18,Swindon
+Team Sports,Soccer,Soccer Apparel,Store,Spain,Bilbao,Yolanda Torres,Level 3 Sales Representative,Defective product,2009-11-09,2,Tameside
+Team Sports,Soccer,Soccer Apparel,Store,Spain,Bilbao,Yolanda Torres,Level 3 Sales Representative,Wrong product shipped,2010-08-09,16,Telford and Wrekin
+Team Sports,Soccer,Soccer Apparel,Store,Sweden,Kista,Anders Nilsson,Level 2 Sales Representative,Unsatisfactory product,2011-08-24,24,Thurrock
+Team Sports,Soccer,Soccer Apparel,Store,Switzerland,Zürich,Frank Jever,Level 3 Sales Representative,Wrong product shipped,2011-10-20,38,Torbay
+Team Sports,Soccer,Soccer Apparel,Store,Switzerland,Zürich,Susanne Sommer,Level 2 Sales Representative,Incomplete product,2010-10-10,2,Torfaen
+Team Sports,Soccer,Soccer Apparel,Store,United States,Miami,Chad Michaels,Level 3 Sales Representative,Defective product,2009-04-07,2,Tower Hamlets
+Team Sports,Soccer,Soccer Apparel,Web,Germany,Hamburg,Elsbeth Wiesinger,Level 2 Sales Representative,Unsatisfactory product,2011-09-01,70,Trafford
+Team Sports,Soccer,Soccer Apparel,Web,Germany,München,Björn Winkler,Level 3 Sales Representative,Defective product,2011-10-24,2,Vale of Glamorgan
+Team Sports,Soccer,Soccer Balls,Store,Australia,Melbourne,Dave Smythe,Level 1 Sales Representative,Defective product,2011-05-17,8,Wakefield
+Team Sports,Soccer,Soccer Balls,Store,Belgium,Heverlee,Yvette Lattrez,Level 3 Sales Representative,Defective product,2011-07-19,4,Walsall
+Team Sports,Soccer,Soccer Balls,Store,Canada,Toronto,Donald Chow,Level 3 Sales Representative,Unsatisfactory product,2009-06-08,154,Waltham Forest
+Team Sports,Soccer,Soccer Balls,Store,Netherlands,Amsterdam,Maria Laponder,Level 3 Sales Representative,Defective product,2011-11-11,2,Wandsworth
+Team Sports,Soccer,Soccer Balls,Web,Italy,Milano,Alessandra Torta,Level 3 Sales Representative,Wrong product ordered,2010-12-14,34,Warrington
+Team Sports,Soccer,Soccer Balls,Web,Netherlands,Amsterdam,Jan Haverkamp,Level 2 Sales Representative,Defective product,2011-08-09,2,Warwickshire
+Team Sports,Soccer,Soccer Balls,Web,Sweden,Kista,Anders Nilsson,Level 2 Sales Representative,Incomplete product,2011-10-14,2,West Berkshire
+Team Sports,Soccer,Soccer Balls,Web,Switzerland,Zürich,Gianni Vertemati,Level 1 Sales Representative,Incomplete product,2011-07-19,4,West Dunbartonshire
+Team Sports,Soccer,Soccer Balls,Web,United States,Boston,Eric Carson,Level 2 Sales Representative,Incomplete product,2011-04-27,2,West Lothian
+Team Sports,Soccer,Soccer Balls,Web,United States,Boston,Pierre Lavoie,Level 3 Sales Representative,Wrong product ordered,2009-06-24,40,West Sussex
+Team Sports,Soccer,Soccer Balls,Web,United States,Los Angeles,Lowell Johnson,Level 2 Sales Representative,Defective product,2010-04-11,2,Westminster
+Team Sports,Soccer,Soccer Balls,Web,United States,Seattle,Ashley McCormick,Level 2 Sales Representative,Defective product,2011-04-19,2,Wigan
+Team Sports,Soccer,Soccer Cleats,Store,Canada,Toronto,Samantha Pierce,Level 2 Sales Representative,Defective product,2009-01-22,4,Wiltshire
+Team Sports,Soccer,Soccer Cleats,Store,Finland,Kuopio,Helena Lindholm,Level 3 Sales Representative,Defective product,2010-11-16,2,Wirral
+Team Sports,Soccer,Soccer Cleats,Store,Germany,Hamburg,Elsbeth Wiesinger,Level 2 Sales Representative,Defective product,2011-02-16,8,Wokingham
+Team Sports,Soccer,Soccer Cleats,Store,Sweden,Kista,Anders Nilsson,Level 2 Sales Representative,Wrong product ordered,2011-04-12,24,Wolverhampton
+Team Sports,Soccer,Soccer Cleats,Store,United States,Los Angeles,Lowell Johnson,Level 2 Sales Representative,Incomplete product,2010-06-11,2,Worcestershire
+Team Sports,Soccer,Soccer Cleats,Web,Canada,Toronto,Brendon Pike,Level 1 Sales Representative,Wrong product ordered,2011-11-27,48,Wrexham
+Team Sports,Soccer,Soccer Cleats,Web,United States,Los Angeles,Lowell Johnson,Level 2 Sales Representative,Defective product,2010-09-13,2,York
+Team Sports,Soccer,Soccer Cleats,Web,United States,Los Angeles,Margaret Lewiston,Level 2 Sales Representative,Unsatisfactory product,2011-07-15,18,Aberdeen
